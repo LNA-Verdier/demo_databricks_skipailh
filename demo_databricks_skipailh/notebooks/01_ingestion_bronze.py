@@ -11,6 +11,9 @@
 # COMMAND ----------
 
 dbutils.widgets.text("catalog", "skipailh_demo", "Catalogue")
+# "oui" pendant la démo pour simuler l'arrivée des ventes du 01/01/2026 (partie 4) ; "non" en job planifié
+dbutils.widgets.dropdown("simuler_j_plus_1", "non", ["non", "oui"], "Simuler J+1")
+SIMULER_J1 = dbutils.widgets.get("simuler_j_plus_1") == "oui"
 CATALOG = dbutils.widgets.get("catalog")
 spark.sql(f"USE CATALOG {CATALOG}")
 RAW = f"/Volumes/{CATALOG}/landing/raw"
@@ -92,31 +95,45 @@ autoload("sales_lines", "sales_lines")
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## 3. 🎬 Moment démo : « les ventes du 1er janvier arrivent »
-# MAGIC On dépose les fichiers du lendemain dans les dossiers surveillés, puis on **relance la cellule précédente** (ou ci-dessous).
+# MAGIC ## 3. Même chose en SQL
+# MAGIC Pour les profils SQL : `read_files` (lecture directe d'un fichier) ou `COPY INTO` (idempotent : un fichier n'est chargé qu'une fois).
+
+# COMMAND ----------
+
+display(spark.sql(f"""
+  SELECT store_id, store_name, city, region
+  FROM read_files('{RAW}/commerce/stores.csv', format => 'csv', header => true)
+  LIMIT 5
+"""))
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ## 4. 🎬 Moment démo : « les ventes du 1er janvier arrivent »
+# MAGIC 1. Passer le widget **Simuler J+1** (en haut) à `oui`
+# MAGIC 2. Exécuter les deux cellules ci-dessous
 # MAGIC
 # MAGIC À faire remarquer :
 # MAGIC - seules **les nouvelles lignes** sont ingérées (pas de re-lecture de l'historique) ;
 # MAGIC - le fichier de lignes contient une **nouvelle colonne `loyalty_points`** → ajoutée automatiquement à la table.
+# MAGIC
+# MAGIC Avec le widget à `non` (valeur par défaut, et valeur utilisée par le job), ces cellules ne font rien.
 
 # COMMAND ----------
 
-# Garde-fou : passer le widget à "oui" pendant la démo (reste à "non" quand le notebook tourne dans un job)
-dbutils.widgets.dropdown("simuler_j_plus_1", "non", ["non", "oui"], "Simuler J+1")
-if dbutils.widgets.get("simuler_j_plus_1") != "oui":
-    dbutils.notebook.exit("Simulation J+1 non demandée — fin du notebook")
+SIMULER_J1 = dbutils.widgets.get("simuler_j_plus_1") == "oui"   # relu ici si le widget a été changé après le 1er lancement
 
-before = {t: spark.table(f"bronze.{t}").count() for t in ["sales_tickets", "sales_lines"]}
-
-for name in ["sales_tickets", "sales_lines"]:
-    dbutils.fs.cp(f"{RAW}/commerce/incremental/{name}_2026-01-01.csv",
-                  f"{RAW}/stream/{name}/{name}_2026-01-01.csv")
-
-autoload("sales_tickets", "sales_tickets")
-autoload("sales_lines", "sales_lines")
-
-for t, n in before.items():
-    print(f"{t}: {n:,} → {spark.table(f'bronze.{t}').count():,} lignes")
+if SIMULER_J1:
+    before = {t: spark.table(f"bronze.{t}").count() for t in ["sales_tickets", "sales_lines"]}
+    for name in ["sales_tickets", "sales_lines"]:
+        dbutils.fs.cp(f"{RAW}/commerce/incremental/{name}_2026-01-01.csv",
+                      f"{RAW}/stream/{name}/{name}_2026-01-01.csv")
+    autoload("sales_tickets", "sales_tickets")
+    autoload("sales_lines", "sales_lines")
+    for t, n in before.items():
+        print(f"{t}: {n:,} → {spark.table(f'bronze.{t}').count():,} lignes (+{spark.table(f'bronze.{t}').count() - n:,})")
+else:
+    print("ℹ️ Simulation J+1 désactivée : passer le widget « Simuler J+1 » à « oui » puis relancer cette cellule.")
 
 # COMMAND ----------
 
@@ -125,19 +142,9 @@ for t, n in before.items():
 
 # COMMAND ----------
 
-display(spark.table("bronze.sales_lines")
-        .groupBy(F.col("loyalty_points").isNotNull().alias("a_des_points"))
-        .agg(F.count("*").alias("nb_lignes"), F.min("_source_file").alias("exemple_fichier")))
-
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 4. Même chose en SQL
-# MAGIC Pour les profils SQL : `read_files` + `CREATE TABLE AS`, ou `COPY INTO` (idempotent : un fichier n'est chargé qu'une fois).
-
-# COMMAND ----------
-
-# MAGIC %sql
-# MAGIC SELECT store_id, store_name, city, region
-# MAGIC FROM read_files('/Volumes/skipailh_demo/landing/raw/commerce/stores.csv', format => 'csv', header => true)
-# MAGIC LIMIT 5
+if "loyalty_points" in spark.table("bronze.sales_lines").columns:
+    display(spark.table("bronze.sales_lines")
+            .groupBy(F.col("loyalty_points").isNotNull().alias("a_des_points"))
+            .agg(F.count("*").alias("nb_lignes"), F.max("_source_file").alias("exemple_fichier")))
+else:
+    print("ℹ️ Colonne loyalty_points pas encore présente : jouer d'abord la simulation J+1.")

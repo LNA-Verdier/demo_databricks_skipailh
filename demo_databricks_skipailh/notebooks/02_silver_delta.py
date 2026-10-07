@@ -10,6 +10,8 @@
 # COMMAND ----------
 
 dbutils.widgets.text("catalog", "skipailh_demo", "Catalogue")
+# Partie 4 (démo Delta) : "oui" en démo, "non" quand le notebook tourne dans le job quotidien
+dbutils.widgets.dropdown("demo_delta", "oui", ["oui", "non"], "Démo Delta")
 CATALOG = dbutils.widgets.get("catalog")
 spark.sql(f"USE CATALOG {CATALOG}")
 
@@ -131,8 +133,7 @@ else:
 rejected.write.mode("overwrite").saveAsTable("silver.sales_quarantine")
 print(f"silver.sales : {spark.table('silver.sales').count():,} lignes")
 
-# Les cellules suivantes sont pédagogiques : on les saute quand le notebook tourne dans un job
-dbutils.widgets.dropdown("demo_delta", "oui", ["oui", "non"], "Démo Delta")
+# Fin du traitement "production". La partie 4 est pédagogique : en job (demo_delta = non) on s'arrête ici.
 if dbutils.widgets.get("demo_delta") != "oui":
     dbutils.notebook.exit("Silver à jour (démo Delta ignorée)")
 
@@ -144,11 +145,21 @@ if dbutils.widgets.get("demo_delta") != "oui":
 
 # COMMAND ----------
 
+# On prend une vraie ligne de vente et on la "corrompt" avec une quantité négative
+ligne_invalide = (spark.table("silver.sales").limit(1)
+                  .withColumn("ticket_id", F.lit("TEST-CONTRAINTE"))
+                  .withColumn("quantity", F.lit(-5)))
 try:
-    spark.sql("""INSERT INTO silver.sales (ticket_id, line_number, quantity, revenue)
-                 VALUES ('TEST', 1, -5, 10.0)""")
+    ligne_invalide.write.mode("append").saveAsTable("silver.sales")
+    print("⚠️ Insertion acceptée : la contrainte n'existe pas ?")
 except Exception as e:
-    print("❌ Insertion refusée :", str(e).split("\n")[0][:200])
+    msg = str(e)
+    if "CHECK" in msg.upper() or "CONSTRAINT" in msg.upper():
+        print("❌ Insertion refusée par la contrainte quantite_positive : la table reste propre.")
+    else:
+        print("Erreur inattendue :", msg[:300])
+
+print("Lignes TEST en base :", spark.table("silver.sales").filter("ticket_id = 'TEST-CONTRAINTE'").count())
 
 # COMMAND ----------
 
