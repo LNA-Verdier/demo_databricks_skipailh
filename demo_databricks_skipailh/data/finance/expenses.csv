@@ -1,0 +1,2161 @@
+expense_id,store_id,expense_month,expense_category,amount_eur,supplier
+X000001,S01,2024-01-01,Masse salariale,151900.3,Interne
+X000002,S01,2024-01-01,Loyer,74471.24,Fournisseur B
+X000003,S01,2024-01-01,Énergie,13098.03,Fournisseur B
+X000004,S01,2024-01-01,Marketing,7476.39,Fournisseur C
+X000005,S01,2024-01-01,Maintenance,1174.44,Fournisseur A
+X000006,S01,2024-01-01,Transport & logistique,12761.71,Interne
+X000007,S01,2024-02-01,Masse salariale,148605.75,Interne
+X000008,S01,2024-02-01,Loyer,75134.92,Fournisseur C
+X000009,S01,2024-02-01,Énergie,12657.94,Fournisseur B
+X000010,S01,2024-02-01,Marketing,6109.8,Fournisseur B
+X000011,S01,2024-02-01,Maintenance,3292.02,Fournisseur C
+X000012,S01,2024-02-01,Transport & logistique,4777.98,Interne
+X000013,S01,2024-03-01,Masse salariale,148100.91,Fournisseur A
+X000014,S01,2024-03-01,Loyer,75171.49,Fournisseur B
+X000015,S01,2024-03-01,Énergie,9619.96,Fournisseur A
+X000016,S01,2024-03-01,Marketing,4964.82,Fournisseur B
+X000017,S01,2024-03-01,Maintenance,2952.05,Fournisseur A
+X000018,S01,2024-03-01,Transport & logistique,13005.47,Interne
+X000019,S01,2024-04-01,Masse salariale,149109.68,Fournisseur C
+X000020,S01,2024-04-01,Loyer,72887.12,Fournisseur A
+X000021,S01,2024-04-01,Énergie,9547.71,Fournisseur B
+X000022,S01,2024-04-01,Marketing,8155.0,Fournisseur A
+X000023,S01,2024-04-01,Maintenance,3036.93,Fournisseur C
+X000024,S01,2024-04-01,Transport & logistique,9555.48,Fournisseur C
+X000025,S01,2024-05-01,Masse salariale,157872.75,Interne
+X000026,S01,2024-05-01,Loyer,77184.87,Fournisseur B
+X000027,S01,2024-05-01,Énergie,8910.51,Fournisseur C
+X000028,S01,2024-05-01,Marketing,4801.58,Fournisseur B
+X000029,S01,2024-05-01,Maintenance,2025.35,Interne
+X000030,S01,2024-05-01,Transport & logistique,11477.89,Fournisseur C
+X000031,S01,2024-06-01,Masse salariale,159820.62,Fournisseur A
+X000032,S01,2024-06-01,Loyer,72873.43,Fournisseur A
+X000033,S01,2024-06-01,Énergie,9412.29,Fournisseur B
+X000034,S01,2024-06-01,Marketing,5176.96,Fournisseur C
+X000035,S01,2024-06-01,Maintenance,1924.87,Interne
+X000036,S01,2024-06-01,Transport & logistique,12435.68,Interne
+X000037,S01,2024-07-01,Masse salariale,152894.62,Fournisseur C
+X000038,S01,2024-07-01,Loyer,79268.32,Fournisseur A
+X000039,S01,2024-07-01,Énergie,8800.48,Fournisseur B
+X000040,S01,2024-07-01,Marketing,11465.37,Fournisseur C
+X000041,S01,2024-07-01,Maintenance,2134.78,Fournisseur C
+X000042,S01,2024-07-01,Transport & logistique,6397.11,Interne
+X000043,S01,2024-08-01,Masse salariale,160376.73,Interne
+X000044,S01,2024-08-01,Loyer,75454.79,Fournisseur A
+X000045,S01,2024-08-01,Énergie,9179.59,Fournisseur B
+X000046,S01,2024-08-01,Marketing,10761.63,Fournisseur B
+X000047,S01,2024-08-01,Maintenance,1500.9,Interne
+X000048,S01,2024-08-01,Transport & logistique,6983.67,Fournisseur C
+X000049,S01,2024-09-01,Masse salariale,153443.19,Interne
+X000050,S01,2024-09-01,Loyer,72564.49,Interne
+X000051,S01,2024-09-01,Énergie,9356.24,Fournisseur A
+X000052,S01,2024-09-01,Marketing,3906.47,Fournisseur B
+X000053,S01,2024-09-01,Maintenance,1234.9,Interne
+X000054,S01,2024-09-01,Transport & logistique,13355.53,Fournisseur B
+X000055,S01,2024-10-01,Masse salariale,156784.66,Fournisseur B
+X000056,S01,2024-10-01,Loyer,72488.92,Fournisseur A
+X000057,S01,2024-10-01,Énergie,8977.8,Fournisseur C
+X000058,S01,2024-10-01,Marketing,10872.9,Fournisseur B
+X000059,S01,2024-10-01,Maintenance,1730.95,Fournisseur B
+X000060,S01,2024-10-01,Transport & logistique,8524.14,Fournisseur B
+X000061,S01,2024-11-01,Masse salariale,153284.53,Fournisseur A
+X000062,S01,2024-11-01,Loyer,79232.89,Interne
+X000063,S01,2024-11-01,Énergie,9620.95,Fournisseur A
+X000064,S01,2024-11-01,Marketing,20913.34,Fournisseur B
+X000065,S01,2024-11-01,Maintenance,1971.79,Fournisseur B
+X000066,S01,2024-11-01,Transport & logistique,11841.81,Fournisseur C
+X000067,S01,2024-12-01,Masse salariale,157420.59,Fournisseur B
+X000068,S01,2024-12-01,Loyer,73714.94,Fournisseur C
+X000069,S01,2024-12-01,Énergie,12987.66,Fournisseur C
+X000070,S01,2024-12-01,Marketing,10255.51,Fournisseur A
+X000071,S01,2024-12-01,Maintenance,3164.81,Fournisseur C
+X000072,S01,2024-12-01,Transport & logistique,8183.15,Fournisseur C
+X000073,S01,2025-01-01,Masse salariale,158093.93,Interne
+X000074,S01,2025-01-01,Loyer,78537.58,Fournisseur B
+X000075,S01,2025-01-01,Énergie,12821.91,Fournisseur C
+X000076,S01,2025-01-01,Marketing,12440.88,Fournisseur C
+X000077,S01,2025-01-01,Maintenance,3704.63,Fournisseur A
+X000078,S01,2025-01-01,Transport & logistique,5695.92,Fournisseur A
+X000079,S01,2025-02-01,Masse salariale,149302.79,Fournisseur A
+X000080,S01,2025-02-01,Loyer,77994.26,Interne
+X000081,S01,2025-02-01,Énergie,13008.42,Fournisseur A
+X000082,S01,2025-02-01,Marketing,5735.68,Fournisseur C
+X000083,S01,2025-02-01,Maintenance,2416.06,Interne
+X000084,S01,2025-02-01,Transport & logistique,4157.72,Interne
+X000085,S01,2025-03-01,Masse salariale,154144.48,Fournisseur A
+X000086,S01,2025-03-01,Loyer,73733.99,Fournisseur C
+X000087,S01,2025-03-01,Énergie,9186.78,Fournisseur B
+X000088,S01,2025-03-01,Marketing,5388.99,Fournisseur A
+X000089,S01,2025-03-01,Maintenance,3191.62,Fournisseur C
+X000090,S01,2025-03-01,Transport & logistique,6807.97,Fournisseur C
+X000091,S01,2025-04-01,Masse salariale,151124.25,Interne
+X000092,S01,2025-04-01,Loyer,73321.95,Fournisseur C
+X000093,S01,2025-04-01,Énergie,8827.56,Interne
+X000094,S01,2025-04-01,Marketing,8237.79,Fournisseur B
+X000095,S01,2025-04-01,Maintenance,3700.85,Fournisseur B
+X000096,S01,2025-04-01,Transport & logistique,13245.27,Fournisseur C
+X000097,S01,2025-05-01,Masse salariale,157008.06,Fournisseur A
+X000098,S01,2025-05-01,Loyer,75525.33,Fournisseur B
+X000099,S01,2025-05-01,Énergie,9187.38,Interne
+X000100,S01,2025-05-01,Marketing,4704.45,Fournisseur C
+X000101,S01,2025-05-01,Maintenance,847.0,Fournisseur B
+X000102,S01,2025-05-01,Transport & logistique,7227.62,Fournisseur B
+X000103,S01,2025-06-01,Masse salariale,157614.21,Interne
+X000104,S01,2025-06-01,Loyer,72650.7,Fournisseur A
+X000105,S01,2025-06-01,Énergie,9404.23,Interne
+X000106,S01,2025-06-01,Marketing,5037.72,Interne
+X000107,S01,2025-06-01,Maintenance,1291.93,Fournisseur B
+X000108,S01,2025-06-01,Transport & logistique,14653.19,Fournisseur B
+X000109,S01,2025-07-01,Masse salariale,159953.26,Fournisseur A
+X000110,S01,2025-07-01,Loyer,74701.17,Fournisseur B
+X000111,S01,2025-07-01,Énergie,9554.28,Fournisseur C
+X000112,S01,2025-07-01,Marketing,8925.07,Fournisseur C
+X000113,S01,2025-07-01,Maintenance,3274.18,Fournisseur C
+X000114,S01,2025-07-01,Transport & logistique,9723.65,Fournisseur B
+X000115,S01,2025-08-01,Masse salariale,146909.08,Fournisseur C
+X000116,S01,2025-08-01,Loyer,77995.83,Fournisseur C
+X000117,S01,2025-08-01,Énergie,9687.08,Fournisseur C
+X000118,S01,2025-08-01,Marketing,6304.44,Interne
+X000119,S01,2025-08-01,Maintenance,1303.1,Interne
+X000120,S01,2025-08-01,Transport & logistique,10843.83,Fournisseur A
+X000121,S01,2025-09-01,Masse salariale,154805.8,Interne
+X000122,S01,2025-09-01,Loyer,73880.79,Fournisseur B
+X000123,S01,2025-09-01,Énergie,9339.61,Fournisseur C
+X000124,S01,2025-09-01,Marketing,6786.32,Fournisseur C
+X000125,S01,2025-09-01,Maintenance,2486.2,Fournisseur C
+X000126,S01,2025-09-01,Transport & logistique,8699.72,Fournisseur B
+X000127,S01,2025-10-01,Masse salariale,150472.66,Interne
+X000128,S01,2025-10-01,Loyer,71842.12,Fournisseur B
+X000129,S01,2025-10-01,Énergie,9526.63,Interne
+X000130,S01,2025-10-01,Marketing,5304.67,Fournisseur A
+X000131,S01,2025-10-01,Maintenance,1469.28,Fournisseur A
+X000132,S01,2025-10-01,Transport & logistique,11448.19,Interne
+X000133,S01,2025-11-01,Masse salariale,154052.04,Interne
+X000134,S01,2025-11-01,Loyer,74966.23,Interne
+X000135,S01,2025-11-01,Énergie,9454.69,Fournisseur B
+X000136,S01,2025-11-01,Marketing,20903.55,Interne
+X000137,S01,2025-11-01,Maintenance,3961.14,Fournisseur B
+X000138,S01,2025-11-01,Transport & logistique,10896.07,Fournisseur B
+X000139,S01,2025-12-01,Masse salariale,151591.24,Interne
+X000140,S01,2025-12-01,Loyer,74538.8,Fournisseur B
+X000141,S01,2025-12-01,Énergie,12895.23,Fournisseur B
+X000142,S01,2025-12-01,Marketing,3899.46,Interne
+X000143,S01,2025-12-01,Maintenance,2114.63,Fournisseur C
+X000144,S01,2025-12-01,Transport & logistique,7082.65,Fournisseur A
+X000145,S02,2024-01-01,Masse salariale,100793.29,Interne
+X000146,S02,2024-01-01,Loyer,45542.79,Fournisseur A
+X000147,S02,2024-01-01,Énergie,7430.46,Fournisseur C
+X000148,S02,2024-01-01,Marketing,12014.75,Interne
+X000149,S02,2024-01-01,Maintenance,3606.1,Fournisseur B
+X000150,S02,2024-01-01,Transport & logistique,13958.52,Interne
+X000151,S02,2024-02-01,Masse salariale,98168.22,Fournisseur B
+X000152,S02,2024-02-01,Loyer,44593.17,Fournisseur C
+X000153,S02,2024-02-01,Énergie,7957.1,Fournisseur C
+X000154,S02,2024-02-01,Marketing,6864.92,Interne
+X000155,S02,2024-02-01,Maintenance,2561.2,Fournisseur C
+X000156,S02,2024-02-01,Transport & logistique,9695.31,Interne
+X000157,S02,2024-03-01,Masse salariale,92661.94,Fournisseur B
+X000158,S02,2024-03-01,Loyer,43423.7,Fournisseur C
+X000159,S02,2024-03-01,Énergie,5297.32,Fournisseur C
+X000160,S02,2024-03-01,Marketing,7451.0,Fournisseur C
+X000161,S02,2024-03-01,Maintenance,1158.0,Fournisseur B
+X000162,S02,2024-03-01,Transport & logistique,9798.56,Interne
+X000163,S02,2024-04-01,Masse salariale,97696.9,Fournisseur B
+X000164,S02,2024-04-01,Loyer,44469.46,Fournisseur C
+X000165,S02,2024-04-01,Énergie,5642.62,Fournisseur A
+X000166,S02,2024-04-01,Marketing,10536.72,Fournisseur C
+X000167,S02,2024-04-01,Maintenance,3466.6,Fournisseur B
+X000168,S02,2024-04-01,Transport & logistique,9984.97,Fournisseur C
+X000169,S02,2024-05-01,Masse salariale,96083.34,Fournisseur B
+X000170,S02,2024-05-01,Loyer,45199.42,Fournisseur B
+X000171,S02,2024-05-01,Énergie,5372.6,Fournisseur B
+X000172,S02,2024-05-01,Marketing,10790.61,Fournisseur C
+X000173,S02,2024-05-01,Maintenance,3490.13,Fournisseur C
+X000174,S02,2024-05-01,Transport & logistique,6142.8,Fournisseur B
+X000175,S02,2024-06-01,Masse salariale,99239.2,Fournisseur B
+X000176,S02,2024-06-01,Loyer,45022.38,Interne
+X000177,S02,2024-06-01,Énergie,5358.48,Fournisseur C
+X000178,S02,2024-06-01,Marketing,12010.23,Fournisseur A
+X000179,S02,2024-06-01,Maintenance,3341.49,Interne
+X000180,S02,2024-06-01,Transport & logistique,8754.35,Fournisseur B
+X000181,S02,2024-07-01,Masse salariale,98858.58,Fournisseur C
+X000182,S02,2024-07-01,Loyer,45372.45,Interne
+X000183,S02,2024-07-01,Énergie,5467.78,Interne
+X000184,S02,2024-07-01,Marketing,10569.26,Interne
+X000185,S02,2024-07-01,Maintenance,2457.47,Fournisseur C
+X000186,S02,2024-07-01,Transport & logistique,4986.48,Fournisseur C
+X000187,S02,2024-08-01,Masse salariale,97101.14,Fournisseur C
+X000188,S02,2024-08-01,Loyer,45527.66,Fournisseur A
+X000189,S02,2024-08-01,Énergie,5445.33,Fournisseur A
+X000190,S02,2024-08-01,Marketing,6114.9,Interne
+X000191,S02,2024-08-01,Maintenance,2611.73,Fournisseur A
+X000192,S02,2024-08-01,Transport & logistique,4648.93,Fournisseur B
+X000193,S02,2024-09-01,Masse salariale,98172.44,Fournisseur C
+X000194,S02,2024-09-01,Loyer,43070.4,Interne
+X000195,S02,2024-09-01,Énergie,5250.56,Fournisseur C
+X000196,S02,2024-09-01,Marketing,4438.93,Fournisseur B
+X000197,S02,2024-09-01,Maintenance,2981.07,Interne
+X000198,S02,2024-09-01,Transport & logistique,13276.95,Fournisseur B
+X000199,S02,2024-10-01,Masse salariale,95682.65,Fournisseur B
+X000200,S02,2024-10-01,Loyer,47109.36,Fournisseur B
+X000201,S02,2024-10-01,Énergie,5597.19,Fournisseur C
+X000202,S02,2024-10-01,Marketing,7306.75,Fournisseur B
+X000203,S02,2024-10-01,Maintenance,3239.19,Interne
+X000204,S02,2024-10-01,Transport & logistique,9938.06,Interne
+X000205,S02,2024-11-01,Masse salariale,100877.1,Fournisseur C
+X000206,S02,2024-11-01,Loyer,46394.95,Fournisseur C
+X000207,S02,2024-11-01,Énergie,5521.82,Fournisseur A
+X000208,S02,2024-11-01,Marketing,18060.52,Fournisseur A
+X000209,S02,2024-11-01,Maintenance,3200.77,Fournisseur C
+X000210,S02,2024-11-01,Transport & logistique,9968.28,Fournisseur A
+X000211,S02,2024-12-01,Masse salariale,93446.93,Fournisseur B
+X000212,S02,2024-12-01,Loyer,46316.09,Fournisseur C
+X000213,S02,2024-12-01,Énergie,7785.92,Fournisseur A
+X000214,S02,2024-12-01,Marketing,11029.81,Interne
+X000215,S02,2024-12-01,Maintenance,1015.6,Fournisseur C
+X000216,S02,2024-12-01,Transport & logistique,6526.78,Fournisseur A
+X000217,S02,2025-01-01,Masse salariale,98865.91,Fournisseur A
+X000218,S02,2025-01-01,Loyer,44422.59,Fournisseur A
+X000219,S02,2025-01-01,Énergie,7766.43,Fournisseur C
+X000220,S02,2025-01-01,Marketing,10872.82,Interne
+X000221,S02,2025-01-01,Maintenance,1517.19,Fournisseur A
+X000222,S02,2025-01-01,Transport & logistique,4950.74,Fournisseur A
+X000223,S02,2025-02-01,Masse salariale,101701.29,Fournisseur B
+X000224,S02,2025-02-01,Loyer,45389.2,Fournisseur A
+X000225,S02,2025-02-01,Énergie,7820.92,Fournisseur B
+X000226,S02,2025-02-01,Marketing,5797.23,Fournisseur A
+X000227,S02,2025-02-01,Maintenance,3024.29,Interne
+X000228,S02,2025-02-01,Transport & logistique,14593.26,Interne
+X000229,S02,2025-03-01,Masse salariale,96215.2,Fournisseur B
+X000230,S02,2025-03-01,Loyer,43064.93,Fournisseur A
+X000231,S02,2025-03-01,Énergie,5693.75,Interne
+X000232,S02,2025-03-01,Marketing,12033.5,Fournisseur B
+X000233,S02,2025-03-01,Maintenance,2709.01,Fournisseur A
+X000234,S02,2025-03-01,Transport & logistique,10449.19,Fournisseur C
+X000235,S02,2025-04-01,Masse salariale,92396.83,Fournisseur B
+X000236,S02,2025-04-01,Loyer,44272.66,Fournisseur B
+X000237,S02,2025-04-01,Énergie,5260.03,Fournisseur B
+X000238,S02,2025-04-01,Marketing,11086.57,Fournisseur B
+X000239,S02,2025-04-01,Maintenance,3194.81,Fournisseur C
+X000240,S02,2025-04-01,Transport & logistique,5989.13,Fournisseur A
+X000241,S02,2025-05-01,Masse salariale,97266.93,Fournisseur B
+X000242,S02,2025-05-01,Loyer,45730.66,Fournisseur B
+X000243,S02,2025-05-01,Énergie,5538.59,Fournisseur B
+X000244,S02,2025-05-01,Marketing,9268.44,Fournisseur C
+X000245,S02,2025-05-01,Maintenance,1493.58,Interne
+X000246,S02,2025-05-01,Transport & logistique,12584.01,Interne
+X000247,S02,2025-06-01,Masse salariale,98369.84,Fournisseur A
+X000248,S02,2025-06-01,Loyer,43454.31,Fournisseur A
+X000249,S02,2025-06-01,Énergie,5489.39,Fournisseur A
+X000250,S02,2025-06-01,Marketing,7606.97,Fournisseur A
+X000251,S02,2025-06-01,Maintenance,3077.42,Fournisseur A
+X000252,S02,2025-06-01,Transport & logistique,5245.11,Fournisseur C
+X000253,S02,2025-07-01,Masse salariale,97900.16,Fournisseur A
+X000254,S02,2025-07-01,Loyer,43575.72,Fournisseur A
+X000255,S02,2025-07-01,Énergie,5488.07,Fournisseur B
+X000256,S02,2025-07-01,Marketing,9228.78,Fournisseur C
+X000257,S02,2025-07-01,Maintenance,908.91,Fournisseur C
+X000258,S02,2025-07-01,Transport & logistique,7336.43,Fournisseur A
+X000259,S02,2025-08-01,Masse salariale,97376.61,Fournisseur B
+X000260,S02,2025-08-01,Loyer,45964.85,Fournisseur B
+X000261,S02,2025-08-01,Énergie,5511.65,Fournisseur B
+X000262,S02,2025-08-01,Marketing,9246.22,Fournisseur C
+X000263,S02,2025-08-01,Maintenance,3882.4,Fournisseur B
+X000264,S02,2025-08-01,Transport & logistique,8404.36,Fournisseur C
+X000265,S02,2025-09-01,Masse salariale,93917.87,Fournisseur A
+X000266,S02,2025-09-01,Loyer,44688.45,Interne
+X000267,S02,2025-09-01,Énergie,5642.11,Fournisseur B
+X000268,S02,2025-09-01,Marketing,10896.24,Interne
+X000269,S02,2025-09-01,Maintenance,2980.4,Fournisseur C
+X000270,S02,2025-09-01,Transport & logistique,11070.48,Fournisseur A
+X000271,S02,2025-10-01,Masse salariale,93275.74,Fournisseur A
+X000272,S02,2025-10-01,Loyer,44114.16,Fournisseur B
+X000273,S02,2025-10-01,Énergie,5710.48,Fournisseur B
+X000274,S02,2025-10-01,Marketing,8657.29,Fournisseur C
+X000275,S02,2025-10-01,Maintenance,880.55,Fournisseur A
+X000276,S02,2025-10-01,Transport & logistique,12488.18,Interne
+X000277,S02,2025-11-01,Masse salariale,99695.74,Fournisseur B
+X000278,S02,2025-11-01,Loyer,45397.51,Fournisseur A
+X000279,S02,2025-11-01,Énergie,5369.82,Fournisseur C
+X000280,S02,2025-11-01,Marketing,24792.72,Interne
+X000281,S02,2025-11-01,Maintenance,1473.2,Fournisseur A
+X000282,S02,2025-11-01,Transport & logistique,8784.0,Fournisseur C
+X000283,S02,2025-12-01,Masse salariale,100270.28,Fournisseur A
+X000284,S02,2025-12-01,Loyer,47147.56,Fournisseur C
+X000285,S02,2025-12-01,Énergie,7904.49,Fournisseur C
+X000286,S02,2025-12-01,Marketing,9314.19,Fournisseur A
+X000287,S02,2025-12-01,Maintenance,2230.41,Interne
+X000288,S02,2025-12-01,Transport & logistique,5177.41,Interne
+X000289,S03,2024-01-01,Masse salariale,139067.01,Interne
+X000290,S03,2024-01-01,Loyer,67187.86,Fournisseur B
+X000291,S03,2024-01-01,Énergie,11255.05,Fournisseur B
+X000292,S03,2024-01-01,Marketing,17250.34,Fournisseur A
+X000293,S03,2024-01-01,Maintenance,1130.95,Fournisseur B
+X000294,S03,2024-01-01,Transport & logistique,14414.18,Fournisseur B
+X000295,S03,2024-02-01,Masse salariale,140351.37,Fournisseur A
+X000296,S03,2024-02-01,Loyer,68811.88,Interne
+X000297,S03,2024-02-01,Énergie,12227.42,Fournisseur A
+X000298,S03,2024-02-01,Marketing,8961.73,Interne
+X000299,S03,2024-02-01,Maintenance,1326.29,Fournisseur C
+X000300,S03,2024-02-01,Transport & logistique,9983.41,Fournisseur A
+X000301,S03,2024-03-01,Masse salariale,141464.63,Fournisseur B
+X000302,S03,2024-03-01,Loyer,70562.53,Fournisseur B
+X000303,S03,2024-03-01,Énergie,8708.49,Fournisseur B
+X000304,S03,2024-03-01,Marketing,2964.56,Fournisseur A
+X000305,S03,2024-03-01,Maintenance,3203.71,Fournisseur B
+X000306,S03,2024-03-01,Transport & logistique,10366.93,Fournisseur C
+X000307,S03,2024-04-01,Masse salariale,131426.04,Fournisseur C
+X000308,S03,2024-04-01,Loyer,69664.64,Interne
+X000309,S03,2024-04-01,Énergie,8672.59,Fournisseur B
+X000310,S03,2024-04-01,Marketing,4525.57,Fournisseur A
+X000311,S03,2024-04-01,Maintenance,799.29,Fournisseur B
+X000312,S03,2024-04-01,Transport & logistique,15045.38,Fournisseur C
+X000313,S03,2024-05-01,Masse salariale,140003.55,Fournisseur A
+X000314,S03,2024-05-01,Loyer,68173.0,Interne
+X000315,S03,2024-05-01,Énergie,8248.13,Fournisseur A
+X000316,S03,2024-05-01,Marketing,11646.62,Fournisseur C
+X000317,S03,2024-05-01,Maintenance,3051.83,Interne
+X000318,S03,2024-05-01,Transport & logistique,9175.0,Fournisseur A
+X000319,S03,2024-06-01,Masse salariale,133028.75,Fournisseur C
+X000320,S03,2024-06-01,Loyer,69191.65,Fournisseur B
+X000321,S03,2024-06-01,Énergie,8055.74,Fournisseur C
+X000322,S03,2024-06-01,Marketing,11690.33,Fournisseur B
+X000323,S03,2024-06-01,Maintenance,2270.01,Interne
+X000324,S03,2024-06-01,Transport & logistique,10014.65,Fournisseur B
+X000325,S03,2024-07-01,Masse salariale,137000.03,Fournisseur A
+X000326,S03,2024-07-01,Loyer,68478.4,Interne
+X000327,S03,2024-07-01,Énergie,8465.89,Fournisseur A
+X000328,S03,2024-07-01,Marketing,3801.11,Fournisseur B
+X000329,S03,2024-07-01,Maintenance,1552.27,Fournisseur C
+X000330,S03,2024-07-01,Transport & logistique,11947.24,Fournisseur A
+X000331,S03,2024-08-01,Masse salariale,135773.31,Interne
+X000332,S03,2024-08-01,Loyer,66125.56,Fournisseur C
+X000333,S03,2024-08-01,Énergie,8708.54,Interne
+X000334,S03,2024-08-01,Marketing,6129.3,Fournisseur C
+X000335,S03,2024-08-01,Maintenance,1899.99,Fournisseur B
+X000336,S03,2024-08-01,Transport & logistique,13772.56,Fournisseur A
+X000337,S03,2024-09-01,Masse salariale,130588.36,Fournisseur B
+X000338,S03,2024-09-01,Loyer,71467.65,Fournisseur B
+X000339,S03,2024-09-01,Énergie,7993.42,Fournisseur B
+X000340,S03,2024-09-01,Marketing,4365.45,Interne
+X000341,S03,2024-09-01,Maintenance,3657.04,Fournisseur A
+X000342,S03,2024-09-01,Transport & logistique,7273.43,Fournisseur B
+X000343,S03,2024-10-01,Masse salariale,130822.08,Fournisseur B
+X000344,S03,2024-10-01,Loyer,70216.04,Fournisseur A
+X000345,S03,2024-10-01,Énergie,8737.01,Fournisseur A
+X000346,S03,2024-10-01,Marketing,6625.95,Interne
+X000347,S03,2024-10-01,Maintenance,3264.72,Fournisseur A
+X000348,S03,2024-10-01,Transport & logistique,4912.47,Fournisseur A
+X000349,S03,2024-11-01,Masse salariale,131110.5,Fournisseur A
+X000350,S03,2024-11-01,Loyer,70159.07,Interne
+X000351,S03,2024-11-01,Énergie,7964.22,Fournisseur B
+X000352,S03,2024-11-01,Marketing,11327.21,Fournisseur C
+X000353,S03,2024-11-01,Maintenance,1172.97,Fournisseur A
+X000354,S03,2024-11-01,Transport & logistique,5668.66,Interne
+X000355,S03,2024-12-01,Masse salariale,135624.73,Interne
+X000356,S03,2024-12-01,Loyer,66630.78,Fournisseur B
+X000357,S03,2024-12-01,Énergie,12036.9,Fournisseur A
+X000358,S03,2024-12-01,Marketing,7037.72,Fournisseur B
+X000359,S03,2024-12-01,Maintenance,3119.17,Fournisseur C
+X000360,S03,2024-12-01,Transport & logistique,9470.76,Fournisseur A
+X000361,S03,2025-01-01,Masse salariale,142342.35,Interne
+X000362,S03,2025-01-01,Loyer,65795.64,Fournisseur B
+X000363,S03,2025-01-01,Énergie,11184.22,Fournisseur B
+X000364,S03,2025-01-01,Marketing,18245.51,Interne
+X000365,S03,2025-01-01,Maintenance,1709.47,Fournisseur A
+X000366,S03,2025-01-01,Transport & logistique,10808.09,Interne
+X000367,S03,2025-02-01,Masse salariale,136365.44,Fournisseur B
+X000368,S03,2025-02-01,Loyer,67137.76,Fournisseur C
+X000369,S03,2025-02-01,Énergie,11452.84,Interne
+X000370,S03,2025-02-01,Marketing,8163.36,Interne
+X000371,S03,2025-02-01,Maintenance,1628.59,Fournisseur A
+X000372,S03,2025-02-01,Transport & logistique,5494.21,Fournisseur A
+X000373,S03,2025-03-01,Masse salariale,143023.68,Fournisseur B
+X000374,S03,2025-03-01,Loyer,69223.37,Fournisseur C
+X000375,S03,2025-03-01,Énergie,8620.17,Fournisseur C
+X000376,S03,2025-03-01,Marketing,10705.26,Fournisseur B
+X000377,S03,2025-03-01,Maintenance,3354.95,Interne
+X000378,S03,2025-03-01,Transport & logistique,14222.47,Fournisseur C
+X000379,S03,2025-04-01,Masse salariale,131226.93,Interne
+X000380,S03,2025-04-01,Loyer,71119.42,Fournisseur B
+X000381,S03,2025-04-01,Énergie,8724.3,Fournisseur A
+X000382,S03,2025-04-01,Marketing,9707.37,Fournisseur C
+X000383,S03,2025-04-01,Maintenance,1257.14,Fournisseur A
+X000384,S03,2025-04-01,Transport & logistique,7774.46,Fournisseur A
+X000385,S03,2025-05-01,Masse salariale,138944.12,Fournisseur C
+X000386,S03,2025-05-01,Loyer,70839.09,Fournisseur A
+X000387,S03,2025-05-01,Énergie,7995.51,Fournisseur B
+X000388,S03,2025-05-01,Marketing,4332.5,Fournisseur B
+X000389,S03,2025-05-01,Maintenance,3504.66,Interne
+X000390,S03,2025-05-01,Transport & logistique,5889.88,Fournisseur C
+X000391,S03,2025-06-01,Masse salariale,131052.37,Fournisseur A
+X000392,S03,2025-06-01,Loyer,66468.91,Interne
+X000393,S03,2025-06-01,Énergie,8123.14,Fournisseur C
+X000394,S03,2025-06-01,Marketing,9201.97,Interne
+X000395,S03,2025-06-01,Maintenance,952.08,Fournisseur C
+X000396,S03,2025-06-01,Transport & logistique,10751.94,Fournisseur C
+X000397,S03,2025-07-01,Masse salariale,131412.67,Fournisseur B
+X000398,S03,2025-07-01,Loyer,71696.3,Fournisseur B
+X000399,S03,2025-07-01,Énergie,8683.54,Fournisseur C
+X000400,S03,2025-07-01,Marketing,9357.36,Interne
+X000401,S03,2025-07-01,Maintenance,3948.09,Fournisseur A
+X000402,S03,2025-07-01,Transport & logistique,6130.55,Fournisseur C
+X000403,S03,2025-08-01,Masse salariale,140191.19,Fournisseur A
+X000404,S03,2025-08-01,Loyer,68993.86,Fournisseur A
+X000405,S03,2025-08-01,Énergie,8213.16,Interne
+X000406,S03,2025-08-01,Marketing,3182.0,Fournisseur C
+X000407,S03,2025-08-01,Maintenance,1909.78,Fournisseur B
+X000408,S03,2025-08-01,Transport & logistique,12952.86,Interne
+X000409,S03,2025-09-01,Masse salariale,141358.12,Fournisseur A
+X000410,S03,2025-09-01,Loyer,65093.54,Fournisseur B
+X000411,S03,2025-09-01,Énergie,7959.07,Interne
+X000412,S03,2025-09-01,Marketing,8163.42,Interne
+X000413,S03,2025-09-01,Maintenance,4015.5,Interne
+X000414,S03,2025-09-01,Transport & logistique,4921.81,Fournisseur B
+X000415,S03,2025-10-01,Masse salariale,137349.48,Fournisseur B
+X000416,S03,2025-10-01,Loyer,66824.93,Fournisseur B
+X000417,S03,2025-10-01,Énergie,8433.54,Fournisseur A
+X000418,S03,2025-10-01,Marketing,10245.27,Interne
+X000419,S03,2025-10-01,Maintenance,2607.67,Fournisseur C
+X000420,S03,2025-10-01,Transport & logistique,7150.7,Interne
+X000421,S03,2025-11-01,Masse salariale,136903.8,Fournisseur C
+X000422,S03,2025-11-01,Loyer,64980.21,Fournisseur C
+X000423,S03,2025-11-01,Énergie,8763.58,Fournisseur C
+X000424,S03,2025-11-01,Marketing,17513.54,Fournisseur C
+X000425,S03,2025-11-01,Maintenance,3358.33,Interne
+X000426,S03,2025-11-01,Transport & logistique,6548.76,Fournisseur B
+X000427,S03,2025-12-01,Masse salariale,135259.87,Fournisseur B
+X000428,S03,2025-12-01,Loyer,68730.88,Fournisseur A
+X000429,S03,2025-12-01,Énergie,12135.49,Fournisseur C
+X000430,S03,2025-12-01,Marketing,3894.08,Fournisseur C
+X000431,S03,2025-12-01,Maintenance,1472.46,Fournisseur C
+X000432,S03,2025-12-01,Transport & logistique,4962.23,Fournisseur C
+X000433,S04,2024-01-01,Masse salariale,96667.75,Fournisseur B
+X000434,S04,2024-01-01,Loyer,48479.52,Interne
+X000435,S04,2024-01-01,Énergie,8332.7,Fournisseur C
+X000436,S04,2024-01-01,Marketing,21971.27,Fournisseur C
+X000437,S04,2024-01-01,Maintenance,3218.57,Fournisseur B
+X000438,S04,2024-01-01,Transport & logistique,10761.72,Fournisseur C
+X000439,S04,2024-02-01,Masse salariale,102021.84,Interne
+X000440,S04,2024-02-01,Loyer,48808.47,Interne
+X000441,S04,2024-02-01,Énergie,8997.0,Fournisseur A
+X000442,S04,2024-02-01,Marketing,9713.72,Interne
+X000443,S04,2024-02-01,Maintenance,2578.27,Fournisseur B
+X000444,S04,2024-02-01,Transport & logistique,14295.18,Fournisseur A
+X000445,S04,2024-03-01,Masse salariale,96766.37,Fournisseur C
+X000446,S04,2024-03-01,Loyer,48873.11,Fournisseur A
+X000447,S04,2024-03-01,Énergie,6173.67,Fournisseur A
+X000448,S04,2024-03-01,Marketing,9371.37,Interne
+X000449,S04,2024-03-01,Maintenance,3338.86,Fournisseur C
+X000450,S04,2024-03-01,Transport & logistique,10524.47,Fournisseur A
+X000451,S04,2024-04-01,Masse salariale,104339.38,Fournisseur C
+X000452,S04,2024-04-01,Loyer,50449.74,Interne
+X000453,S04,2024-04-01,Énergie,5911.95,Fournisseur A
+X000454,S04,2024-04-01,Marketing,9742.37,Fournisseur B
+X000455,S04,2024-04-01,Maintenance,2326.89,Interne
+X000456,S04,2024-04-01,Transport & logistique,6090.67,Fournisseur C
+X000457,S04,2024-05-01,Masse salariale,95741.95,Fournisseur A
+X000458,S04,2024-05-01,Loyer,49086.41,Interne
+X000459,S04,2024-05-01,Énergie,6085.42,Fournisseur B
+X000460,S04,2024-05-01,Marketing,3182.6,Fournisseur B
+X000461,S04,2024-05-01,Maintenance,2935.12,Fournisseur B
+X000462,S04,2024-05-01,Transport & logistique,11345.13,Fournisseur C
+X000463,S04,2024-06-01,Masse salariale,103665.24,Fournisseur C
+X000464,S04,2024-06-01,Loyer,49753.93,Fournisseur C
+X000465,S04,2024-06-01,Énergie,6069.85,Fournisseur A
+X000466,S04,2024-06-01,Marketing,10490.4,Fournisseur C
+X000467,S04,2024-06-01,Maintenance,2048.42,Interne
+X000468,S04,2024-06-01,Transport & logistique,4924.43,Fournisseur B
+X000469,S04,2024-07-01,Masse salariale,100997.15,Fournisseur B
+X000470,S04,2024-07-01,Loyer,51555.79,Fournisseur A
+X000471,S04,2024-07-01,Énergie,5957.96,Interne
+X000472,S04,2024-07-01,Marketing,6860.04,Fournisseur B
+X000473,S04,2024-07-01,Maintenance,1913.0,Interne
+X000474,S04,2024-07-01,Transport & logistique,13272.22,Fournisseur B
+X000475,S04,2024-08-01,Masse salariale,101829.49,Fournisseur B
+X000476,S04,2024-08-01,Loyer,49449.18,Fournisseur B
+X000477,S04,2024-08-01,Énergie,6222.11,Interne
+X000478,S04,2024-08-01,Marketing,9515.56,Interne
+X000479,S04,2024-08-01,Maintenance,1602.72,Fournisseur B
+X000480,S04,2024-08-01,Transport & logistique,7580.4,Fournisseur A
+X000481,S04,2024-09-01,Masse salariale,102069.81,Fournisseur B
+X000482,S04,2024-09-01,Loyer,50822.31,Interne
+X000483,S04,2024-09-01,Énergie,6338.77,Fournisseur B
+X000484,S04,2024-09-01,Marketing,6453.25,Fournisseur B
+X000485,S04,2024-09-01,Maintenance,2909.89,Fournisseur A
+X000486,S04,2024-09-01,Transport & logistique,11623.13,Interne
+X000487,S04,2024-10-01,Masse salariale,102354.63,Interne
+X000488,S04,2024-10-01,Loyer,52101.89,Fournisseur A
+X000489,S04,2024-10-01,Énergie,6171.88,Fournisseur A
+X000490,S04,2024-10-01,Marketing,10924.49,Fournisseur A
+X000491,S04,2024-10-01,Maintenance,3087.34,Fournisseur C
+X000492,S04,2024-10-01,Transport & logistique,8475.73,Fournisseur C
+X000493,S04,2024-11-01,Masse salariale,96867.63,Fournisseur A
+X000494,S04,2024-11-01,Loyer,48857.88,Fournisseur C
+X000495,S04,2024-11-01,Énergie,5959.11,Fournisseur C
+X000496,S04,2024-11-01,Marketing,14948.53,Fournisseur C
+X000497,S04,2024-11-01,Maintenance,2643.63,Interne
+X000498,S04,2024-11-01,Transport & logistique,7379.21,Fournisseur B
+X000499,S04,2024-12-01,Masse salariale,100166.49,Interne
+X000500,S04,2024-12-01,Loyer,52705.1,Interne
+X000501,S04,2024-12-01,Énergie,8365.04,Fournisseur A
+X000502,S04,2024-12-01,Marketing,10832.94,Fournisseur A
+X000503,S04,2024-12-01,Maintenance,1068.43,Interne
+X000504,S04,2024-12-01,Transport & logistique,12738.34,Fournisseur C
+X000505,S04,2025-01-01,Masse salariale,97509.64,Interne
+X000506,S04,2025-01-01,Loyer,50306.47,Fournisseur A
+X000507,S04,2025-01-01,Énergie,8919.1,Interne
+X000508,S04,2025-01-01,Marketing,14332.91,Interne
+X000509,S04,2025-01-01,Maintenance,2229.24,Fournisseur B
+X000510,S04,2025-01-01,Transport & logistique,9693.42,Fournisseur C
+X000511,S04,2025-02-01,Masse salariale,102032.0,Fournisseur B
+X000512,S04,2025-02-01,Loyer,47896.96,Fournisseur B
+X000513,S04,2025-02-01,Énergie,8532.96,Interne
+X000514,S04,2025-02-01,Marketing,6589.65,Fournisseur C
+X000515,S04,2025-02-01,Maintenance,1122.78,Fournisseur B
+X000516,S04,2025-02-01,Transport & logistique,11834.56,Fournisseur C
+X000517,S04,2025-03-01,Masse salariale,96398.13,Fournisseur B
+X000518,S04,2025-03-01,Loyer,48510.24,Fournisseur A
+X000519,S04,2025-03-01,Énergie,6086.26,Fournisseur C
+X000520,S04,2025-03-01,Marketing,8089.67,Fournisseur A
+X000521,S04,2025-03-01,Maintenance,2098.52,Fournisseur B
+X000522,S04,2025-03-01,Transport & logistique,7627.53,Interne
+X000523,S04,2025-04-01,Masse salariale,97018.26,Fournisseur A
+X000524,S04,2025-04-01,Loyer,48308.57,Interne
+X000525,S04,2025-04-01,Énergie,6089.88,Fournisseur C
+X000526,S04,2025-04-01,Marketing,7765.74,Interne
+X000527,S04,2025-04-01,Maintenance,3753.86,Fournisseur B
+X000528,S04,2025-04-01,Transport & logistique,7897.78,Fournisseur A
+X000529,S04,2025-05-01,Masse salariale,102742.87,Fournisseur C
+X000530,S04,2025-05-01,Loyer,48105.78,Fournisseur A
+X000531,S04,2025-05-01,Énergie,6460.77,Fournisseur A
+X000532,S04,2025-05-01,Marketing,5011.63,Fournisseur C
+X000533,S04,2025-05-01,Maintenance,3733.8,Fournisseur C
+X000534,S04,2025-05-01,Transport & logistique,6889.99,Fournisseur B
+X000535,S04,2025-06-01,Masse salariale,98828.68,Fournisseur A
+X000536,S04,2025-06-01,Loyer,49395.48,Fournisseur A
+X000537,S04,2025-06-01,Énergie,5979.93,Interne
+X000538,S04,2025-06-01,Marketing,11909.74,Interne
+X000539,S04,2025-06-01,Maintenance,2528.3,Fournisseur C
+X000540,S04,2025-06-01,Transport & logistique,4019.5,Interne
+X000541,S04,2025-07-01,Masse salariale,99950.63,Fournisseur B
+X000542,S04,2025-07-01,Loyer,48940.59,Interne
+X000543,S04,2025-07-01,Énergie,6256.54,Interne
+X000544,S04,2025-07-01,Marketing,4630.25,Fournisseur B
+X000545,S04,2025-07-01,Maintenance,1805.19,Fournisseur B
+X000546,S04,2025-07-01,Transport & logistique,8478.36,Fournisseur C
+X000547,S04,2025-08-01,Masse salariale,95322.56,Interne
+X000548,S04,2025-08-01,Loyer,51602.63,Fournisseur B
+X000549,S04,2025-08-01,Énergie,6027.13,Fournisseur A
+X000550,S04,2025-08-01,Marketing,10284.7,Fournisseur C
+X000551,S04,2025-08-01,Maintenance,3028.1,Fournisseur C
+X000552,S04,2025-08-01,Transport & logistique,9325.84,Fournisseur A
+X000553,S04,2025-09-01,Masse salariale,96375.38,Fournisseur C
+X000554,S04,2025-09-01,Loyer,50571.41,Fournisseur A
+X000555,S04,2025-09-01,Énergie,5973.29,Fournisseur C
+X000556,S04,2025-09-01,Marketing,10072.67,Fournisseur B
+X000557,S04,2025-09-01,Maintenance,1082.37,Fournisseur A
+X000558,S04,2025-09-01,Transport & logistique,5164.94,Interne
+X000559,S04,2025-10-01,Masse salariale,102003.46,Fournisseur A
+X000560,S04,2025-10-01,Loyer,49543.12,Fournisseur C
+X000561,S04,2025-10-01,Énergie,6342.48,Fournisseur B
+X000562,S04,2025-10-01,Marketing,6018.55,Fournisseur C
+X000563,S04,2025-10-01,Maintenance,1370.65,Fournisseur C
+X000564,S04,2025-10-01,Transport & logistique,9474.83,Fournisseur A
+X000565,S04,2025-11-01,Masse salariale,99491.8,Fournisseur C
+X000566,S04,2025-11-01,Loyer,51426.12,Fournisseur A
+X000567,S04,2025-11-01,Énergie,6113.96,Fournisseur B
+X000568,S04,2025-11-01,Marketing,22892.2,Fournisseur B
+X000569,S04,2025-11-01,Maintenance,2150.3,Fournisseur C
+X000570,S04,2025-11-01,Transport & logistique,12030.16,Fournisseur A
+X000571,S04,2025-12-01,Masse salariale,102637.44,Fournisseur A
+X000572,S04,2025-12-01,Loyer,51277.04,Interne
+X000573,S04,2025-12-01,Énergie,8377.86,Interne
+X000574,S04,2025-12-01,Marketing,11132.69,Fournisseur C
+X000575,S04,2025-12-01,Maintenance,3738.42,Fournisseur A
+X000576,S04,2025-12-01,Transport & logistique,6080.51,Fournisseur B
+X000577,S05,2024-01-01,Masse salariale,139244.19,Fournisseur A
+X000578,S05,2024-01-01,Loyer,72242.01,Fournisseur A
+X000579,S05,2024-01-01,Énergie,11652.46,Interne
+X000580,S05,2024-01-01,Marketing,16688.34,Fournisseur B
+X000581,S05,2024-01-01,Maintenance,2214.67,Fournisseur B
+X000582,S05,2024-01-01,Transport & logistique,14017.89,Fournisseur C
+X000583,S05,2024-02-01,Masse salariale,133709.21,Interne
+X000584,S05,2024-02-01,Loyer,68235.39,Fournisseur B
+X000585,S05,2024-02-01,Énergie,12154.79,Fournisseur B
+X000586,S05,2024-02-01,Marketing,3713.29,Interne
+X000587,S05,2024-02-01,Maintenance,2433.95,Fournisseur C
+X000588,S05,2024-02-01,Transport & logistique,13891.41,Fournisseur B
+X000589,S05,2024-03-01,Masse salariale,130451.32,Interne
+X000590,S05,2024-03-01,Loyer,72651.26,Fournisseur B
+X000591,S05,2024-03-01,Énergie,8868.91,Fournisseur C
+X000592,S05,2024-03-01,Marketing,8292.71,Fournisseur A
+X000593,S05,2024-03-01,Maintenance,1612.8,Fournisseur A
+X000594,S05,2024-03-01,Transport & logistique,9299.54,Fournisseur B
+X000595,S05,2024-04-01,Masse salariale,139154.92,Fournisseur A
+X000596,S05,2024-04-01,Loyer,72119.61,Interne
+X000597,S05,2024-04-01,Énergie,9008.23,Fournisseur B
+X000598,S05,2024-04-01,Marketing,3925.21,Fournisseur B
+X000599,S05,2024-04-01,Maintenance,3065.37,Interne
+X000600,S05,2024-04-01,Transport & logistique,7337.91,Fournisseur A
+X000601,S05,2024-05-01,Masse salariale,130774.05,Fournisseur C
+X000602,S05,2024-05-01,Loyer,68095.85,Fournisseur B
+X000603,S05,2024-05-01,Énergie,8235.02,Interne
+X000604,S05,2024-05-01,Marketing,10568.93,Fournisseur C
+X000605,S05,2024-05-01,Maintenance,3066.45,Fournisseur A
+X000606,S05,2024-05-01,Transport & logistique,12345.74,Interne
+X000607,S05,2024-06-01,Masse salariale,128932.84,Fournisseur A
+X000608,S05,2024-06-01,Loyer,73413.57,Fournisseur B
+X000609,S05,2024-06-01,Énergie,8228.8,Fournisseur A
+X000610,S05,2024-06-01,Marketing,7436.72,Fournisseur A
+X000611,S05,2024-06-01,Maintenance,2119.21,Interne
+X000612,S05,2024-06-01,Transport & logistique,8686.9,Fournisseur C
+X000613,S05,2024-07-01,Masse salariale,136536.47,Fournisseur C
+X000614,S05,2024-07-01,Loyer,67238.7,Fournisseur A
+X000615,S05,2024-07-01,Énergie,8718.41,Fournisseur B
+X000616,S05,2024-07-01,Marketing,5275.14,Fournisseur A
+X000617,S05,2024-07-01,Maintenance,1040.54,Interne
+X000618,S05,2024-07-01,Transport & logistique,10796.59,Fournisseur B
+X000619,S05,2024-08-01,Masse salariale,138178.07,Interne
+X000620,S05,2024-08-01,Loyer,69099.23,Fournisseur C
+X000621,S05,2024-08-01,Énergie,8529.92,Fournisseur A
+X000622,S05,2024-08-01,Marketing,8015.05,Fournisseur A
+X000623,S05,2024-08-01,Maintenance,2377.42,Interne
+X000624,S05,2024-08-01,Transport & logistique,14957.36,Fournisseur A
+X000625,S05,2024-09-01,Masse salariale,137947.56,Fournisseur C
+X000626,S05,2024-09-01,Loyer,73166.01,Fournisseur A
+X000627,S05,2024-09-01,Énergie,8881.9,Interne
+X000628,S05,2024-09-01,Marketing,9939.0,Fournisseur C
+X000629,S05,2024-09-01,Maintenance,2938.89,Fournisseur B
+X000630,S05,2024-09-01,Transport & logistique,11564.61,Interne
+X000631,S05,2024-10-01,Masse salariale,129021.36,Interne
+X000632,S05,2024-10-01,Loyer,68650.03,Interne
+X000633,S05,2024-10-01,Énergie,8303.05,Fournisseur B
+X000634,S05,2024-10-01,Marketing,5547.22,Interne
+X000635,S05,2024-10-01,Maintenance,1112.95,Fournisseur B
+X000636,S05,2024-10-01,Transport & logistique,10649.77,Interne
+X000637,S05,2024-11-01,Masse salariale,137941.74,Interne
+X000638,S05,2024-11-01,Loyer,72488.08,Fournisseur C
+X000639,S05,2024-11-01,Énergie,8175.79,Fournisseur B
+X000640,S05,2024-11-01,Marketing,11292.94,Fournisseur C
+X000641,S05,2024-11-01,Maintenance,3539.69,Interne
+X000642,S05,2024-11-01,Transport & logistique,6749.38,Fournisseur B
+X000643,S05,2024-12-01,Masse salariale,127784.16,Fournisseur C
+X000644,S05,2024-12-01,Loyer,69494.3,Fournisseur C
+X000645,S05,2024-12-01,Énergie,11924.44,Interne
+X000646,S05,2024-12-01,Marketing,6829.48,Interne
+X000647,S05,2024-12-01,Maintenance,3587.24,Interne
+X000648,S05,2024-12-01,Transport & logistique,10392.29,Fournisseur A
+X000649,S05,2025-01-01,Masse salariale,127298.98,Fournisseur A
+X000650,S05,2025-01-01,Loyer,73685.53,Fournisseur C
+X000651,S05,2025-01-01,Énergie,12444.52,Fournisseur C
+X000652,S05,2025-01-01,Marketing,13408.62,Fournisseur A
+X000653,S05,2025-01-01,Maintenance,1342.13,Fournisseur B
+X000654,S05,2025-01-01,Transport & logistique,10292.93,Fournisseur C
+X000655,S05,2025-02-01,Masse salariale,128401.4,Fournisseur C
+X000656,S05,2025-02-01,Loyer,71426.64,Interne
+X000657,S05,2025-02-01,Énergie,12529.6,Fournisseur A
+X000658,S05,2025-02-01,Marketing,3766.31,Fournisseur B
+X000659,S05,2025-02-01,Maintenance,1578.33,Interne
+X000660,S05,2025-02-01,Transport & logistique,12037.57,Fournisseur A
+X000661,S05,2025-03-01,Masse salariale,139696.16,Fournisseur A
+X000662,S05,2025-03-01,Loyer,73263.6,Fournisseur B
+X000663,S05,2025-03-01,Énergie,8353.08,Fournisseur B
+X000664,S05,2025-03-01,Marketing,11643.21,Fournisseur B
+X000665,S05,2025-03-01,Maintenance,1848.01,Fournisseur B
+X000666,S05,2025-03-01,Transport & logistique,6880.9,Fournisseur B
+X000667,S05,2025-04-01,Masse salariale,132491.59,Fournisseur C
+X000668,S05,2025-04-01,Loyer,67139.14,Fournisseur B
+X000669,S05,2025-04-01,Énergie,8538.68,Fournisseur C
+X000670,S05,2025-04-01,Marketing,11234.53,Fournisseur C
+X000671,S05,2025-04-01,Maintenance,2081.41,Fournisseur A
+X000672,S05,2025-04-01,Transport & logistique,6080.14,Fournisseur A
+X000673,S05,2025-05-01,Masse salariale,139478.17,Fournisseur B
+X000674,S05,2025-05-01,Loyer,72436.66,Interne
+X000675,S05,2025-05-01,Énergie,8583.06,Fournisseur C
+X000676,S05,2025-05-01,Marketing,9662.15,Fournisseur C
+X000677,S05,2025-05-01,Maintenance,2768.19,Fournisseur C
+X000678,S05,2025-05-01,Transport & logistique,10646.35,Interne
+X000679,S05,2025-06-01,Masse salariale,135342.62,Fournisseur B
+X000680,S05,2025-06-01,Loyer,73387.04,Fournisseur C
+X000681,S05,2025-06-01,Énergie,8688.05,Interne
+X000682,S05,2025-06-01,Marketing,4753.69,Fournisseur C
+X000683,S05,2025-06-01,Maintenance,3163.24,Interne
+X000684,S05,2025-06-01,Transport & logistique,9428.78,Fournisseur B
+X000685,S05,2025-07-01,Masse salariale,139845.7,Fournisseur A
+X000686,S05,2025-07-01,Loyer,67136.86,Fournisseur B
+X000687,S05,2025-07-01,Énergie,8808.11,Interne
+X000688,S05,2025-07-01,Marketing,5090.85,Interne
+X000689,S05,2025-07-01,Maintenance,821.44,Fournisseur B
+X000690,S05,2025-07-01,Transport & logistique,14702.43,Fournisseur A
+X000691,S05,2025-08-01,Masse salariale,138219.06,Interne
+X000692,S05,2025-08-01,Loyer,66833.71,Fournisseur A
+X000693,S05,2025-08-01,Énergie,8209.72,Fournisseur A
+X000694,S05,2025-08-01,Marketing,3859.77,Fournisseur C
+X000695,S05,2025-08-01,Maintenance,3054.26,Interne
+X000696,S05,2025-08-01,Transport & logistique,13810.43,Fournisseur A
+X000697,S05,2025-09-01,Masse salariale,131204.85,Fournisseur B
+X000698,S05,2025-09-01,Loyer,66756.08,Fournisseur B
+X000699,S05,2025-09-01,Énergie,8396.97,Fournisseur A
+X000700,S05,2025-09-01,Marketing,11693.12,Fournisseur B
+X000701,S05,2025-09-01,Maintenance,3062.28,Fournisseur C
+X000702,S05,2025-09-01,Transport & logistique,13225.23,Fournisseur C
+X000703,S05,2025-10-01,Masse salariale,134151.23,Fournisseur A
+X000704,S05,2025-10-01,Loyer,67981.56,Fournisseur C
+X000705,S05,2025-10-01,Énergie,8358.5,Interne
+X000706,S05,2025-10-01,Marketing,6785.72,Interne
+X000707,S05,2025-10-01,Maintenance,1432.19,Fournisseur B
+X000708,S05,2025-10-01,Transport & logistique,7374.05,Interne
+X000709,S05,2025-11-01,Masse salariale,128183.3,Fournisseur B
+X000710,S05,2025-11-01,Loyer,66952.13,Fournisseur B
+X000711,S05,2025-11-01,Énergie,8840.66,Interne
+X000712,S05,2025-11-01,Marketing,9117.76,Fournisseur B
+X000713,S05,2025-11-01,Maintenance,1071.66,Fournisseur B
+X000714,S05,2025-11-01,Transport & logistique,12422.15,Interne
+X000715,S05,2025-12-01,Masse salariale,135251.47,Fournisseur A
+X000716,S05,2025-12-01,Loyer,72987.94,Interne
+X000717,S05,2025-12-01,Énergie,11790.12,Fournisseur C
+X000718,S05,2025-12-01,Marketing,8888.82,Fournisseur B
+X000719,S05,2025-12-01,Maintenance,1686.39,Fournisseur B
+X000720,S05,2025-12-01,Transport & logistique,7510.79,Interne
+X000721,S06,2024-01-01,Masse salariale,84238.98,Fournisseur B
+X000722,S06,2024-01-01,Loyer,41981.89,Fournisseur B
+X000723,S06,2024-01-01,Énergie,6838.61,Fournisseur C
+X000724,S06,2024-01-01,Marketing,23091.15,Fournisseur B
+X000725,S06,2024-01-01,Maintenance,2123.59,Interne
+X000726,S06,2024-01-01,Transport & logistique,13478.96,Fournisseur B
+X000727,S06,2024-02-01,Masse salariale,80399.94,Fournisseur C
+X000728,S06,2024-02-01,Loyer,41813.28,Interne
+X000729,S06,2024-02-01,Énergie,6752.71,Fournisseur B
+X000730,S06,2024-02-01,Marketing,5251.45,Fournisseur A
+X000731,S06,2024-02-01,Maintenance,3849.04,Fournisseur B
+X000732,S06,2024-02-01,Transport & logistique,6524.01,Fournisseur C
+X000733,S06,2024-03-01,Masse salariale,84266.35,Fournisseur A
+X000734,S06,2024-03-01,Loyer,41122.22,Fournisseur A
+X000735,S06,2024-03-01,Énergie,5106.73,Fournisseur A
+X000736,S06,2024-03-01,Marketing,4887.16,Fournisseur C
+X000737,S06,2024-03-01,Maintenance,3953.63,Fournisseur A
+X000738,S06,2024-03-01,Transport & logistique,5665.51,Fournisseur C
+X000739,S06,2024-04-01,Masse salariale,86931.46,Fournisseur B
+X000740,S06,2024-04-01,Loyer,41690.25,Interne
+X000741,S06,2024-04-01,Énergie,5136.89,Fournisseur B
+X000742,S06,2024-04-01,Marketing,6269.37,Interne
+X000743,S06,2024-04-01,Maintenance,1110.22,Interne
+X000744,S06,2024-04-01,Transport & logistique,9191.5,Fournisseur C
+X000745,S06,2024-05-01,Masse salariale,85478.88,Fournisseur B
+X000746,S06,2024-05-01,Loyer,39642.87,Fournisseur A
+X000747,S06,2024-05-01,Énergie,4940.87,Fournisseur A
+X000748,S06,2024-05-01,Marketing,7480.48,Fournisseur C
+X000749,S06,2024-05-01,Maintenance,1568.65,Fournisseur A
+X000750,S06,2024-05-01,Transport & logistique,6425.0,Fournisseur B
+X000751,S06,2024-06-01,Masse salariale,85771.23,Fournisseur C
+X000752,S06,2024-06-01,Loyer,40676.74,Interne
+X000753,S06,2024-06-01,Énergie,5278.42,Interne
+X000754,S06,2024-06-01,Marketing,4380.16,Interne
+X000755,S06,2024-06-01,Maintenance,3813.35,Fournisseur C
+X000756,S06,2024-06-01,Transport & logistique,4370.28,Fournisseur B
+X000757,S06,2024-07-01,Masse salariale,85085.66,Fournisseur B
+X000758,S06,2024-07-01,Loyer,39650.06,Fournisseur A
+X000759,S06,2024-07-01,Énergie,5108.77,Fournisseur B
+X000760,S06,2024-07-01,Marketing,10500.59,Fournisseur C
+X000761,S06,2024-07-01,Maintenance,2291.41,Fournisseur A
+X000762,S06,2024-07-01,Transport & logistique,3918.09,Fournisseur A
+X000763,S06,2024-08-01,Masse salariale,81337.22,Interne
+X000764,S06,2024-08-01,Loyer,39637.04,Fournisseur B
+X000765,S06,2024-08-01,Énergie,4854.41,Fournisseur A
+X000766,S06,2024-08-01,Marketing,7009.9,Interne
+X000767,S06,2024-08-01,Maintenance,1268.08,Fournisseur A
+X000768,S06,2024-08-01,Transport & logistique,12048.96,Fournisseur A
+X000769,S06,2024-09-01,Masse salariale,83020.08,Fournisseur A
+X000770,S06,2024-09-01,Loyer,40038.89,Interne
+X000771,S06,2024-09-01,Énergie,5209.11,Interne
+X000772,S06,2024-09-01,Marketing,11218.63,Fournisseur A
+X000773,S06,2024-09-01,Maintenance,2534.37,Fournisseur B
+X000774,S06,2024-09-01,Transport & logistique,12410.03,Interne
+X000775,S06,2024-10-01,Masse salariale,82942.43,Interne
+X000776,S06,2024-10-01,Loyer,42632.11,Fournisseur A
+X000777,S06,2024-10-01,Énergie,5222.35,Interne
+X000778,S06,2024-10-01,Marketing,4495.26,Interne
+X000779,S06,2024-10-01,Maintenance,1829.02,Interne
+X000780,S06,2024-10-01,Transport & logistique,4393.46,Fournisseur C
+X000781,S06,2024-11-01,Masse salariale,86439.57,Fournisseur A
+X000782,S06,2024-11-01,Loyer,39369.64,Interne
+X000783,S06,2024-11-01,Énergie,4839.93,Fournisseur A
+X000784,S06,2024-11-01,Marketing,6998.87,Interne
+X000785,S06,2024-11-01,Maintenance,1220.82,Fournisseur A
+X000786,S06,2024-11-01,Transport & logistique,11449.99,Fournisseur B
+X000787,S06,2024-12-01,Masse salariale,87889.34,Interne
+X000788,S06,2024-12-01,Loyer,39738.31,Interne
+X000789,S06,2024-12-01,Énergie,7196.4,Fournisseur B
+X000790,S06,2024-12-01,Marketing,10822.79,Fournisseur A
+X000791,S06,2024-12-01,Maintenance,3864.17,Fournisseur B
+X000792,S06,2024-12-01,Transport & logistique,6064.07,Fournisseur B
+X000793,S06,2025-01-01,Masse salariale,81262.14,Interne
+X000794,S06,2025-01-01,Loyer,39912.63,Interne
+X000795,S06,2025-01-01,Énergie,7000.63,Fournisseur C
+X000796,S06,2025-01-01,Marketing,12302.2,Fournisseur A
+X000797,S06,2025-01-01,Maintenance,3866.8,Fournisseur B
+X000798,S06,2025-01-01,Transport & logistique,12657.37,Interne
+X000799,S06,2025-02-01,Masse salariale,84046.24,Fournisseur B
+X000800,S06,2025-02-01,Loyer,40160.06,Interne
+X000801,S06,2025-02-01,Énergie,6970.66,Fournisseur C
+X000802,S06,2025-02-01,Marketing,12200.27,Interne
+X000803,S06,2025-02-01,Maintenance,3155.95,Fournisseur C
+X000804,S06,2025-02-01,Transport & logistique,12652.5,Fournisseur A
+X000805,S06,2025-03-01,Masse salariale,82349.47,Fournisseur C
+X000806,S06,2025-03-01,Loyer,43114.91,Fournisseur A
+X000807,S06,2025-03-01,Énergie,5191.37,Fournisseur A
+X000808,S06,2025-03-01,Marketing,10360.29,Fournisseur C
+X000809,S06,2025-03-01,Maintenance,1526.04,Interne
+X000810,S06,2025-03-01,Transport & logistique,12296.01,Fournisseur A
+X000811,S06,2025-04-01,Masse salariale,80160.09,Fournisseur B
+X000812,S06,2025-04-01,Loyer,42258.87,Interne
+X000813,S06,2025-04-01,Énergie,5079.57,Interne
+X000814,S06,2025-04-01,Marketing,4127.2,Fournisseur B
+X000815,S06,2025-04-01,Maintenance,1867.88,Fournisseur B
+X000816,S06,2025-04-01,Transport & logistique,12060.59,Interne
+X000817,S06,2025-05-01,Masse salariale,83039.99,Fournisseur A
+X000818,S06,2025-05-01,Loyer,40449.03,Fournisseur B
+X000819,S06,2025-05-01,Énergie,5202.46,Fournisseur A
+X000820,S06,2025-05-01,Marketing,5372.23,Fournisseur A
+X000821,S06,2025-05-01,Maintenance,3552.14,Fournisseur C
+X000822,S06,2025-05-01,Transport & logistique,8248.82,Fournisseur B
+X000823,S06,2025-06-01,Masse salariale,83716.03,Fournisseur C
+X000824,S06,2025-06-01,Loyer,41120.18,Fournisseur A
+X000825,S06,2025-06-01,Énergie,4827.75,Fournisseur C
+X000826,S06,2025-06-01,Marketing,8062.18,Fournisseur B
+X000827,S06,2025-06-01,Maintenance,3832.17,Fournisseur A
+X000828,S06,2025-06-01,Transport & logistique,4401.39,Interne
+X000829,S06,2025-07-01,Masse salariale,82196.93,Fournisseur A
+X000830,S06,2025-07-01,Loyer,40055.16,Interne
+X000831,S06,2025-07-01,Énergie,4929.58,Fournisseur A
+X000832,S06,2025-07-01,Marketing,3445.09,Fournisseur A
+X000833,S06,2025-07-01,Maintenance,1018.45,Fournisseur C
+X000834,S06,2025-07-01,Transport & logistique,10158.53,Interne
+X000835,S06,2025-08-01,Masse salariale,84190.63,Fournisseur C
+X000836,S06,2025-08-01,Loyer,42483.54,Fournisseur B
+X000837,S06,2025-08-01,Énergie,5274.79,Fournisseur A
+X000838,S06,2025-08-01,Marketing,7840.67,Fournisseur A
+X000839,S06,2025-08-01,Maintenance,1284.84,Fournisseur B
+X000840,S06,2025-08-01,Transport & logistique,11375.15,Fournisseur C
+X000841,S06,2025-09-01,Masse salariale,83269.85,Interne
+X000842,S06,2025-09-01,Loyer,41392.77,Fournisseur B
+X000843,S06,2025-09-01,Énergie,4900.97,Fournisseur B
+X000844,S06,2025-09-01,Marketing,10640.34,Interne
+X000845,S06,2025-09-01,Maintenance,1749.41,Fournisseur C
+X000846,S06,2025-09-01,Transport & logistique,6760.03,Fournisseur B
+X000847,S06,2025-10-01,Masse salariale,87658.97,Interne
+X000848,S06,2025-10-01,Loyer,39889.45,Fournisseur B
+X000849,S06,2025-10-01,Énergie,4863.59,Interne
+X000850,S06,2025-10-01,Marketing,8643.87,Fournisseur A
+X000851,S06,2025-10-01,Maintenance,1980.85,Fournisseur B
+X000852,S06,2025-10-01,Transport & logistique,5428.05,Fournisseur A
+X000853,S06,2025-11-01,Masse salariale,87765.42,Fournisseur C
+X000854,S06,2025-11-01,Loyer,43076.98,Fournisseur B
+X000855,S06,2025-11-01,Énergie,5193.04,Fournisseur C
+X000856,S06,2025-11-01,Marketing,8186.72,Fournisseur A
+X000857,S06,2025-11-01,Maintenance,2825.34,Fournisseur B
+X000858,S06,2025-11-01,Transport & logistique,7515.32,Interne
+X000859,S06,2025-12-01,Masse salariale,81601.24,Interne
+X000860,S06,2025-12-01,Loyer,42481.94,Fournisseur B
+X000861,S06,2025-12-01,Énergie,7080.54,Fournisseur C
+X000862,S06,2025-12-01,Marketing,10359.94,Interne
+X000863,S06,2025-12-01,Maintenance,2044.5,Fournisseur A
+X000864,S06,2025-12-01,Transport & logistique,12081.02,Interne
+X000865,S07,2024-01-01,Masse salariale,127188.65,Fournisseur C
+X000866,S07,2024-01-01,Loyer,66494.94,Interne
+X000867,S07,2024-01-01,Énergie,11098.7,Fournisseur C
+X000868,S07,2024-01-01,Marketing,22951.58,Fournisseur B
+X000869,S07,2024-01-01,Maintenance,3665.57,Fournisseur A
+X000870,S07,2024-01-01,Transport & logistique,4400.0,Interne
+X000871,S07,2024-02-01,Masse salariale,126618.76,Fournisseur A
+X000872,S07,2024-02-01,Loyer,67947.55,Fournisseur C
+X000873,S07,2024-02-01,Énergie,10660.36,Fournisseur B
+X000874,S07,2024-02-01,Marketing,4088.05,Fournisseur B
+X000875,S07,2024-02-01,Maintenance,2378.25,Interne
+X000876,S07,2024-02-01,Transport & logistique,14868.88,Fournisseur B
+X000877,S07,2024-03-01,Masse salariale,123830.94,Fournisseur A
+X000878,S07,2024-03-01,Loyer,64167.76,Interne
+X000879,S07,2024-03-01,Énergie,7889.87,Interne
+X000880,S07,2024-03-01,Marketing,10311.09,Interne
+X000881,S07,2024-03-01,Maintenance,2132.17,Interne
+X000882,S07,2024-03-01,Transport & logistique,4978.16,Fournisseur C
+X000883,S07,2024-04-01,Masse salariale,131327.52,Fournisseur A
+X000884,S07,2024-04-01,Loyer,66361.31,Fournisseur B
+X000885,S07,2024-04-01,Énergie,8190.7,Fournisseur A
+X000886,S07,2024-04-01,Marketing,9115.14,Fournisseur C
+X000887,S07,2024-04-01,Maintenance,2433.9,Fournisseur C
+X000888,S07,2024-04-01,Transport & logistique,15663.61,Interne
+X000889,S07,2024-05-01,Masse salariale,124670.04,Fournisseur A
+X000890,S07,2024-05-01,Loyer,67817.7,Fournisseur B
+X000891,S07,2024-05-01,Énergie,7661.85,Fournisseur C
+X000892,S07,2024-05-01,Marketing,10576.61,Interne
+X000893,S07,2024-05-01,Maintenance,1310.06,Fournisseur C
+X000894,S07,2024-05-01,Transport & logistique,13734.64,Interne
+X000895,S07,2024-06-01,Masse salariale,129167.62,Interne
+X000896,S07,2024-06-01,Loyer,63974.01,Interne
+X000897,S07,2024-06-01,Énergie,7956.28,Fournisseur C
+X000898,S07,2024-06-01,Marketing,3863.17,Fournisseur C
+X000899,S07,2024-06-01,Maintenance,2478.98,Interne
+X000900,S07,2024-06-01,Transport & logistique,12944.15,Fournisseur C
+X000901,S07,2024-07-01,Masse salariale,128345.2,Fournisseur C
+X000902,S07,2024-07-01,Loyer,62689.42,Fournisseur A
+X000903,S07,2024-07-01,Énergie,7954.37,Fournisseur C
+X000904,S07,2024-07-01,Marketing,8625.71,Fournisseur C
+X000905,S07,2024-07-01,Maintenance,3496.17,Interne
+X000906,S07,2024-07-01,Transport & logistique,8567.46,Fournisseur A
+X000907,S07,2024-08-01,Masse salariale,130311.46,Fournisseur A
+X000908,S07,2024-08-01,Loyer,65000.88,Fournisseur C
+X000909,S07,2024-08-01,Énergie,8073.16,Interne
+X000910,S07,2024-08-01,Marketing,11490.75,Fournisseur A
+X000911,S07,2024-08-01,Maintenance,937.39,Fournisseur A
+X000912,S07,2024-08-01,Transport & logistique,7133.05,Fournisseur A
+X000913,S07,2024-09-01,Masse salariale,131206.63,Fournisseur B
+X000914,S07,2024-09-01,Loyer,65747.88,Interne
+X000915,S07,2024-09-01,Énergie,7698.69,Fournisseur B
+X000916,S07,2024-09-01,Marketing,7139.52,Interne
+X000917,S07,2024-09-01,Maintenance,3579.99,Fournisseur A
+X000918,S07,2024-09-01,Transport & logistique,8051.49,Fournisseur B
+X000919,S07,2024-10-01,Masse salariale,126141.45,Fournisseur A
+X000920,S07,2024-10-01,Loyer,61919.0,Fournisseur A
+X000921,S07,2024-10-01,Énergie,8251.04,Fournisseur A
+X000922,S07,2024-10-01,Marketing,5932.05,Interne
+X000923,S07,2024-10-01,Maintenance,3858.43,Fournisseur B
+X000924,S07,2024-10-01,Transport & logistique,6452.81,Interne
+X000925,S07,2024-11-01,Masse salariale,124223.23,Fournisseur A
+X000926,S07,2024-11-01,Loyer,67512.9,Fournisseur C
+X000927,S07,2024-11-01,Énergie,8088.28,Fournisseur B
+X000928,S07,2024-11-01,Marketing,16787.44,Fournisseur B
+X000929,S07,2024-11-01,Maintenance,953.44,Fournisseur A
+X000930,S07,2024-11-01,Transport & logistique,10206.06,Interne
+X000931,S07,2024-12-01,Masse salariale,127680.97,Fournisseur C
+X000932,S07,2024-12-01,Loyer,64836.94,Fournisseur A
+X000933,S07,2024-12-01,Énergie,10965.5,Fournisseur B
+X000934,S07,2024-12-01,Marketing,6342.26,Fournisseur C
+X000935,S07,2024-12-01,Maintenance,1494.71,Interne
+X000936,S07,2024-12-01,Transport & logistique,14537.96,Interne
+X000937,S07,2025-01-01,Masse salariale,127730.03,Fournisseur B
+X000938,S07,2025-01-01,Loyer,66820.16,Fournisseur A
+X000939,S07,2025-01-01,Énergie,10671.78,Fournisseur B
+X000940,S07,2025-01-01,Marketing,22618.72,Fournisseur A
+X000941,S07,2025-01-01,Maintenance,1212.62,Fournisseur B
+X000942,S07,2025-01-01,Transport & logistique,4197.6,Interne
+X000943,S07,2025-02-01,Masse salariale,120228.24,Interne
+X000944,S07,2025-02-01,Loyer,66447.9,Fournisseur B
+X000945,S07,2025-02-01,Énergie,11371.75,Fournisseur C
+X000946,S07,2025-02-01,Marketing,11642.06,Fournisseur B
+X000947,S07,2025-02-01,Maintenance,1134.45,Fournisseur C
+X000948,S07,2025-02-01,Transport & logistique,13230.01,Fournisseur C
+X000949,S07,2025-03-01,Masse salariale,126323.38,Fournisseur B
+X000950,S07,2025-03-01,Loyer,62312.79,Fournisseur B
+X000951,S07,2025-03-01,Énergie,7657.11,Fournisseur A
+X000952,S07,2025-03-01,Marketing,9043.15,Fournisseur B
+X000953,S07,2025-03-01,Maintenance,3008.5,Interne
+X000954,S07,2025-03-01,Transport & logistique,12376.92,Fournisseur C
+X000955,S07,2025-04-01,Masse salariale,128644.17,Fournisseur A
+X000956,S07,2025-04-01,Loyer,65466.59,Fournisseur A
+X000957,S07,2025-04-01,Énergie,7890.44,Fournisseur C
+X000958,S07,2025-04-01,Marketing,8709.38,Fournisseur B
+X000959,S07,2025-04-01,Maintenance,3451.92,Fournisseur B
+X000960,S07,2025-04-01,Transport & logistique,12738.52,Interne
+X000961,S07,2025-05-01,Masse salariale,128342.31,Fournisseur A
+X000962,S07,2025-05-01,Loyer,62565.37,Fournisseur A
+X000963,S07,2025-05-01,Énergie,7561.13,Fournisseur B
+X000964,S07,2025-05-01,Marketing,3391.48,Interne
+X000965,S07,2025-05-01,Maintenance,1686.41,Fournisseur B
+X000966,S07,2025-05-01,Transport & logistique,8850.71,Fournisseur B
+X000967,S07,2025-06-01,Masse salariale,123135.79,Interne
+X000968,S07,2025-06-01,Loyer,64923.06,Fournisseur B
+X000969,S07,2025-06-01,Énergie,8313.96,Interne
+X000970,S07,2025-06-01,Marketing,4033.07,Fournisseur A
+X000971,S07,2025-06-01,Maintenance,3489.85,Fournisseur C
+X000972,S07,2025-06-01,Transport & logistique,13757.1,Interne
+X000973,S07,2025-07-01,Masse salariale,130187.32,Interne
+X000974,S07,2025-07-01,Loyer,64842.14,Fournisseur A
+X000975,S07,2025-07-01,Énergie,8026.93,Fournisseur B
+X000976,S07,2025-07-01,Marketing,9343.72,Interne
+X000977,S07,2025-07-01,Maintenance,3685.03,Fournisseur B
+X000978,S07,2025-07-01,Transport & logistique,10444.65,Interne
+X000979,S07,2025-08-01,Masse salariale,123501.95,Fournisseur A
+X000980,S07,2025-08-01,Loyer,62893.9,Fournisseur A
+X000981,S07,2025-08-01,Énergie,7979.73,Fournisseur C
+X000982,S07,2025-08-01,Marketing,10612.36,Fournisseur C
+X000983,S07,2025-08-01,Maintenance,4090.58,Interne
+X000984,S07,2025-08-01,Transport & logistique,9305.34,Fournisseur C
+X000985,S07,2025-09-01,Masse salariale,124320.98,Fournisseur C
+X000986,S07,2025-09-01,Loyer,63415.48,Interne
+X000987,S07,2025-09-01,Énergie,8047.29,Fournisseur C
+X000988,S07,2025-09-01,Marketing,9881.93,Interne
+X000989,S07,2025-09-01,Maintenance,838.29,Fournisseur A
+X000990,S07,2025-09-01,Transport & logistique,9151.35,Interne
+X000991,S07,2025-10-01,Masse salariale,126011.04,Fournisseur B
+X000992,S07,2025-10-01,Loyer,64534.53,Fournisseur C
+X000993,S07,2025-10-01,Énergie,8300.88,Interne
+X000994,S07,2025-10-01,Marketing,8621.39,Interne
+X000995,S07,2025-10-01,Maintenance,2086.62,Fournisseur B
+X000996,S07,2025-10-01,Transport & logistique,8356.39,Fournisseur B
+X000997,S07,2025-11-01,Masse salariale,123124.57,Fournisseur C
+X000998,S07,2025-11-01,Loyer,62373.42,Fournisseur B
+X000999,S07,2025-11-01,Énergie,7920.1,Fournisseur A
+X001000,S07,2025-11-01,Marketing,18430.56,Fournisseur A
+X001001,S07,2025-11-01,Maintenance,2019.31,Fournisseur B
+X001002,S07,2025-11-01,Transport & logistique,7137.1,Fournisseur A
+X001003,S07,2025-12-01,Masse salariale,121951.55,Interne
+X001004,S07,2025-12-01,Loyer,65196.28,Fournisseur C
+X001005,S07,2025-12-01,Énergie,11517.09,Interne
+X001006,S07,2025-12-01,Marketing,6264.11,Fournisseur C
+X001007,S07,2025-12-01,Maintenance,2720.71,Fournisseur A
+X001008,S07,2025-12-01,Transport & logistique,10692.75,Fournisseur B
+X001009,S08,2024-01-01,Masse salariale,63258.85,Fournisseur C
+X001010,S08,2024-01-01,Loyer,27782.39,Fournisseur C
+X001011,S08,2024-01-01,Énergie,4821.0,Fournisseur C
+X001012,S08,2024-01-01,Marketing,17830.13,Fournisseur C
+X001013,S08,2024-01-01,Maintenance,3007.73,Fournisseur B
+X001014,S08,2024-01-01,Transport & logistique,8058.01,Fournisseur C
+X001015,S08,2024-02-01,Masse salariale,58652.59,Interne
+X001016,S08,2024-02-01,Loyer,28285.71,Fournisseur B
+X001017,S08,2024-02-01,Énergie,4821.83,Fournisseur A
+X001018,S08,2024-02-01,Marketing,7885.12,Fournisseur A
+X001019,S08,2024-02-01,Maintenance,3479.82,Fournisseur B
+X001020,S08,2024-02-01,Transport & logistique,7475.54,Interne
+X001021,S08,2024-03-01,Masse salariale,62559.13,Fournisseur A
+X001022,S08,2024-03-01,Loyer,26743.89,Fournisseur A
+X001023,S08,2024-03-01,Énergie,3379.33,Fournisseur B
+X001024,S08,2024-03-01,Marketing,4356.47,Fournisseur A
+X001025,S08,2024-03-01,Maintenance,3095.63,Fournisseur C
+X001026,S08,2024-03-01,Transport & logistique,4557.45,Interne
+X001027,S08,2024-04-01,Masse salariale,63459.9,Fournisseur C
+X001028,S08,2024-04-01,Loyer,26985.67,Interne
+X001029,S08,2024-04-01,Énergie,3269.98,Fournisseur C
+X001030,S08,2024-04-01,Marketing,8715.32,Interne
+X001031,S08,2024-04-01,Maintenance,3718.5,Fournisseur C
+X001032,S08,2024-04-01,Transport & logistique,6547.7,Fournisseur C
+X001033,S08,2024-05-01,Masse salariale,59506.12,Fournisseur A
+X001034,S08,2024-05-01,Loyer,25854.12,Fournisseur A
+X001035,S08,2024-05-01,Énergie,3317.83,Fournisseur B
+X001036,S08,2024-05-01,Marketing,4683.73,Fournisseur A
+X001037,S08,2024-05-01,Maintenance,1856.04,Interne
+X001038,S08,2024-05-01,Transport & logistique,9054.15,Fournisseur A
+X001039,S08,2024-06-01,Masse salariale,62354.33,Fournisseur C
+X001040,S08,2024-06-01,Loyer,26810.47,Fournisseur B
+X001041,S08,2024-06-01,Énergie,3159.16,Fournisseur B
+X001042,S08,2024-06-01,Marketing,3697.8,Fournisseur B
+X001043,S08,2024-06-01,Maintenance,1094.92,Fournisseur B
+X001044,S08,2024-06-01,Transport & logistique,8011.49,Fournisseur A
+X001045,S08,2024-07-01,Masse salariale,61913.78,Interne
+X001046,S08,2024-07-01,Loyer,27091.16,Interne
+X001047,S08,2024-07-01,Énergie,3382.76,Fournisseur A
+X001048,S08,2024-07-01,Marketing,5867.73,Interne
+X001049,S08,2024-07-01,Maintenance,1556.39,Interne
+X001050,S08,2024-07-01,Transport & logistique,5434.32,Interne
+X001051,S08,2024-08-01,Masse salariale,60216.57,Interne
+X001052,S08,2024-08-01,Loyer,26880.89,Fournisseur A
+X001053,S08,2024-08-01,Énergie,3431.31,Interne
+X001054,S08,2024-08-01,Marketing,8706.39,Fournisseur A
+X001055,S08,2024-08-01,Maintenance,2433.7,Interne
+X001056,S08,2024-08-01,Transport & logistique,12415.07,Fournisseur B
+X001057,S08,2024-09-01,Masse salariale,58798.95,Fournisseur B
+X001058,S08,2024-09-01,Loyer,26177.39,Fournisseur C
+X001059,S08,2024-09-01,Énergie,3173.15,Fournisseur C
+X001060,S08,2024-09-01,Marketing,11722.78,Fournisseur B
+X001061,S08,2024-09-01,Maintenance,3168.73,Fournisseur A
+X001062,S08,2024-09-01,Transport & logistique,6827.73,Fournisseur A
+X001063,S08,2024-10-01,Masse salariale,62470.05,Fournisseur B
+X001064,S08,2024-10-01,Loyer,27853.04,Interne
+X001065,S08,2024-10-01,Énergie,3282.59,Fournisseur A
+X001066,S08,2024-10-01,Marketing,4103.8,Fournisseur A
+X001067,S08,2024-10-01,Maintenance,3816.46,Fournisseur C
+X001068,S08,2024-10-01,Transport & logistique,12772.02,Fournisseur C
+X001069,S08,2024-11-01,Masse salariale,59708.11,Interne
+X001070,S08,2024-11-01,Loyer,25961.39,Fournisseur A
+X001071,S08,2024-11-01,Énergie,3205.45,Fournisseur B
+X001072,S08,2024-11-01,Marketing,15318.74,Interne
+X001073,S08,2024-11-01,Maintenance,2147.74,Fournisseur B
+X001074,S08,2024-11-01,Transport & logistique,11258.05,Fournisseur A
+X001075,S08,2024-12-01,Masse salariale,61310.69,Fournisseur C
+X001076,S08,2024-12-01,Loyer,28254.05,Interne
+X001077,S08,2024-12-01,Énergie,4465.29,Fournisseur B
+X001078,S08,2024-12-01,Marketing,7733.35,Fournisseur A
+X001079,S08,2024-12-01,Maintenance,1379.56,Fournisseur A
+X001080,S08,2024-12-01,Transport & logistique,13055.79,Interne
+X001081,S08,2025-01-01,Masse salariale,58225.56,Interne
+X001082,S08,2025-01-01,Loyer,25883.74,Fournisseur C
+X001083,S08,2025-01-01,Énergie,4658.56,Fournisseur C
+X001084,S08,2025-01-01,Marketing,6610.05,Fournisseur B
+X001085,S08,2025-01-01,Maintenance,1211.52,Interne
+X001086,S08,2025-01-01,Transport & logistique,8404.06,Fournisseur C
+X001087,S08,2025-02-01,Masse salariale,59175.75,Fournisseur A
+X001088,S08,2025-02-01,Loyer,28001.32,Fournisseur C
+X001089,S08,2025-02-01,Énergie,4416.87,Fournisseur B
+X001090,S08,2025-02-01,Marketing,9077.89,Fournisseur A
+X001091,S08,2025-02-01,Maintenance,2165.07,Fournisseur C
+X001092,S08,2025-02-01,Transport & logistique,9372.94,Fournisseur A
+X001093,S08,2025-03-01,Masse salariale,61778.48,Fournisseur B
+X001094,S08,2025-03-01,Loyer,27582.15,Fournisseur A
+X001095,S08,2025-03-01,Énergie,3441.5,Fournisseur B
+X001096,S08,2025-03-01,Marketing,3134.49,Fournisseur A
+X001097,S08,2025-03-01,Maintenance,2641.93,Fournisseur C
+X001098,S08,2025-03-01,Transport & logistique,8136.19,Fournisseur B
+X001099,S08,2025-04-01,Masse salariale,58425.84,Fournisseur C
+X001100,S08,2025-04-01,Loyer,26160.6,Fournisseur C
+X001101,S08,2025-04-01,Énergie,3327.65,Fournisseur B
+X001102,S08,2025-04-01,Marketing,8943.46,Fournisseur C
+X001103,S08,2025-04-01,Maintenance,2516.94,Interne
+X001104,S08,2025-04-01,Transport & logistique,13723.27,Fournisseur A
+X001105,S08,2025-05-01,Masse salariale,58756.83,Interne
+X001106,S08,2025-05-01,Loyer,26788.08,Fournisseur C
+X001107,S08,2025-05-01,Énergie,3361.79,Fournisseur B
+X001108,S08,2025-05-01,Marketing,9651.35,Fournisseur B
+X001109,S08,2025-05-01,Maintenance,3570.52,Fournisseur A
+X001110,S08,2025-05-01,Transport & logistique,13414.03,Fournisseur C
+X001111,S08,2025-06-01,Masse salariale,61514.73,Interne
+X001112,S08,2025-06-01,Loyer,28072.09,Fournisseur C
+X001113,S08,2025-06-01,Énergie,3341.43,Fournisseur A
+X001114,S08,2025-06-01,Marketing,9509.83,Fournisseur A
+X001115,S08,2025-06-01,Maintenance,3339.51,Fournisseur B
+X001116,S08,2025-06-01,Transport & logistique,9592.54,Fournisseur B
+X001117,S08,2025-07-01,Masse salariale,58522.4,Fournisseur A
+X001118,S08,2025-07-01,Loyer,26382.11,Fournisseur A
+X001119,S08,2025-07-01,Énergie,3464.99,Fournisseur C
+X001120,S08,2025-07-01,Marketing,10059.05,Fournisseur C
+X001121,S08,2025-07-01,Maintenance,1550.61,Interne
+X001122,S08,2025-07-01,Transport & logistique,8414.12,Fournisseur B
+X001123,S08,2025-08-01,Masse salariale,61465.18,Fournisseur C
+X001124,S08,2025-08-01,Loyer,26711.12,Fournisseur B
+X001125,S08,2025-08-01,Énergie,3353.14,Interne
+X001126,S08,2025-08-01,Marketing,3580.76,Fournisseur B
+X001127,S08,2025-08-01,Maintenance,2705.77,Fournisseur B
+X001128,S08,2025-08-01,Transport & logistique,12284.14,Fournisseur C
+X001129,S08,2025-09-01,Masse salariale,61431.82,Interne
+X001130,S08,2025-09-01,Loyer,26260.21,Fournisseur A
+X001131,S08,2025-09-01,Énergie,3321.6,Fournisseur A
+X001132,S08,2025-09-01,Marketing,10971.31,Fournisseur A
+X001133,S08,2025-09-01,Maintenance,2535.34,Interne
+X001134,S08,2025-09-01,Transport & logistique,4031.46,Fournisseur B
+X001135,S08,2025-10-01,Masse salariale,59794.48,Fournisseur B
+X001136,S08,2025-10-01,Loyer,27361.04,Fournisseur A
+X001137,S08,2025-10-01,Énergie,3324.49,Interne
+X001138,S08,2025-10-01,Marketing,10641.18,Fournisseur B
+X001139,S08,2025-10-01,Maintenance,1278.27,Fournisseur C
+X001140,S08,2025-10-01,Transport & logistique,10003.55,Fournisseur C
+X001141,S08,2025-11-01,Masse salariale,58203.31,Interne
+X001142,S08,2025-11-01,Loyer,26700.89,Interne
+X001143,S08,2025-11-01,Énergie,3331.09,Fournisseur C
+X001144,S08,2025-11-01,Marketing,14383.82,Interne
+X001145,S08,2025-11-01,Maintenance,1956.21,Fournisseur B
+X001146,S08,2025-11-01,Transport & logistique,13644.35,Fournisseur B
+X001147,S08,2025-12-01,Masse salariale,62580.46,Fournisseur B
+X001148,S08,2025-12-01,Loyer,27731.03,Fournisseur A
+X001149,S08,2025-12-01,Énergie,4527.36,Interne
+X001150,S08,2025-12-01,Marketing,8902.55,Fournisseur A
+X001151,S08,2025-12-01,Maintenance,3453.8,Interne
+X001152,S08,2025-12-01,Transport & logistique,5171.25,Interne
+X001153,S09,2024-01-01,Masse salariale,128328.0,Fournisseur B
+X001154,S09,2024-01-01,Loyer,67584.84,Interne
+X001155,S09,2024-01-01,Énergie,10962.44,Fournisseur A
+X001156,S09,2024-01-01,Marketing,11187.31,Interne
+X001157,S09,2024-01-01,Maintenance,1507.71,Fournisseur C
+X001158,S09,2024-01-01,Transport & logistique,12324.02,Fournisseur B
+X001159,S09,2024-02-01,Masse salariale,121913.05,Fournisseur C
+X001160,S09,2024-02-01,Loyer,68759.46,Fournisseur C
+X001161,S09,2024-02-01,Énergie,11932.68,Fournisseur B
+X001162,S09,2024-02-01,Marketing,4560.38,Fournisseur A
+X001163,S09,2024-02-01,Maintenance,1410.17,Fournisseur B
+X001164,S09,2024-02-01,Transport & logistique,7073.12,Fournisseur A
+X001165,S09,2024-03-01,Masse salariale,120167.46,Fournisseur C
+X001166,S09,2024-03-01,Loyer,68037.6,Fournisseur B
+X001167,S09,2024-03-01,Énergie,8501.47,Fournisseur C
+X001168,S09,2024-03-01,Marketing,9104.88,Fournisseur C
+X001169,S09,2024-03-01,Maintenance,2451.67,Fournisseur C
+X001170,S09,2024-03-01,Transport & logistique,7405.46,Fournisseur A
+X001171,S09,2024-04-01,Masse salariale,117669.36,Fournisseur A
+X001172,S09,2024-04-01,Loyer,66015.45,Fournisseur C
+X001173,S09,2024-04-01,Énergie,7850.05,Interne
+X001174,S09,2024-04-01,Marketing,5611.98,Fournisseur C
+X001175,S09,2024-04-01,Maintenance,1671.29,Interne
+X001176,S09,2024-04-01,Transport & logistique,7655.26,Fournisseur A
+X001177,S09,2024-05-01,Masse salariale,117207.49,Fournisseur B
+X001178,S09,2024-05-01,Loyer,63880.66,Fournisseur A
+X001179,S09,2024-05-01,Énergie,7956.07,Fournisseur B
+X001180,S09,2024-05-01,Marketing,11299.64,Fournisseur A
+X001181,S09,2024-05-01,Maintenance,3884.76,Fournisseur A
+X001182,S09,2024-05-01,Transport & logistique,8957.49,Fournisseur C
+X001183,S09,2024-06-01,Masse salariale,117131.2,Fournisseur A
+X001184,S09,2024-06-01,Loyer,66883.28,Interne
+X001185,S09,2024-06-01,Énergie,8376.36,Interne
+X001186,S09,2024-06-01,Marketing,8770.74,Interne
+X001187,S09,2024-06-01,Maintenance,1579.89,Fournisseur C
+X001188,S09,2024-06-01,Transport & logistique,8707.36,Fournisseur C
+X001189,S09,2024-07-01,Masse salariale,119385.62,Fournisseur C
+X001190,S09,2024-07-01,Loyer,63312.21,Interne
+X001191,S09,2024-07-01,Énergie,8011.38,Interne
+X001192,S09,2024-07-01,Marketing,9780.93,Interne
+X001193,S09,2024-07-01,Maintenance,1303.78,Interne
+X001194,S09,2024-07-01,Transport & logistique,10323.71,Fournisseur B
+X001195,S09,2024-08-01,Masse salariale,123764.44,Fournisseur A
+X001196,S09,2024-08-01,Loyer,68721.52,Fournisseur C
+X001197,S09,2024-08-01,Énergie,8065.95,Fournisseur C
+X001198,S09,2024-08-01,Marketing,3166.35,Fournisseur A
+X001199,S09,2024-08-01,Maintenance,3984.62,Fournisseur C
+X001200,S09,2024-08-01,Transport & logistique,9607.2,Interne
+X001201,S09,2024-09-01,Masse salariale,124385.66,Fournisseur C
+X001202,S09,2024-09-01,Loyer,65324.95,Fournisseur C
+X001203,S09,2024-09-01,Énergie,8074.04,Fournisseur C
+X001204,S09,2024-09-01,Marketing,8115.35,Fournisseur C
+X001205,S09,2024-09-01,Maintenance,2484.0,Fournisseur A
+X001206,S09,2024-09-01,Transport & logistique,10238.91,Interne
+X001207,S09,2024-10-01,Masse salariale,119414.17,Fournisseur A
+X001208,S09,2024-10-01,Loyer,65214.29,Fournisseur B
+X001209,S09,2024-10-01,Énergie,8528.26,Interne
+X001210,S09,2024-10-01,Marketing,9932.43,Fournisseur C
+X001211,S09,2024-10-01,Maintenance,3940.02,Fournisseur A
+X001212,S09,2024-10-01,Transport & logistique,11115.09,Fournisseur C
+X001213,S09,2024-11-01,Masse salariale,120350.66,Interne
+X001214,S09,2024-11-01,Loyer,68833.05,Fournisseur C
+X001215,S09,2024-11-01,Énergie,7922.42,Fournisseur B
+X001216,S09,2024-11-01,Marketing,22983.44,Fournisseur C
+X001217,S09,2024-11-01,Maintenance,1208.55,Fournisseur C
+X001218,S09,2024-11-01,Transport & logistique,11677.53,Interne
+X001219,S09,2024-12-01,Masse salariale,128307.83,Interne
+X001220,S09,2024-12-01,Loyer,67024.75,Fournisseur A
+X001221,S09,2024-12-01,Énergie,11537.78,Fournisseur C
+X001222,S09,2024-12-01,Marketing,5492.48,Fournisseur B
+X001223,S09,2024-12-01,Maintenance,807.06,Interne
+X001224,S09,2024-12-01,Transport & logistique,6171.42,Interne
+X001225,S09,2025-01-01,Masse salariale,120120.78,Fournisseur B
+X001226,S09,2025-01-01,Loyer,64864.77,Fournisseur C
+X001227,S09,2025-01-01,Énergie,11390.47,Fournisseur B
+X001228,S09,2025-01-01,Marketing,11814.17,Fournisseur B
+X001229,S09,2025-01-01,Maintenance,3198.31,Fournisseur B
+X001230,S09,2025-01-01,Transport & logistique,12673.27,Fournisseur A
+X001231,S09,2025-02-01,Masse salariale,126924.55,Fournisseur C
+X001232,S09,2025-02-01,Loyer,63929.31,Fournisseur A
+X001233,S09,2025-02-01,Énergie,11574.46,Fournisseur B
+X001234,S09,2025-02-01,Marketing,3352.12,Fournisseur C
+X001235,S09,2025-02-01,Maintenance,3813.95,Interne
+X001236,S09,2025-02-01,Transport & logistique,12837.51,Fournisseur A
+X001237,S09,2025-03-01,Masse salariale,124392.65,Fournisseur C
+X001238,S09,2025-03-01,Loyer,65314.73,Interne
+X001239,S09,2025-03-01,Énergie,8149.91,Fournisseur C
+X001240,S09,2025-03-01,Marketing,8670.79,Interne
+X001241,S09,2025-03-01,Maintenance,2478.67,Fournisseur A
+X001242,S09,2025-03-01,Transport & logistique,9728.36,Fournisseur B
+X001243,S09,2025-04-01,Masse salariale,117077.23,Interne
+X001244,S09,2025-04-01,Loyer,68944.41,Fournisseur C
+X001245,S09,2025-04-01,Énergie,8236.77,Fournisseur B
+X001246,S09,2025-04-01,Marketing,5253.23,Fournisseur A
+X001247,S09,2025-04-01,Maintenance,1940.78,Interne
+X001248,S09,2025-04-01,Transport & logistique,11284.27,Fournisseur C
+X001249,S09,2025-05-01,Masse salariale,122654.31,Interne
+X001250,S09,2025-05-01,Loyer,66890.21,Fournisseur B
+X001251,S09,2025-05-01,Énergie,8537.99,Fournisseur A
+X001252,S09,2025-05-01,Marketing,11860.15,Fournisseur C
+X001253,S09,2025-05-01,Maintenance,2890.09,Fournisseur C
+X001254,S09,2025-05-01,Transport & logistique,6733.96,Fournisseur A
+X001255,S09,2025-06-01,Masse salariale,124582.38,Interne
+X001256,S09,2025-06-01,Loyer,64389.4,Fournisseur C
+X001257,S09,2025-06-01,Énergie,8294.16,Fournisseur C
+X001258,S09,2025-06-01,Marketing,6342.07,Fournisseur A
+X001259,S09,2025-06-01,Maintenance,1678.55,Fournisseur B
+X001260,S09,2025-06-01,Transport & logistique,14238.96,Interne
+X001261,S09,2025-07-01,Masse salariale,117797.78,Fournisseur C
+X001262,S09,2025-07-01,Loyer,68538.99,Fournisseur C
+X001263,S09,2025-07-01,Énergie,8422.56,Fournisseur A
+X001264,S09,2025-07-01,Marketing,6102.14,Interne
+X001265,S09,2025-07-01,Maintenance,3679.39,Interne
+X001266,S09,2025-07-01,Transport & logistique,12887.4,Fournisseur A
+X001267,S09,2025-08-01,Masse salariale,128840.5,Fournisseur C
+X001268,S09,2025-08-01,Loyer,69664.34,Fournisseur B
+X001269,S09,2025-08-01,Énergie,8142.62,Fournisseur C
+X001270,S09,2025-08-01,Marketing,10279.68,Fournisseur A
+X001271,S09,2025-08-01,Maintenance,988.49,Fournisseur A
+X001272,S09,2025-08-01,Transport & logistique,12618.35,Fournisseur A
+X001273,S09,2025-09-01,Masse salariale,120438.22,Fournisseur C
+X001274,S09,2025-09-01,Loyer,66652.54,Interne
+X001275,S09,2025-09-01,Énergie,8175.34,Fournisseur C
+X001276,S09,2025-09-01,Marketing,4063.67,Fournisseur A
+X001277,S09,2025-09-01,Maintenance,3318.72,Fournisseur C
+X001278,S09,2025-09-01,Transport & logistique,13287.82,Fournisseur B
+X001279,S09,2025-10-01,Masse salariale,117444.94,Interne
+X001280,S09,2025-10-01,Loyer,63847.75,Fournisseur A
+X001281,S09,2025-10-01,Énergie,7764.64,Fournisseur B
+X001282,S09,2025-10-01,Marketing,6679.78,Fournisseur B
+X001283,S09,2025-10-01,Maintenance,3546.3,Fournisseur C
+X001284,S09,2025-10-01,Transport & logistique,8636.74,Fournisseur B
+X001285,S09,2025-11-01,Masse salariale,116976.81,Fournisseur A
+X001286,S09,2025-11-01,Loyer,69332.97,Fournisseur B
+X001287,S09,2025-11-01,Énergie,7832.55,Interne
+X001288,S09,2025-11-01,Marketing,12043.39,Interne
+X001289,S09,2025-11-01,Maintenance,1531.1,Fournisseur C
+X001290,S09,2025-11-01,Transport & logistique,9163.3,Fournisseur C
+X001291,S09,2025-12-01,Masse salariale,118291.19,Fournisseur B
+X001292,S09,2025-12-01,Loyer,66299.84,Fournisseur C
+X001293,S09,2025-12-01,Énergie,11906.24,Interne
+X001294,S09,2025-12-01,Marketing,4159.45,Interne
+X001295,S09,2025-12-01,Maintenance,962.0,Fournisseur C
+X001296,S09,2025-12-01,Transport & logistique,13790.56,Interne
+X001297,S10,2024-01-01,Masse salariale,93632.03,Interne
+X001298,S10,2024-01-01,Loyer,48908.71,Fournisseur A
+X001299,S10,2024-01-01,Énergie,8343.45,Interne
+X001300,S10,2024-01-01,Marketing,19369.6,Interne
+X001301,S10,2024-01-01,Maintenance,3177.46,Fournisseur A
+X001302,S10,2024-01-01,Transport & logistique,4378.86,Fournisseur C
+X001303,S10,2024-02-01,Masse salariale,98135.99,Fournisseur A
+X001304,S10,2024-02-01,Loyer,50492.47,Fournisseur A
+X001305,S10,2024-02-01,Énergie,7955.64,Interne
+X001306,S10,2024-02-01,Marketing,9929.68,Fournisseur A
+X001307,S10,2024-02-01,Maintenance,2066.33,Fournisseur A
+X001308,S10,2024-02-01,Transport & logistique,14584.4,Fournisseur A
+X001309,S10,2024-03-01,Masse salariale,98462.5,Interne
+X001310,S10,2024-03-01,Loyer,50553.45,Fournisseur B
+X001311,S10,2024-03-01,Énergie,5726.1,Fournisseur A
+X001312,S10,2024-03-01,Marketing,8500.15,Interne
+X001313,S10,2024-03-01,Maintenance,2453.35,Fournisseur B
+X001314,S10,2024-03-01,Transport & logistique,11913.81,Fournisseur A
+X001315,S10,2024-04-01,Masse salariale,93692.94,Fournisseur C
+X001316,S10,2024-04-01,Loyer,47432.79,Fournisseur C
+X001317,S10,2024-04-01,Énergie,6119.27,Interne
+X001318,S10,2024-04-01,Marketing,9395.74,Fournisseur B
+X001319,S10,2024-04-01,Maintenance,1345.12,Interne
+X001320,S10,2024-04-01,Transport & logistique,12847.91,Fournisseur B
+X001321,S10,2024-05-01,Masse salariale,95626.8,Interne
+X001322,S10,2024-05-01,Loyer,47289.97,Fournisseur A
+X001323,S10,2024-05-01,Énergie,5885.28,Interne
+X001324,S10,2024-05-01,Marketing,11636.8,Fournisseur A
+X001325,S10,2024-05-01,Maintenance,887.79,Fournisseur A
+X001326,S10,2024-05-01,Transport & logistique,10421.84,Fournisseur A
+X001327,S10,2024-06-01,Masse salariale,92895.69,Interne
+X001328,S10,2024-06-01,Loyer,50505.16,Fournisseur B
+X001329,S10,2024-06-01,Énergie,5761.12,Fournisseur A
+X001330,S10,2024-06-01,Marketing,6955.03,Fournisseur A
+X001331,S10,2024-06-01,Maintenance,3142.86,Interne
+X001332,S10,2024-06-01,Transport & logistique,7148.26,Fournisseur C
+X001333,S10,2024-07-01,Masse salariale,93498.85,Fournisseur B
+X001334,S10,2024-07-01,Loyer,48644.18,Fournisseur B
+X001335,S10,2024-07-01,Énergie,6220.13,Fournisseur A
+X001336,S10,2024-07-01,Marketing,5307.97,Fournisseur C
+X001337,S10,2024-07-01,Maintenance,3753.2,Interne
+X001338,S10,2024-07-01,Transport & logistique,6290.72,Fournisseur C
+X001339,S10,2024-08-01,Masse salariale,96885.27,Fournisseur C
+X001340,S10,2024-08-01,Loyer,49022.18,Fournisseur C
+X001341,S10,2024-08-01,Énergie,6040.75,Fournisseur C
+X001342,S10,2024-08-01,Marketing,11749.08,Fournisseur C
+X001343,S10,2024-08-01,Maintenance,1104.19,Fournisseur A
+X001344,S10,2024-08-01,Transport & logistique,7767.4,Fournisseur C
+X001345,S10,2024-09-01,Masse salariale,95704.4,Fournisseur B
+X001346,S10,2024-09-01,Loyer,50878.82,Interne
+X001347,S10,2024-09-01,Énergie,5797.22,Interne
+X001348,S10,2024-09-01,Marketing,7428.68,Fournisseur B
+X001349,S10,2024-09-01,Maintenance,3858.76,Interne
+X001350,S10,2024-09-01,Transport & logistique,11771.91,Fournisseur C
+X001351,S10,2024-10-01,Masse salariale,92290.52,Fournisseur C
+X001352,S10,2024-10-01,Loyer,47093.24,Fournisseur C
+X001353,S10,2024-10-01,Énergie,6139.59,Fournisseur B
+X001354,S10,2024-10-01,Marketing,3758.41,Interne
+X001355,S10,2024-10-01,Maintenance,4007.97,Fournisseur C
+X001356,S10,2024-10-01,Transport & logistique,6263.7,Fournisseur C
+X001357,S10,2024-11-01,Masse salariale,92838.48,Interne
+X001358,S10,2024-11-01,Loyer,48896.33,Fournisseur B
+X001359,S10,2024-11-01,Énergie,5966.41,Fournisseur B
+X001360,S10,2024-11-01,Marketing,12283.72,Fournisseur B
+X001361,S10,2024-11-01,Maintenance,2900.53,Fournisseur B
+X001362,S10,2024-11-01,Transport & logistique,7374.79,Interne
+X001363,S10,2024-12-01,Masse salariale,95230.86,Fournisseur B
+X001364,S10,2024-12-01,Loyer,48994.63,Fournisseur A
+X001365,S10,2024-12-01,Énergie,8550.18,Interne
+X001366,S10,2024-12-01,Marketing,5668.28,Fournisseur C
+X001367,S10,2024-12-01,Maintenance,2955.38,Fournisseur C
+X001368,S10,2024-12-01,Transport & logistique,12054.21,Interne
+X001369,S10,2025-01-01,Masse salariale,94176.46,Fournisseur C
+X001370,S10,2025-01-01,Loyer,47807.57,Interne
+X001371,S10,2025-01-01,Énergie,8407.0,Fournisseur C
+X001372,S10,2025-01-01,Marketing,24236.15,Fournisseur B
+X001373,S10,2025-01-01,Maintenance,3396.38,Fournisseur A
+X001374,S10,2025-01-01,Transport & logistique,7023.21,Fournisseur B
+X001375,S10,2025-02-01,Masse salariale,100276.75,Fournisseur A
+X001376,S10,2025-02-01,Loyer,48577.68,Fournisseur B
+X001377,S10,2025-02-01,Énergie,8379.21,Fournisseur A
+X001378,S10,2025-02-01,Marketing,6192.54,Fournisseur C
+X001379,S10,2025-02-01,Maintenance,2636.4,Fournisseur B
+X001380,S10,2025-02-01,Transport & logistique,8483.42,Interne
+X001381,S10,2025-03-01,Masse salariale,95687.09,Fournisseur B
+X001382,S10,2025-03-01,Loyer,49629.09,Fournisseur B
+X001383,S10,2025-03-01,Énergie,5775.03,Fournisseur A
+X001384,S10,2025-03-01,Marketing,8455.27,Fournisseur B
+X001385,S10,2025-03-01,Maintenance,2476.94,Fournisseur C
+X001386,S10,2025-03-01,Transport & logistique,7876.84,Fournisseur C
+X001387,S10,2025-04-01,Masse salariale,97555.29,Interne
+X001388,S10,2025-04-01,Loyer,48473.8,Fournisseur A
+X001389,S10,2025-04-01,Énergie,6079.06,Fournisseur A
+X001390,S10,2025-04-01,Marketing,3645.75,Fournisseur A
+X001391,S10,2025-04-01,Maintenance,2103.38,Fournisseur B
+X001392,S10,2025-04-01,Transport & logistique,7876.61,Fournisseur B
+X001393,S10,2025-05-01,Masse salariale,96822.08,Fournisseur A
+X001394,S10,2025-05-01,Loyer,47437.42,Interne
+X001395,S10,2025-05-01,Énergie,5776.81,Fournisseur A
+X001396,S10,2025-05-01,Marketing,5770.96,Fournisseur C
+X001397,S10,2025-05-01,Maintenance,3281.95,Fournisseur B
+X001398,S10,2025-05-01,Transport & logistique,10322.47,Fournisseur C
+X001399,S10,2025-06-01,Masse salariale,98537.82,Fournisseur A
+X001400,S10,2025-06-01,Loyer,47884.4,Fournisseur A
+X001401,S10,2025-06-01,Énergie,6071.89,Fournisseur B
+X001402,S10,2025-06-01,Marketing,8788.11,Fournisseur A
+X001403,S10,2025-06-01,Maintenance,3696.13,Fournisseur C
+X001404,S10,2025-06-01,Transport & logistique,13410.57,Fournisseur A
+X001405,S10,2025-07-01,Masse salariale,92374.0,Interne
+X001406,S10,2025-07-01,Loyer,50711.16,Interne
+X001407,S10,2025-07-01,Énergie,5929.78,Fournisseur C
+X001408,S10,2025-07-01,Marketing,7077.27,Fournisseur A
+X001409,S10,2025-07-01,Maintenance,998.85,Fournisseur B
+X001410,S10,2025-07-01,Transport & logistique,11494.46,Fournisseur A
+X001411,S10,2025-08-01,Masse salariale,101327.76,Fournisseur B
+X001412,S10,2025-08-01,Loyer,49381.05,Interne
+X001413,S10,2025-08-01,Énergie,6098.22,Interne
+X001414,S10,2025-08-01,Marketing,6916.97,Fournisseur C
+X001415,S10,2025-08-01,Maintenance,2269.3,Fournisseur B
+X001416,S10,2025-08-01,Transport & logistique,5714.66,Fournisseur C
+X001417,S10,2025-09-01,Masse salariale,93074.22,Fournisseur C
+X001418,S10,2025-09-01,Loyer,47076.98,Interne
+X001419,S10,2025-09-01,Énergie,6104.41,Fournisseur B
+X001420,S10,2025-09-01,Marketing,9887.77,Fournisseur A
+X001421,S10,2025-09-01,Maintenance,3836.95,Fournisseur C
+X001422,S10,2025-09-01,Transport & logistique,12152.56,Interne
+X001423,S10,2025-10-01,Masse salariale,99292.38,Interne
+X001424,S10,2025-10-01,Loyer,49714.82,Fournisseur B
+X001425,S10,2025-10-01,Énergie,6198.97,Fournisseur B
+X001426,S10,2025-10-01,Marketing,3130.71,Fournisseur A
+X001427,S10,2025-10-01,Maintenance,912.34,Fournisseur B
+X001428,S10,2025-10-01,Transport & logistique,10849.49,Fournisseur A
+X001429,S10,2025-11-01,Masse salariale,92610.72,Fournisseur B
+X001430,S10,2025-11-01,Loyer,50155.24,Fournisseur C
+X001431,S10,2025-11-01,Énergie,5893.01,Fournisseur C
+X001432,S10,2025-11-01,Marketing,10457.4,Interne
+X001433,S10,2025-11-01,Maintenance,1822.59,Fournisseur A
+X001434,S10,2025-11-01,Transport & logistique,4970.74,Fournisseur C
+X001435,S10,2025-12-01,Masse salariale,97585.95,Fournisseur C
+X001436,S10,2025-12-01,Loyer,49728.51,Fournisseur B
+X001437,S10,2025-12-01,Énergie,8365.78,Fournisseur C
+X001438,S10,2025-12-01,Marketing,8916.15,Fournisseur C
+X001439,S10,2025-12-01,Maintenance,2785.8,Fournisseur B
+X001440,S10,2025-12-01,Transport & logistique,14666.84,Fournisseur A
+X001441,S11,2024-01-01,Masse salariale,53742.8,Fournisseur A
+X001442,S11,2024-01-01,Loyer,24967.98,Fournisseur A
+X001443,S11,2024-01-01,Énergie,4449.81,Interne
+X001444,S11,2024-01-01,Marketing,17293.87,Fournisseur C
+X001445,S11,2024-01-01,Maintenance,3167.88,Fournisseur A
+X001446,S11,2024-01-01,Transport & logistique,10835.42,Fournisseur C
+X001447,S11,2024-02-01,Masse salariale,54175.35,Fournisseur C
+X001448,S11,2024-02-01,Loyer,26143.14,Interne
+X001449,S11,2024-02-01,Énergie,4427.7,Interne
+X001450,S11,2024-02-01,Marketing,9942.0,Fournisseur B
+X001451,S11,2024-02-01,Maintenance,3854.54,Interne
+X001452,S11,2024-02-01,Transport & logistique,6768.93,Fournisseur C
+X001453,S11,2024-03-01,Masse salariale,49175.3,Fournisseur C
+X001454,S11,2024-03-01,Loyer,26232.26,Interne
+X001455,S11,2024-03-01,Énergie,3179.1,Fournisseur A
+X001456,S11,2024-03-01,Marketing,7796.49,Fournisseur B
+X001457,S11,2024-03-01,Maintenance,3254.07,Fournisseur A
+X001458,S11,2024-03-01,Transport & logistique,5736.18,Fournisseur B
+X001459,S11,2024-04-01,Masse salariale,51144.06,Fournisseur C
+X001460,S11,2024-04-01,Loyer,25276.67,Fournisseur B
+X001461,S11,2024-04-01,Énergie,3125.64,Interne
+X001462,S11,2024-04-01,Marketing,10201.22,Fournisseur B
+X001463,S11,2024-04-01,Maintenance,1117.74,Fournisseur B
+X001464,S11,2024-04-01,Transport & logistique,13403.37,Interne
+X001465,S11,2024-05-01,Masse salariale,51571.15,Fournisseur B
+X001466,S11,2024-05-01,Loyer,26417.87,Fournisseur C
+X001467,S11,2024-05-01,Énergie,3191.36,Fournisseur A
+X001468,S11,2024-05-01,Marketing,7029.94,Fournisseur C
+X001469,S11,2024-05-01,Maintenance,3895.49,Fournisseur C
+X001470,S11,2024-05-01,Transport & logistique,14528.93,Fournisseur C
+X001471,S11,2024-06-01,Masse salariale,50914.28,Interne
+X001472,S11,2024-06-01,Loyer,24057.65,Fournisseur A
+X001473,S11,2024-06-01,Énergie,3173.66,Fournisseur C
+X001474,S11,2024-06-01,Marketing,12344.13,Fournisseur A
+X001475,S11,2024-06-01,Maintenance,1607.9,Interne
+X001476,S11,2024-06-01,Transport & logistique,8181.58,Fournisseur C
+X001477,S11,2024-07-01,Masse salariale,53733.41,Interne
+X001478,S11,2024-07-01,Loyer,25575.64,Fournisseur A
+X001479,S11,2024-07-01,Énergie,3143.24,Fournisseur C
+X001480,S11,2024-07-01,Marketing,6823.13,Fournisseur C
+X001481,S11,2024-07-01,Maintenance,2572.84,Fournisseur C
+X001482,S11,2024-07-01,Transport & logistique,6922.85,Fournisseur C
+X001483,S11,2024-08-01,Masse salariale,49971.7,Fournisseur B
+X001484,S11,2024-08-01,Loyer,25784.21,Fournisseur A
+X001485,S11,2024-08-01,Énergie,3208.67,Fournisseur B
+X001486,S11,2024-08-01,Marketing,7374.61,Fournisseur B
+X001487,S11,2024-08-01,Maintenance,2446.18,Fournisseur C
+X001488,S11,2024-08-01,Transport & logistique,6051.12,Fournisseur C
+X001489,S11,2024-09-01,Masse salariale,53874.87,Fournisseur A
+X001490,S11,2024-09-01,Loyer,26325.93,Interne
+X001491,S11,2024-09-01,Énergie,2969.82,Fournisseur A
+X001492,S11,2024-09-01,Marketing,3673.56,Fournisseur B
+X001493,S11,2024-09-01,Maintenance,1365.09,Fournisseur C
+X001494,S11,2024-09-01,Transport & logistique,11598.4,Interne
+X001495,S11,2024-10-01,Masse salariale,50214.64,Fournisseur B
+X001496,S11,2024-10-01,Loyer,26041.31,Fournisseur B
+X001497,S11,2024-10-01,Énergie,2983.47,Fournisseur A
+X001498,S11,2024-10-01,Marketing,9272.06,Fournisseur C
+X001499,S11,2024-10-01,Maintenance,2487.48,Interne
+X001500,S11,2024-10-01,Transport & logistique,13317.59,Fournisseur C
+X001501,S11,2024-11-01,Masse salariale,51816.06,Fournisseur B
+X001502,S11,2024-11-01,Loyer,24985.41,Fournisseur A
+X001503,S11,2024-11-01,Énergie,3060.83,Fournisseur A
+X001504,S11,2024-11-01,Marketing,22010.09,Fournisseur B
+X001505,S11,2024-11-01,Maintenance,1202.39,Fournisseur C
+X001506,S11,2024-11-01,Transport & logistique,13655.11,Interne
+X001507,S11,2024-12-01,Masse salariale,52045.35,Fournisseur C
+X001508,S11,2024-12-01,Loyer,24522.18,Fournisseur C
+X001509,S11,2024-12-01,Énergie,4247.68,Fournisseur C
+X001510,S11,2024-12-01,Marketing,9587.48,Fournisseur C
+X001511,S11,2024-12-01,Maintenance,809.15,Fournisseur C
+X001512,S11,2024-12-01,Transport & logistique,7313.02,Interne
+X001513,S11,2025-01-01,Masse salariale,54139.97,Fournisseur A
+X001514,S11,2025-01-01,Loyer,25311.48,Fournisseur B
+X001515,S11,2025-01-01,Énergie,4300.29,Fournisseur B
+X001516,S11,2025-01-01,Marketing,7155.4,Fournisseur A
+X001517,S11,2025-01-01,Maintenance,2131.98,Fournisseur A
+X001518,S11,2025-01-01,Transport & logistique,9134.72,Fournisseur A
+X001519,S11,2025-02-01,Masse salariale,53702.34,Fournisseur A
+X001520,S11,2025-02-01,Loyer,24412.01,Fournisseur B
+X001521,S11,2025-02-01,Énergie,4254.08,Interne
+X001522,S11,2025-02-01,Marketing,4177.19,Fournisseur B
+X001523,S11,2025-02-01,Maintenance,1907.01,Fournisseur C
+X001524,S11,2025-02-01,Transport & logistique,11294.17,Fournisseur B
+X001525,S11,2025-03-01,Masse salariale,51536.19,Fournisseur A
+X001526,S11,2025-03-01,Loyer,25742.68,Fournisseur B
+X001527,S11,2025-03-01,Énergie,3016.82,Fournisseur B
+X001528,S11,2025-03-01,Marketing,7987.42,Interne
+X001529,S11,2025-03-01,Maintenance,3005.09,Fournisseur C
+X001530,S11,2025-03-01,Transport & logistique,5161.33,Interne
+X001531,S11,2025-04-01,Masse salariale,53196.22,Fournisseur A
+X001532,S11,2025-04-01,Loyer,24954.28,Fournisseur B
+X001533,S11,2025-04-01,Énergie,3157.23,Fournisseur A
+X001534,S11,2025-04-01,Marketing,10649.69,Fournisseur A
+X001535,S11,2025-04-01,Maintenance,3030.51,Fournisseur C
+X001536,S11,2025-04-01,Transport & logistique,13016.16,Fournisseur C
+X001537,S11,2025-05-01,Masse salariale,53571.16,Fournisseur C
+X001538,S11,2025-05-01,Loyer,25144.1,Fournisseur C
+X001539,S11,2025-05-01,Énergie,3118.3,Fournisseur B
+X001540,S11,2025-05-01,Marketing,10480.81,Fournisseur C
+X001541,S11,2025-05-01,Maintenance,3044.03,Fournisseur B
+X001542,S11,2025-05-01,Transport & logistique,15117.94,Fournisseur C
+X001543,S11,2025-06-01,Masse salariale,53905.3,Fournisseur A
+X001544,S11,2025-06-01,Loyer,24687.46,Fournisseur C
+X001545,S11,2025-06-01,Énergie,3217.44,Fournisseur C
+X001546,S11,2025-06-01,Marketing,4353.82,Fournisseur C
+X001547,S11,2025-06-01,Maintenance,3527.51,Fournisseur C
+X001548,S11,2025-06-01,Transport & logistique,9811.42,Fournisseur A
+X001549,S11,2025-07-01,Masse salariale,52560.49,Fournisseur B
+X001550,S11,2025-07-01,Loyer,25163.64,Interne
+X001551,S11,2025-07-01,Énergie,3065.86,Interne
+X001552,S11,2025-07-01,Marketing,4563.19,Fournisseur A
+X001553,S11,2025-07-01,Maintenance,1403.92,Fournisseur B
+X001554,S11,2025-07-01,Transport & logistique,7338.66,Fournisseur C
+X001555,S11,2025-08-01,Masse salariale,52831.0,Fournisseur B
+X001556,S11,2025-08-01,Loyer,24641.85,Fournisseur B
+X001557,S11,2025-08-01,Énergie,2986.94,Interne
+X001558,S11,2025-08-01,Marketing,4687.05,Fournisseur C
+X001559,S11,2025-08-01,Maintenance,1696.49,Fournisseur B
+X001560,S11,2025-08-01,Transport & logistique,9308.65,Fournisseur A
+X001561,S11,2025-09-01,Masse salariale,52316.7,Interne
+X001562,S11,2025-09-01,Loyer,24053.9,Fournisseur A
+X001563,S11,2025-09-01,Énergie,3229.1,Fournisseur B
+X001564,S11,2025-09-01,Marketing,5326.24,Interne
+X001565,S11,2025-09-01,Maintenance,3602.53,Interne
+X001566,S11,2025-09-01,Transport & logistique,9720.7,Fournisseur A
+X001567,S11,2025-10-01,Masse salariale,50702.25,Interne
+X001568,S11,2025-10-01,Loyer,25432.8,Interne
+X001569,S11,2025-10-01,Énergie,3158.94,Fournisseur A
+X001570,S11,2025-10-01,Marketing,6231.24,Fournisseur C
+X001571,S11,2025-10-01,Maintenance,2937.01,Fournisseur B
+X001572,S11,2025-10-01,Transport & logistique,4477.42,Fournisseur B
+X001573,S11,2025-11-01,Masse salariale,52847.28,Fournisseur A
+X001574,S11,2025-11-01,Loyer,25123.98,Fournisseur B
+X001575,S11,2025-11-01,Énergie,3142.69,Fournisseur B
+X001576,S11,2025-11-01,Marketing,18375.04,Fournisseur C
+X001577,S11,2025-11-01,Maintenance,2470.75,Interne
+X001578,S11,2025-11-01,Transport & logistique,8267.42,Fournisseur A
+X001579,S11,2025-12-01,Masse salariale,54211.63,Fournisseur C
+X001580,S11,2025-12-01,Loyer,26383.1,Interne
+X001581,S11,2025-12-01,Énergie,4311.18,Fournisseur A
+X001582,S11,2025-12-01,Marketing,5458.83,Interne
+X001583,S11,2025-12-01,Maintenance,3682.69,Fournisseur C
+X001584,S11,2025-12-01,Transport & logistique,11461.33,Fournisseur B
+X001585,S12,2024-01-01,Masse salariale,97105.51,Fournisseur C
+X001586,S12,2024-01-01,Loyer,51751.61,Fournisseur C
+X001587,S12,2024-01-01,Énergie,8654.75,Interne
+X001588,S12,2024-01-01,Marketing,7854.54,Fournisseur A
+X001589,S12,2024-01-01,Maintenance,1958.3,Interne
+X001590,S12,2024-01-01,Transport & logistique,12175.5,Fournisseur A
+X001591,S12,2024-02-01,Masse salariale,96466.97,Fournisseur A
+X001592,S12,2024-02-01,Loyer,52484.94,Fournisseur C
+X001593,S12,2024-02-01,Énergie,9235.06,Interne
+X001594,S12,2024-02-01,Marketing,12008.76,Fournisseur B
+X001595,S12,2024-02-01,Maintenance,2250.68,Interne
+X001596,S12,2024-02-01,Transport & logistique,7218.04,Fournisseur C
+X001597,S12,2024-03-01,Masse salariale,92503.27,Interne
+X001598,S12,2024-03-01,Loyer,52462.85,Fournisseur B
+X001599,S12,2024-03-01,Énergie,6473.86,Fournisseur C
+X001600,S12,2024-03-01,Marketing,11599.24,Fournisseur A
+X001601,S12,2024-03-01,Maintenance,2002.83,Interne
+X001602,S12,2024-03-01,Transport & logistique,10073.8,Fournisseur A
+X001603,S12,2024-04-01,Masse salariale,92282.14,Interne
+X001604,S12,2024-04-01,Loyer,53438.35,Fournisseur C
+X001605,S12,2024-04-01,Énergie,6673.45,Fournisseur B
+X001606,S12,2024-04-01,Marketing,10456.61,Fournisseur B
+X001607,S12,2024-04-01,Maintenance,2428.13,Fournisseur A
+X001608,S12,2024-04-01,Transport & logistique,4693.14,Interne
+X001609,S12,2024-05-01,Masse salariale,95088.28,Fournisseur C
+X001610,S12,2024-05-01,Loyer,51368.24,Fournisseur B
+X001611,S12,2024-05-01,Énergie,6203.59,Fournisseur B
+X001612,S12,2024-05-01,Marketing,10675.2,Fournisseur A
+X001613,S12,2024-05-01,Maintenance,3236.65,Fournisseur A
+X001614,S12,2024-05-01,Transport & logistique,8918.53,Fournisseur C
+X001615,S12,2024-06-01,Masse salariale,97424.21,Fournisseur C
+X001616,S12,2024-06-01,Loyer,49849.14,Fournisseur B
+X001617,S12,2024-06-01,Énergie,6374.89,Fournisseur C
+X001618,S12,2024-06-01,Marketing,5428.66,Fournisseur A
+X001619,S12,2024-06-01,Maintenance,2587.24,Fournisseur C
+X001620,S12,2024-06-01,Transport & logistique,11878.22,Fournisseur A
+X001621,S12,2024-07-01,Masse salariale,89683.97,Fournisseur A
+X001622,S12,2024-07-01,Loyer,52377.63,Fournisseur A
+X001623,S12,2024-07-01,Énergie,6225.78,Fournisseur C
+X001624,S12,2024-07-01,Marketing,3572.24,Interne
+X001625,S12,2024-07-01,Maintenance,1197.85,Interne
+X001626,S12,2024-07-01,Transport & logistique,8211.73,Fournisseur B
+X001627,S12,2024-08-01,Masse salariale,97619.99,Fournisseur A
+X001628,S12,2024-08-01,Loyer,49842.41,Interne
+X001629,S12,2024-08-01,Énergie,6663.72,Interne
+X001630,S12,2024-08-01,Marketing,9185.77,Fournisseur A
+X001631,S12,2024-08-01,Maintenance,1478.54,Fournisseur B
+X001632,S12,2024-08-01,Transport & logistique,6108.8,Fournisseur C
+X001633,S12,2024-09-01,Masse salariale,94805.29,Fournisseur A
+X001634,S12,2024-09-01,Loyer,50124.69,Fournisseur C
+X001635,S12,2024-09-01,Énergie,6695.4,Interne
+X001636,S12,2024-09-01,Marketing,3871.74,Fournisseur A
+X001637,S12,2024-09-01,Maintenance,3078.94,Fournisseur C
+X001638,S12,2024-09-01,Transport & logistique,10293.77,Fournisseur B
+X001639,S12,2024-10-01,Masse salariale,98430.58,Fournisseur C
+X001640,S12,2024-10-01,Loyer,52968.64,Interne
+X001641,S12,2024-10-01,Énergie,6599.65,Fournisseur C
+X001642,S12,2024-10-01,Marketing,4832.74,Fournisseur C
+X001643,S12,2024-10-01,Maintenance,1568.95,Fournisseur A
+X001644,S12,2024-10-01,Transport & logistique,13370.76,Fournisseur A
+X001645,S12,2024-11-01,Masse salariale,97841.33,Fournisseur B
+X001646,S12,2024-11-01,Loyer,51008.02,Fournisseur A
+X001647,S12,2024-11-01,Énergie,6604.25,Interne
+X001648,S12,2024-11-01,Marketing,6927.94,Fournisseur A
+X001649,S12,2024-11-01,Maintenance,812.43,Fournisseur B
+X001650,S12,2024-11-01,Transport & logistique,12343.62,Fournisseur B
+X001651,S12,2024-12-01,Masse salariale,97366.99,Fournisseur A
+X001652,S12,2024-12-01,Loyer,50376.44,Fournisseur B
+X001653,S12,2024-12-01,Énergie,9207.32,Fournisseur A
+X001654,S12,2024-12-01,Marketing,12113.45,Fournisseur A
+X001655,S12,2024-12-01,Maintenance,1975.16,Fournisseur A
+X001656,S12,2024-12-01,Transport & logistique,13210.19,Fournisseur B
+X001657,S12,2025-01-01,Masse salariale,98357.99,Interne
+X001658,S12,2025-01-01,Loyer,51898.6,Fournisseur B
+X001659,S12,2025-01-01,Énergie,9202.61,Interne
+X001660,S12,2025-01-01,Marketing,17219.65,Interne
+X001661,S12,2025-01-01,Maintenance,3631.41,Fournisseur A
+X001662,S12,2025-01-01,Transport & logistique,6189.04,Fournisseur A
+X001663,S12,2025-02-01,Masse salariale,93475.52,Fournisseur A
+X001664,S12,2025-02-01,Loyer,50741.24,Interne
+X001665,S12,2025-02-01,Énergie,8599.11,Fournisseur A
+X001666,S12,2025-02-01,Marketing,10476.24,Fournisseur A
+X001667,S12,2025-02-01,Maintenance,1564.6,Fournisseur A
+X001668,S12,2025-02-01,Transport & logistique,6687.28,Fournisseur A
+X001669,S12,2025-03-01,Masse salariale,96905.04,Interne
+X001670,S12,2025-03-01,Loyer,53568.06,Fournisseur B
+X001671,S12,2025-03-01,Énergie,6390.1,Interne
+X001672,S12,2025-03-01,Marketing,6994.9,Fournisseur C
+X001673,S12,2025-03-01,Maintenance,2870.8,Fournisseur B
+X001674,S12,2025-03-01,Transport & logistique,9608.21,Fournisseur C
+X001675,S12,2025-04-01,Masse salariale,90678.02,Fournisseur C
+X001676,S12,2025-04-01,Loyer,51049.3,Fournisseur A
+X001677,S12,2025-04-01,Énergie,6089.09,Fournisseur B
+X001678,S12,2025-04-01,Marketing,11131.06,Interne
+X001679,S12,2025-04-01,Maintenance,3511.52,Fournisseur C
+X001680,S12,2025-04-01,Transport & logistique,13393.85,Fournisseur B
+X001681,S12,2025-05-01,Masse salariale,96498.64,Fournisseur A
+X001682,S12,2025-05-01,Loyer,51516.52,Interne
+X001683,S12,2025-05-01,Énergie,6290.15,Fournisseur B
+X001684,S12,2025-05-01,Marketing,4183.31,Fournisseur B
+X001685,S12,2025-05-01,Maintenance,808.37,Fournisseur A
+X001686,S12,2025-05-01,Transport & logistique,7664.79,Fournisseur A
+X001687,S12,2025-06-01,Masse salariale,94893.92,Fournisseur A
+X001688,S12,2025-06-01,Loyer,52732.97,Interne
+X001689,S12,2025-06-01,Énergie,6298.48,Fournisseur B
+X001690,S12,2025-06-01,Marketing,7910.82,Fournisseur B
+X001691,S12,2025-06-01,Maintenance,2411.54,Interne
+X001692,S12,2025-06-01,Transport & logistique,4868.37,Fournisseur C
+X001693,S12,2025-07-01,Masse salariale,96327.15,Interne
+X001694,S12,2025-07-01,Loyer,51359.06,Fournisseur B
+X001695,S12,2025-07-01,Énergie,6460.65,Fournisseur A
+X001696,S12,2025-07-01,Marketing,6340.88,Fournisseur A
+X001697,S12,2025-07-01,Maintenance,2202.81,Fournisseur C
+X001698,S12,2025-07-01,Transport & logistique,13309.31,Interne
+X001699,S12,2025-08-01,Masse salariale,96430.21,Fournisseur A
+X001700,S12,2025-08-01,Loyer,53561.09,Fournisseur A
+X001701,S12,2025-08-01,Énergie,6405.04,Interne
+X001702,S12,2025-08-01,Marketing,8685.08,Fournisseur A
+X001703,S12,2025-08-01,Maintenance,4135.41,Fournisseur B
+X001704,S12,2025-08-01,Transport & logistique,8243.2,Fournisseur C
+X001705,S12,2025-09-01,Masse salariale,89359.3,Fournisseur B
+X001706,S12,2025-09-01,Loyer,51154.51,Fournisseur B
+X001707,S12,2025-09-01,Énergie,6370.02,Fournisseur B
+X001708,S12,2025-09-01,Marketing,4255.38,Fournisseur A
+X001709,S12,2025-09-01,Maintenance,1818.66,Fournisseur C
+X001710,S12,2025-09-01,Transport & logistique,6030.09,Fournisseur A
+X001711,S12,2025-10-01,Masse salariale,93684.29,Interne
+X001712,S12,2025-10-01,Loyer,50474.65,Fournisseur B
+X001713,S12,2025-10-01,Énergie,6398.64,Interne
+X001714,S12,2025-10-01,Marketing,5562.59,Fournisseur A
+X001715,S12,2025-10-01,Maintenance,1772.54,Interne
+X001716,S12,2025-10-01,Transport & logistique,5816.0,Fournisseur A
+X001717,S12,2025-11-01,Masse salariale,94528.0,Fournisseur A
+X001718,S12,2025-11-01,Loyer,53979.7,Fournisseur A
+X001719,S12,2025-11-01,Énergie,6146.49,Interne
+X001720,S12,2025-11-01,Marketing,6759.98,Fournisseur A
+X001721,S12,2025-11-01,Maintenance,2419.64,Interne
+X001722,S12,2025-11-01,Transport & logistique,9920.13,Fournisseur A
+X001723,S12,2025-12-01,Masse salariale,93013.13,Fournisseur B
+X001724,S12,2025-12-01,Loyer,51154.91,Interne
+X001725,S12,2025-12-01,Énergie,9252.05,Fournisseur A
+X001726,S12,2025-12-01,Marketing,6647.18,Fournisseur A
+X001727,S12,2025-12-01,Maintenance,1254.4,Fournisseur B
+X001728,S12,2025-12-01,Transport & logistique,8998.53,Interne
+X001729,S13,2024-01-01,Masse salariale,118628.81,Fournisseur C
+X001730,S13,2024-01-01,Loyer,62359.28,Fournisseur B
+X001731,S13,2024-01-01,Énergie,10554.48,Fournisseur C
+X001732,S13,2024-01-01,Marketing,20672.37,Fournisseur A
+X001733,S13,2024-01-01,Maintenance,2247.88,Interne
+X001734,S13,2024-01-01,Transport & logistique,4295.76,Fournisseur B
+X001735,S13,2024-02-01,Masse salariale,122934.59,Interne
+X001736,S13,2024-02-01,Loyer,62940.59,Fournisseur B
+X001737,S13,2024-02-01,Énergie,10735.94,Fournisseur C
+X001738,S13,2024-02-01,Marketing,4322.53,Fournisseur C
+X001739,S13,2024-02-01,Maintenance,3637.38,Fournisseur C
+X001740,S13,2024-02-01,Transport & logistique,7871.85,Interne
+X001741,S13,2024-03-01,Masse salariale,121174.11,Fournisseur C
+X001742,S13,2024-03-01,Loyer,63281.25,Fournisseur C
+X001743,S13,2024-03-01,Énergie,7416.97,Fournisseur C
+X001744,S13,2024-03-01,Marketing,6662.75,Fournisseur C
+X001745,S13,2024-03-01,Maintenance,3736.56,Interne
+X001746,S13,2024-03-01,Transport & logistique,4184.38,Fournisseur C
+X001747,S13,2024-04-01,Masse salariale,117185.85,Fournisseur B
+X001748,S13,2024-04-01,Loyer,62144.77,Interne
+X001749,S13,2024-04-01,Énergie,7999.16,Fournisseur C
+X001750,S13,2024-04-01,Marketing,10366.02,Fournisseur A
+X001751,S13,2024-04-01,Maintenance,3556.58,Interne
+X001752,S13,2024-04-01,Transport & logistique,7797.32,Fournisseur C
+X001753,S13,2024-05-01,Masse salariale,112531.98,Interne
+X001754,S13,2024-05-01,Loyer,62756.7,Interne
+X001755,S13,2024-05-01,Énergie,7847.53,Interne
+X001756,S13,2024-05-01,Marketing,9822.89,Fournisseur A
+X001757,S13,2024-05-01,Maintenance,3857.47,Fournisseur C
+X001758,S13,2024-05-01,Transport & logistique,6568.24,Fournisseur B
+X001759,S13,2024-06-01,Masse salariale,121929.68,Interne
+X001760,S13,2024-06-01,Loyer,66024.46,Fournisseur C
+X001761,S13,2024-06-01,Énergie,7878.06,Fournisseur B
+X001762,S13,2024-06-01,Marketing,8792.57,Fournisseur A
+X001763,S13,2024-06-01,Maintenance,3500.64,Fournisseur B
+X001764,S13,2024-06-01,Transport & logistique,9062.23,Fournisseur A
+X001765,S13,2024-07-01,Masse salariale,120257.54,Fournisseur A
+X001766,S13,2024-07-01,Loyer,61175.9,Interne
+X001767,S13,2024-07-01,Énergie,7340.13,Interne
+X001768,S13,2024-07-01,Marketing,9245.89,Fournisseur B
+X001769,S13,2024-07-01,Maintenance,2234.89,Fournisseur A
+X001770,S13,2024-07-01,Transport & logistique,10979.68,Fournisseur A
+X001771,S13,2024-08-01,Masse salariale,114711.18,Fournisseur C
+X001772,S13,2024-08-01,Loyer,64203.36,Fournisseur A
+X001773,S13,2024-08-01,Énergie,7691.7,Fournisseur A
+X001774,S13,2024-08-01,Marketing,6069.08,Fournisseur A
+X001775,S13,2024-08-01,Maintenance,3225.58,Fournisseur A
+X001776,S13,2024-08-01,Transport & logistique,9825.47,Interne
+X001777,S13,2024-09-01,Masse salariale,121869.54,Fournisseur A
+X001778,S13,2024-09-01,Loyer,64220.79,Interne
+X001779,S13,2024-09-01,Énergie,8083.79,Fournisseur C
+X001780,S13,2024-09-01,Marketing,5029.73,Interne
+X001781,S13,2024-09-01,Maintenance,1789.29,Fournisseur C
+X001782,S13,2024-09-01,Transport & logistique,8925.63,Fournisseur C
+X001783,S13,2024-10-01,Masse salariale,114718.0,Interne
+X001784,S13,2024-10-01,Loyer,65981.65,Fournisseur A
+X001785,S13,2024-10-01,Énergie,7393.41,Fournisseur C
+X001786,S13,2024-10-01,Marketing,5100.59,Fournisseur A
+X001787,S13,2024-10-01,Maintenance,2350.3,Fournisseur A
+X001788,S13,2024-10-01,Transport & logistique,4884.67,Interne
+X001789,S13,2024-11-01,Masse salariale,118391.78,Interne
+X001790,S13,2024-11-01,Loyer,63537.08,Fournisseur A
+X001791,S13,2024-11-01,Énergie,7767.07,Fournisseur A
+X001792,S13,2024-11-01,Marketing,9958.33,Fournisseur A
+X001793,S13,2024-11-01,Maintenance,2865.41,Fournisseur A
+X001794,S13,2024-11-01,Transport & logistique,11027.34,Fournisseur A
+X001795,S13,2024-12-01,Masse salariale,113801.42,Fournisseur C
+X001796,S13,2024-12-01,Loyer,63968.25,Fournisseur C
+X001797,S13,2024-12-01,Énergie,10936.92,Fournisseur A
+X001798,S13,2024-12-01,Marketing,11076.46,Fournisseur B
+X001799,S13,2024-12-01,Maintenance,2429.19,Fournisseur A
+X001800,S13,2024-12-01,Transport & logistique,8154.16,Fournisseur C
+X001801,S13,2025-01-01,Masse salariale,116387.88,Fournisseur C
+X001802,S13,2025-01-01,Loyer,63184.44,Fournisseur A
+X001803,S13,2025-01-01,Énergie,10402.26,Fournisseur C
+X001804,S13,2025-01-01,Marketing,12638.07,Interne
+X001805,S13,2025-01-01,Maintenance,3600.78,Fournisseur A
+X001806,S13,2025-01-01,Transport & logistique,13235.55,Interne
+X001807,S13,2025-02-01,Masse salariale,114451.2,Fournisseur B
+X001808,S13,2025-02-01,Loyer,65902.62,Fournisseur A
+X001809,S13,2025-02-01,Énergie,10369.78,Fournisseur C
+X001810,S13,2025-02-01,Marketing,6458.25,Fournisseur A
+X001811,S13,2025-02-01,Maintenance,2148.6,Fournisseur A
+X001812,S13,2025-02-01,Transport & logistique,13208.69,Interne
+X001813,S13,2025-03-01,Masse salariale,117923.93,Fournisseur A
+X001814,S13,2025-03-01,Loyer,64851.12,Fournisseur B
+X001815,S13,2025-03-01,Énergie,7422.51,Interne
+X001816,S13,2025-03-01,Marketing,5327.85,Fournisseur C
+X001817,S13,2025-03-01,Maintenance,2357.93,Fournisseur C
+X001818,S13,2025-03-01,Transport & logistique,9725.35,Fournisseur A
+X001819,S13,2025-04-01,Masse salariale,120749.94,Interne
+X001820,S13,2025-04-01,Loyer,61007.91,Interne
+X001821,S13,2025-04-01,Énergie,7563.83,Fournisseur C
+X001822,S13,2025-04-01,Marketing,11464.82,Interne
+X001823,S13,2025-04-01,Maintenance,1601.28,Fournisseur C
+X001824,S13,2025-04-01,Transport & logistique,4400.39,Fournisseur C
+X001825,S13,2025-05-01,Masse salariale,116640.16,Fournisseur A
+X001826,S13,2025-05-01,Loyer,65664.85,Fournisseur B
+X001827,S13,2025-05-01,Énergie,7862.49,Fournisseur A
+X001828,S13,2025-05-01,Marketing,6469.26,Fournisseur A
+X001829,S13,2025-05-01,Maintenance,2924.49,Fournisseur C
+X001830,S13,2025-05-01,Transport & logistique,12787.44,Fournisseur B
+X001831,S13,2025-06-01,Masse salariale,112697.11,Fournisseur C
+X001832,S13,2025-06-01,Loyer,62303.26,Fournisseur B
+X001833,S13,2025-06-01,Énergie,7952.95,Fournisseur B
+X001834,S13,2025-06-01,Marketing,5040.76,Fournisseur C
+X001835,S13,2025-06-01,Maintenance,1662.42,Interne
+X001836,S13,2025-06-01,Transport & logistique,5274.68,Fournisseur B
+X001837,S13,2025-07-01,Masse salariale,120513.73,Fournisseur B
+X001838,S13,2025-07-01,Loyer,61041.56,Fournisseur A
+X001839,S13,2025-07-01,Énergie,7965.91,Interne
+X001840,S13,2025-07-01,Marketing,8954.38,Fournisseur A
+X001841,S13,2025-07-01,Maintenance,1059.12,Interne
+X001842,S13,2025-07-01,Transport & logistique,7193.12,Fournisseur B
+X001843,S13,2025-08-01,Masse salariale,120288.23,Fournisseur C
+X001844,S13,2025-08-01,Loyer,63275.86,Interne
+X001845,S13,2025-08-01,Énergie,7840.11,Fournisseur A
+X001846,S13,2025-08-01,Marketing,5054.8,Interne
+X001847,S13,2025-08-01,Maintenance,4114.22,Fournisseur C
+X001848,S13,2025-08-01,Transport & logistique,7204.95,Fournisseur B
+X001849,S13,2025-09-01,Masse salariale,115662.35,Interne
+X001850,S13,2025-09-01,Loyer,61768.87,Fournisseur B
+X001851,S13,2025-09-01,Énergie,7652.79,Interne
+X001852,S13,2025-09-01,Marketing,5026.92,Interne
+X001853,S13,2025-09-01,Maintenance,2785.59,Fournisseur A
+X001854,S13,2025-09-01,Transport & logistique,11689.14,Interne
+X001855,S13,2025-10-01,Masse salariale,115675.23,Interne
+X001856,S13,2025-10-01,Loyer,61487.69,Interne
+X001857,S13,2025-10-01,Énergie,7466.21,Interne
+X001858,S13,2025-10-01,Marketing,11076.38,Fournisseur B
+X001859,S13,2025-10-01,Maintenance,2957.79,Fournisseur C
+X001860,S13,2025-10-01,Transport & logistique,4223.87,Fournisseur A
+X001861,S13,2025-11-01,Masse salariale,119628.91,Fournisseur A
+X001862,S13,2025-11-01,Loyer,62164.45,Interne
+X001863,S13,2025-11-01,Énergie,7740.47,Fournisseur C
+X001864,S13,2025-11-01,Marketing,20363.72,Fournisseur C
+X001865,S13,2025-11-01,Maintenance,1669.18,Fournisseur B
+X001866,S13,2025-11-01,Transport & logistique,13870.32,Fournisseur A
+X001867,S13,2025-12-01,Masse salariale,122809.96,Fournisseur C
+X001868,S13,2025-12-01,Loyer,61675.42,Fournisseur A
+X001869,S13,2025-12-01,Énergie,10844.96,Interne
+X001870,S13,2025-12-01,Marketing,4166.68,Fournisseur B
+X001871,S13,2025-12-01,Maintenance,834.29,Fournisseur A
+X001872,S13,2025-12-01,Transport & logistique,15167.25,Fournisseur C
+X001873,S14,2024-01-01,Masse salariale,82384.62,Interne
+X001874,S14,2024-01-01,Loyer,45419.01,Fournisseur A
+X001875,S14,2024-01-01,Énergie,8111.84,Fournisseur B
+X001876,S14,2024-01-01,Marketing,20380.51,Interne
+X001877,S14,2024-01-01,Maintenance,2469.34,Fournisseur C
+X001878,S14,2024-01-01,Transport & logistique,14269.86,Interne
+X001879,S14,2024-02-01,Masse salariale,85653.96,Fournisseur C
+X001880,S14,2024-02-01,Loyer,48767.09,Interne
+X001881,S14,2024-02-01,Énergie,7782.2,Interne
+X001882,S14,2024-02-01,Marketing,5659.25,Fournisseur C
+X001883,S14,2024-02-01,Maintenance,1722.46,Fournisseur A
+X001884,S14,2024-02-01,Transport & logistique,5589.98,Fournisseur C
+X001885,S14,2024-03-01,Masse salariale,87889.42,Fournisseur B
+X001886,S14,2024-03-01,Loyer,47864.15,Interne
+X001887,S14,2024-03-01,Énergie,5872.04,Interne
+X001888,S14,2024-03-01,Marketing,9016.51,Fournisseur C
+X001889,S14,2024-03-01,Maintenance,2656.48,Fournisseur C
+X001890,S14,2024-03-01,Transport & logistique,14063.12,Fournisseur B
+X001891,S14,2024-04-01,Masse salariale,81190.91,Fournisseur C
+X001892,S14,2024-04-01,Loyer,45608.71,Fournisseur B
+X001893,S14,2024-04-01,Énergie,5646.27,Fournisseur C
+X001894,S14,2024-04-01,Marketing,10223.46,Fournisseur C
+X001895,S14,2024-04-01,Maintenance,2336.49,Interne
+X001896,S14,2024-04-01,Transport & logistique,7462.09,Fournisseur A
+X001897,S14,2024-05-01,Masse salariale,85660.06,Fournisseur B
+X001898,S14,2024-05-01,Loyer,46647.92,Fournisseur B
+X001899,S14,2024-05-01,Énergie,5509.57,Interne
+X001900,S14,2024-05-01,Marketing,7129.42,Fournisseur C
+X001901,S14,2024-05-01,Maintenance,3443.4,Fournisseur C
+X001902,S14,2024-05-01,Transport & logistique,5908.33,Fournisseur B
+X001903,S14,2024-06-01,Masse salariale,82735.36,Fournisseur B
+X001904,S14,2024-06-01,Loyer,48279.0,Fournisseur B
+X001905,S14,2024-06-01,Énergie,5823.91,Fournisseur B
+X001906,S14,2024-06-01,Marketing,10757.06,Fournisseur B
+X001907,S14,2024-06-01,Maintenance,1854.85,Interne
+X001908,S14,2024-06-01,Transport & logistique,6870.83,Fournisseur C
+X001909,S14,2024-07-01,Masse salariale,88030.2,Fournisseur B
+X001910,S14,2024-07-01,Loyer,48869.37,Fournisseur A
+X001911,S14,2024-07-01,Énergie,5618.13,Fournisseur A
+X001912,S14,2024-07-01,Marketing,7958.93,Fournisseur B
+X001913,S14,2024-07-01,Maintenance,2847.85,Fournisseur B
+X001914,S14,2024-07-01,Transport & logistique,4864.54,Fournisseur C
+X001915,S14,2024-08-01,Masse salariale,80328.39,Fournisseur C
+X001916,S14,2024-08-01,Loyer,45018.69,Interne
+X001917,S14,2024-08-01,Énergie,5937.4,Fournisseur C
+X001918,S14,2024-08-01,Marketing,7146.39,Fournisseur C
+X001919,S14,2024-08-01,Maintenance,3458.43,Fournisseur B
+X001920,S14,2024-08-01,Transport & logistique,10524.4,Fournisseur B
+X001921,S14,2024-09-01,Masse salariale,83692.71,Fournisseur C
+X001922,S14,2024-09-01,Loyer,48177.72,Interne
+X001923,S14,2024-09-01,Énergie,5938.64,Fournisseur B
+X001924,S14,2024-09-01,Marketing,9958.48,Fournisseur B
+X001925,S14,2024-09-01,Maintenance,2380.52,Fournisseur C
+X001926,S14,2024-09-01,Transport & logistique,13830.24,Fournisseur A
+X001927,S14,2024-10-01,Masse salariale,83590.83,Fournisseur B
+X001928,S14,2024-10-01,Loyer,45412.13,Fournisseur A
+X001929,S14,2024-10-01,Énergie,5742.02,Fournisseur C
+X001930,S14,2024-10-01,Marketing,7244.64,Fournisseur B
+X001931,S14,2024-10-01,Maintenance,1752.08,Fournisseur C
+X001932,S14,2024-10-01,Transport & logistique,14955.94,Fournisseur C
+X001933,S14,2024-11-01,Masse salariale,82394.21,Interne
+X001934,S14,2024-11-01,Loyer,47644.42,Interne
+X001935,S14,2024-11-01,Énergie,5826.94,Interne
+X001936,S14,2024-11-01,Marketing,9448.77,Fournisseur C
+X001937,S14,2024-11-01,Maintenance,933.67,Interne
+X001938,S14,2024-11-01,Transport & logistique,11215.78,Fournisseur C
+X001939,S14,2024-12-01,Masse salariale,86747.85,Fournisseur C
+X001940,S14,2024-12-01,Loyer,47534.4,Fournisseur B
+X001941,S14,2024-12-01,Énergie,8401.0,Interne
+X001942,S14,2024-12-01,Marketing,11246.63,Fournisseur A
+X001943,S14,2024-12-01,Maintenance,2366.87,Fournisseur B
+X001944,S14,2024-12-01,Transport & logistique,11065.2,Fournisseur A
+X001945,S14,2025-01-01,Masse salariale,80659.57,Fournisseur B
+X001946,S14,2025-01-01,Loyer,45527.99,Fournisseur B
+X001947,S14,2025-01-01,Énergie,7938.23,Fournisseur C
+X001948,S14,2025-01-01,Marketing,14798.86,Fournisseur C
+X001949,S14,2025-01-01,Maintenance,3509.53,Interne
+X001950,S14,2025-01-01,Transport & logistique,8723.56,Interne
+X001951,S14,2025-02-01,Masse salariale,82141.63,Fournisseur A
+X001952,S14,2025-02-01,Loyer,48373.83,Interne
+X001953,S14,2025-02-01,Énergie,7873.81,Fournisseur B
+X001954,S14,2025-02-01,Marketing,5278.69,Fournisseur A
+X001955,S14,2025-02-01,Maintenance,2138.55,Fournisseur A
+X001956,S14,2025-02-01,Transport & logistique,7898.72,Fournisseur A
+X001957,S14,2025-03-01,Masse salariale,83848.38,Interne
+X001958,S14,2025-03-01,Loyer,45538.69,Fournisseur B
+X001959,S14,2025-03-01,Énergie,5989.04,Fournisseur A
+X001960,S14,2025-03-01,Marketing,7446.49,Fournisseur B
+X001961,S14,2025-03-01,Maintenance,3030.15,Fournisseur B
+X001962,S14,2025-03-01,Transport & logistique,4857.31,Fournisseur C
+X001963,S14,2025-04-01,Masse salariale,85273.87,Interne
+X001964,S14,2025-04-01,Loyer,47721.31,Interne
+X001965,S14,2025-04-01,Énergie,5964.52,Fournisseur A
+X001966,S14,2025-04-01,Marketing,10005.11,Fournisseur A
+X001967,S14,2025-04-01,Maintenance,1480.8,Fournisseur A
+X001968,S14,2025-04-01,Transport & logistique,5761.74,Fournisseur C
+X001969,S14,2025-05-01,Masse salariale,87263.74,Fournisseur A
+X001970,S14,2025-05-01,Loyer,45132.72,Interne
+X001971,S14,2025-05-01,Énergie,5694.4,Interne
+X001972,S14,2025-05-01,Marketing,6326.32,Fournisseur B
+X001973,S14,2025-05-01,Maintenance,2968.57,Fournisseur B
+X001974,S14,2025-05-01,Transport & logistique,6776.2,Fournisseur A
+X001975,S14,2025-06-01,Masse salariale,86806.71,Fournisseur B
+X001976,S14,2025-06-01,Loyer,47905.17,Fournisseur C
+X001977,S14,2025-06-01,Énergie,5899.81,Interne
+X001978,S14,2025-06-01,Marketing,7649.62,Interne
+X001979,S14,2025-06-01,Maintenance,3007.79,Fournisseur C
+X001980,S14,2025-06-01,Transport & logistique,7687.35,Fournisseur B
+X001981,S14,2025-07-01,Masse salariale,83017.94,Fournisseur C
+X001982,S14,2025-07-01,Loyer,48076.11,Interne
+X001983,S14,2025-07-01,Énergie,5636.58,Fournisseur B
+X001984,S14,2025-07-01,Marketing,9925.06,Fournisseur A
+X001985,S14,2025-07-01,Maintenance,1496.03,Fournisseur C
+X001986,S14,2025-07-01,Transport & logistique,8782.28,Fournisseur B
+X001987,S14,2025-08-01,Masse salariale,88475.83,Interne
+X001988,S14,2025-08-01,Loyer,45670.42,Fournisseur A
+X001989,S14,2025-08-01,Énergie,5972.34,Fournisseur C
+X001990,S14,2025-08-01,Marketing,10487.95,Fournisseur A
+X001991,S14,2025-08-01,Maintenance,2420.79,Fournisseur C
+X001992,S14,2025-08-01,Transport & logistique,10956.66,Interne
+X001993,S14,2025-09-01,Masse salariale,80751.5,Fournisseur B
+X001994,S14,2025-09-01,Loyer,47796.46,Fournisseur B
+X001995,S14,2025-09-01,Énergie,5993.08,Fournisseur B
+X001996,S14,2025-09-01,Marketing,11863.68,Interne
+X001997,S14,2025-09-01,Maintenance,3646.34,Fournisseur C
+X001998,S14,2025-09-01,Transport & logistique,8581.36,Fournisseur B
+X001999,S14,2025-10-01,Masse salariale,86347.97,Fournisseur C
+X002000,S14,2025-10-01,Loyer,47344.21,Fournisseur C
+X002001,S14,2025-10-01,Énergie,5827.29,Fournisseur C
+X002002,S14,2025-10-01,Marketing,9407.93,Fournisseur B
+X002003,S14,2025-10-01,Maintenance,1796.59,Fournisseur B
+X002004,S14,2025-10-01,Transport & logistique,11743.95,Interne
+X002005,S14,2025-11-01,Masse salariale,88559.51,Fournisseur B
+X002006,S14,2025-11-01,Loyer,45020.26,Fournisseur A
+X002007,S14,2025-11-01,Énergie,5500.98,Fournisseur B
+X002008,S14,2025-11-01,Marketing,22770.3,Fournisseur B
+X002009,S14,2025-11-01,Maintenance,897.43,Fournisseur B
+X002010,S14,2025-11-01,Transport & logistique,5595.97,Fournisseur B
+X002011,S14,2025-12-01,Masse salariale,80750.76,Fournisseur B
+X002012,S14,2025-12-01,Loyer,44831.44,Interne
+X002013,S14,2025-12-01,Énergie,8076.59,Fournisseur A
+X002014,S14,2025-12-01,Marketing,8024.36,Fournisseur B
+X002015,S14,2025-12-01,Maintenance,1754.24,Fournisseur B
+X002016,S14,2025-12-01,Transport & logistique,7902.86,Fournisseur C
+X002017,S15,2024-01-01,Masse salariale,169128.35,Fournisseur C
+X002018,S15,2024-01-01,Loyer,24107.26,Fournisseur B
+X002019,S15,2024-01-01,Énergie,4119.94,Fournisseur A
+X002020,S15,2024-01-01,Marketing,18659.38,Fournisseur B
+X002021,S15,2024-01-01,Maintenance,3591.15,Fournisseur B
+X002022,S15,2024-01-01,Transport & logistique,17952.97,Interne
+X002023,S15,2024-02-01,Masse salariale,171370.1,Fournisseur C
+X002024,S15,2024-02-01,Loyer,25324.69,Interne
+X002025,S15,2024-02-01,Énergie,4147.0,Fournisseur C
+X002026,S15,2024-02-01,Marketing,5278.25,Fournisseur C
+X002027,S15,2024-02-01,Maintenance,2741.32,Interne
+X002028,S15,2024-02-01,Transport & logistique,10426.71,Fournisseur B
+X002029,S15,2024-03-01,Masse salariale,162795.11,Fournisseur B
+X002030,S15,2024-03-01,Loyer,25017.26,Fournisseur B
+X002031,S15,2024-03-01,Énergie,2959.23,Fournisseur C
+X002032,S15,2024-03-01,Marketing,4023.25,Fournisseur B
+X002033,S15,2024-03-01,Maintenance,2266.05,Fournisseur B
+X002034,S15,2024-03-01,Transport & logistique,16700.17,Interne
+X002035,S15,2024-04-01,Masse salariale,161776.34,Fournisseur A
+X002036,S15,2024-04-01,Loyer,25618.57,Fournisseur A
+X002037,S15,2024-04-01,Énergie,2926.52,Fournisseur B
+X002038,S15,2024-04-01,Marketing,7285.94,Fournisseur C
+X002039,S15,2024-04-01,Maintenance,3814.62,Interne
+X002040,S15,2024-04-01,Transport & logistique,17509.55,Interne
+X002041,S15,2024-05-01,Masse salariale,161078.19,Interne
+X002042,S15,2024-05-01,Loyer,24009.89,Fournisseur B
+X002043,S15,2024-05-01,Énergie,3122.51,Interne
+X002044,S15,2024-05-01,Marketing,4928.03,Fournisseur B
+X002045,S15,2024-05-01,Maintenance,3932.04,Fournisseur B
+X002046,S15,2024-05-01,Transport & logistique,8758.72,Fournisseur B
+X002047,S15,2024-06-01,Masse salariale,166263.83,Interne
+X002048,S15,2024-06-01,Loyer,24948.91,Fournisseur B
+X002049,S15,2024-06-01,Énergie,3139.91,Interne
+X002050,S15,2024-06-01,Marketing,3560.52,Fournisseur C
+X002051,S15,2024-06-01,Maintenance,2256.08,Fournisseur B
+X002052,S15,2024-06-01,Transport & logistique,9431.41,Fournisseur B
+X002053,S15,2024-07-01,Masse salariale,172789.57,Fournisseur A
+X002054,S15,2024-07-01,Loyer,25671.35,Interne
+X002055,S15,2024-07-01,Énergie,2946.39,Fournisseur A
+X002056,S15,2024-07-01,Marketing,8431.83,Interne
+X002057,S15,2024-07-01,Maintenance,1671.76,Interne
+X002058,S15,2024-07-01,Transport & logistique,16836.58,Fournisseur C
+X002059,S15,2024-08-01,Masse salariale,176336.43,Fournisseur B
+X002060,S15,2024-08-01,Loyer,24944.25,Fournisseur B
+X002061,S15,2024-08-01,Énergie,2854.58,Interne
+X002062,S15,2024-08-01,Marketing,10515.92,Fournisseur A
+X002063,S15,2024-08-01,Maintenance,1197.05,Interne
+X002064,S15,2024-08-01,Transport & logistique,22400.55,Interne
+X002065,S15,2024-09-01,Masse salariale,171197.72,Fournisseur C
+X002066,S15,2024-09-01,Loyer,25205.52,Fournisseur B
+X002067,S15,2024-09-01,Énergie,2885.41,Interne
+X002068,S15,2024-09-01,Marketing,6057.16,Fournisseur C
+X002069,S15,2024-09-01,Maintenance,3129.72,Fournisseur A
+X002070,S15,2024-09-01,Transport & logistique,25605.86,Fournisseur A
+X002071,S15,2024-10-01,Masse salariale,168246.69,Interne
+X002072,S15,2024-10-01,Loyer,25805.7,Fournisseur C
+X002073,S15,2024-10-01,Énergie,3016.12,Fournisseur A
+X002074,S15,2024-10-01,Marketing,9824.67,Fournisseur B
+X002075,S15,2024-10-01,Maintenance,3027.34,Interne
+X002076,S15,2024-10-01,Transport & logistique,15432.2,Interne
+X002077,S15,2024-11-01,Masse salariale,174876.04,Fournisseur B
+X002078,S15,2024-11-01,Loyer,26232.98,Fournisseur A
+X002079,S15,2024-11-01,Énergie,3052.27,Fournisseur A
+X002080,S15,2024-11-01,Marketing,14644.13,Fournisseur B
+X002081,S15,2024-11-01,Maintenance,2968.47,Fournisseur C
+X002082,S15,2024-11-01,Transport & logistique,10475.07,Fournisseur B
+X002083,S15,2024-12-01,Masse salariale,165751.49,Fournisseur A
+X002084,S15,2024-12-01,Loyer,26103.3,Interne
+X002085,S15,2024-12-01,Énergie,4198.32,Fournisseur A
+X002086,S15,2024-12-01,Marketing,7530.65,Fournisseur B
+X002087,S15,2024-12-01,Maintenance,1343.74,Fournisseur C
+X002088,S15,2024-12-01,Transport & logistique,22564.85,Fournisseur B
+X002089,S15,2025-01-01,Masse salariale,170965.75,Fournisseur A
+X002090,S15,2025-01-01,Loyer,24081.82,Fournisseur A
+X002091,S15,2025-01-01,Énergie,4053.58,Interne
+X002092,S15,2025-01-01,Marketing,12303.43,Fournisseur B
+X002093,S15,2025-01-01,Maintenance,3694.99,Fournisseur C
+X002094,S15,2025-01-01,Transport & logistique,15795.94,Fournisseur A
+X002095,S15,2025-02-01,Masse salariale,174735.91,Fournisseur A
+X002096,S15,2025-02-01,Loyer,24088.48,Interne
+X002097,S15,2025-02-01,Énergie,4358.19,Fournisseur A
+X002098,S15,2025-02-01,Marketing,6574.86,Fournisseur B
+X002099,S15,2025-02-01,Maintenance,1881.33,Fournisseur A
+X002100,S15,2025-02-01,Transport & logistique,25744.18,Fournisseur A
+X002101,S15,2025-03-01,Masse salariale,176153.43,Fournisseur C
+X002102,S15,2025-03-01,Loyer,25513.57,Fournisseur A
+X002103,S15,2025-03-01,Énergie,2994.73,Fournisseur B
+X002104,S15,2025-03-01,Marketing,8725.11,Interne
+X002105,S15,2025-03-01,Maintenance,1813.22,Interne
+X002106,S15,2025-03-01,Transport & logistique,12040.34,Fournisseur C
+X002107,S15,2025-04-01,Masse salariale,165618.53,Fournisseur A
+X002108,S15,2025-04-01,Loyer,23778.85,Fournisseur C
+X002109,S15,2025-04-01,Énergie,3104.77,Interne
+X002110,S15,2025-04-01,Marketing,9734.91,Interne
+X002111,S15,2025-04-01,Maintenance,1851.86,Interne
+X002112,S15,2025-04-01,Transport & logistique,8942.07,Interne
+X002113,S15,2025-05-01,Masse salariale,165112.12,Fournisseur A
+X002114,S15,2025-05-01,Loyer,24786.4,Interne
+X002115,S15,2025-05-01,Énergie,3067.22,Fournisseur A
+X002116,S15,2025-05-01,Marketing,5813.29,Fournisseur A
+X002117,S15,2025-05-01,Maintenance,1035.15,Interne
+X002118,S15,2025-05-01,Transport & logistique,16752.05,Interne
+X002119,S15,2025-06-01,Masse salariale,169685.05,Fournisseur A
+X002120,S15,2025-06-01,Loyer,24299.56,Fournisseur C
+X002121,S15,2025-06-01,Énergie,3104.53,Interne
+X002122,S15,2025-06-01,Marketing,11791.18,Fournisseur A
+X002123,S15,2025-06-01,Maintenance,1633.09,Interne
+X002124,S15,2025-06-01,Transport & logistique,18913.82,Fournisseur A
+X002125,S15,2025-07-01,Masse salariale,164890.35,Fournisseur A
+X002126,S15,2025-07-01,Loyer,23964.4,Fournisseur A
+X002127,S15,2025-07-01,Énergie,2930.93,Fournisseur A
+X002128,S15,2025-07-01,Marketing,5526.33,Fournisseur C
+X002129,S15,2025-07-01,Maintenance,1521.69,Fournisseur B
+X002130,S15,2025-07-01,Transport & logistique,13896.88,Fournisseur C
+X002131,S15,2025-08-01,Masse salariale,168417.7,Fournisseur B
+X002132,S15,2025-08-01,Loyer,26203.4,Fournisseur A
+X002133,S15,2025-08-01,Énergie,3054.81,Fournisseur C
+X002134,S15,2025-08-01,Marketing,7899.95,Fournisseur B
+X002135,S15,2025-08-01,Maintenance,1577.34,Fournisseur B
+X002136,S15,2025-08-01,Transport & logistique,8864.99,Fournisseur A
+X002137,S15,2025-09-01,Masse salariale,173213.6,Fournisseur A
+X002138,S15,2025-09-01,Loyer,25437.8,Fournisseur C
+X002139,S15,2025-09-01,Énergie,3112.5,Fournisseur C
+X002140,S15,2025-09-01,Marketing,11247.82,Fournisseur A
+X002141,S15,2025-09-01,Maintenance,1974.89,Fournisseur B
+X002142,S15,2025-09-01,Transport & logistique,25373.8,Fournisseur A
+X002143,S15,2025-10-01,Masse salariale,175314.44,Interne
+X002144,S15,2025-10-01,Loyer,24772.38,Fournisseur C
+X002145,S15,2025-10-01,Énergie,3146.05,Fournisseur A
+X002146,S15,2025-10-01,Marketing,8163.8,Fournisseur B
+X002147,S15,2025-10-01,Maintenance,2175.24,Fournisseur B
+X002148,S15,2025-10-01,Transport & logistique,12543.92,Fournisseur C
+X002149,S15,2025-11-01,Masse salariale,170113.65,Fournisseur C
+X002150,S15,2025-11-01,Loyer,25977.28,Fournisseur A
+X002151,S15,2025-11-01,Énergie,3068.26,Fournisseur C
+X002152,S15,2025-11-01,Marketing,21194.42,Interne
+X002153,S15,2025-11-01,Maintenance,1322.81,Fournisseur A
+X002154,S15,2025-11-01,Transport & logistique,8606.32,Interne
+X002155,S15,2025-12-01,Masse salariale,169430.82,Interne
+X002156,S15,2025-12-01,Loyer,24041.69,Fournisseur C
+X002157,S15,2025-12-01,Énergie,4386.4,Fournisseur A
+X002158,S15,2025-12-01,Marketing,3650.5,Fournisseur A
+X002159,S15,2025-12-01,Maintenance,3184.27,Fournisseur A
+X002160,S15,2025-12-01,Transport & logistique,14666.12,Fournisseur A

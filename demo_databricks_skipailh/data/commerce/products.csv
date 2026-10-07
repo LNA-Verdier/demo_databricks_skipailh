@@ -1,0 +1,275 @@
+product_id,product_name,category,sub_category,brand,unit_price,unit_cost,launch_date
+P0001,Chaussures running Adidas 100,Running,Chaussures running,Adidas,103.99,69.8,2021-02-19
+P0002,Chaussures running Btwin 100,Running,Chaussures running,Btwin,157.99,72.63,2021-01-20
+P0003,Chaussures running Adidas 700,Running,Chaussures running,Adidas,72.99,53.46,2022-06-24
+P0004,Chaussures running Btwin Evo,Running,Chaussures running,Btwin,124.99,55.53,2021-10-05
+P0005,Chaussures running Domyos Evo,Running,Chaussures running,Domyos,82.99,42.44,2023-09-28
+P0006,Chaussures running Asics Pro,Running,Chaussures running,Asics,123.99,85.09,2021-02-15
+P0007,T-shirt respirant Kipsta Evo,Running,T-shirt respirant,Kipsta,27.99,12.75,2020-11-18
+P0008,T-shirt respirant Btwin 700,Running,T-shirt respirant,Btwin,19.99,12.77,2023-05-15
+P0009,T-shirt respirant Nike 900,Running,T-shirt respirant,Nike,24.99,16.37,2022-04-25
+P0010,T-shirt respirant Quechua Pro,Running,T-shirt respirant,Quechua,17.99,9.58,2023-03-23
+P0011,T-shirt respirant Domyos 100,Running,T-shirt respirant,Domyos,19.99,11.86,2021-09-07
+P0012,T-shirt respirant Nike 900,Running,T-shirt respirant,Nike,18.99,12.82,2021-02-15
+P0013,T-shirt respirant Kalenji 500,Running,T-shirt respirant,Kalenji,26.99,12.11,2020-07-18
+P0014,Short running Asics 500,Running,Short running,Asics,27.99,21.81,2020-07-31
+P0015,Short running Btwin Pro,Running,Short running,Btwin,12.99,5.89,2021-04-09
+P0016,Short running Domyos 900,Running,Short running,Domyos,29.99,16.05,2021-12-04
+P0017,Short running Artengo 700,Running,Short running,Artengo,15.99,9.94,2021-04-04
+P0018,Short running Wedze 700,Running,Short running,Wedze,25.99,11.92,2021-08-23
+P0019,Short running Wedze Pro,Running,Short running,Wedze,24.99,12.75,2022-10-03
+P0020,Short running Wedze 100,Running,Short running,Wedze,22.99,13.71,2022-11-13
+P0021,Montre GPS Garmin Pro,Running,Montre GPS,Garmin,143.99,113.93,2020-06-27
+P0022,Montre GPS Quechua 100,Running,Montre GPS,Quechua,159.99,77.52,2021-09-18
+P0023,Montre GPS Artengo Pro,Running,Montre GPS,Artengo,259.99,142.58,2022-04-15
+P0024,Montre GPS Adidas 100,Running,Montre GPS,Adidas,125.99,100.36,2023-08-19
+P0025,Montre GPS Adidas Pro,Running,Montre GPS,Adidas,204.99,159.03,2020-04-21
+P0026,Montre GPS Artengo 700,Running,Montre GPS,Artengo,121.99,58.06,2022-03-03
+P0027,Montre GPS Kalenji 500,Running,Montre GPS,Kalenji,161.99,79.77,2021-07-05
+P0028,Montre GPS Tribord 500,Running,Montre GPS,Tribord,103.99,64.53,2020-01-20
+P0029,Gourde Asics Pro,Running,Gourde,Asics,15.99,12.15,2020-01-09
+P0030,Gourde Quechua Pro,Running,Gourde,Quechua,15.99,8.6,2020-12-22
+P0031,Gourde Quechua 100,Running,Gourde,Quechua,6.99,2.97,2022-02-17
+P0032,Gourde Nike 300,Running,Gourde,Nike,9.99,7.12,2021-10-03
+P0033,Gourde Btwin 700,Running,Gourde,Btwin,17.99,8.28,2021-01-17
+P0034,Gourde Wedze 700,Running,Gourde,Wedze,14.99,7.55,2023-08-12
+P0035,Gourde Wedze Pro,Running,Gourde,Wedze,6.99,3.82,2023-10-31
+P0036,Vélo route Domyos 900,Cyclisme,Vélo route,Domyos,861.99,529.15,2023-07-30
+P0037,Vélo route Btwin 900,Cyclisme,Vélo route,Btwin,638.99,267.56,2019-12-09
+P0038,Vélo route Artengo 500,Cyclisme,Vélo route,Artengo,885.99,445.01,2023-11-28
+P0039,Vélo route Kalenji Evo,Cyclisme,Vélo route,Kalenji,1075.99,488.84,2023-09-26
+P0040,Vélo route Kipsta 700,Cyclisme,Vélo route,Kipsta,1081.99,570.56,2020-02-25
+P0041,Vélo route Kalenji 900,Cyclisme,Vélo route,Kalenji,1062.99,620.0,2020-02-01
+P0042,VTT Artengo 700,Cyclisme,VTT,Artengo,826.99,533.08,2022-07-05
+P0043,VTT Adidas 500,Cyclisme,VTT,Adidas,1375.99,1071.84,2021-09-22
+P0044,VTT Quechua 100,Cyclisme,VTT,Quechua,1106.99,641.71,2023-01-01
+P0045,VTT Wedze 500,Cyclisme,VTT,Wedze,1172.99,537.04,2023-07-24
+P0046,VTT Wedze Evo,Cyclisme,VTT,Wedze,576.99,369.65,2023-06-04
+P0047,VTT Artengo 700,Cyclisme,VTT,Artengo,745.99,330.14,2020-09-06
+P0048,VTT Garmin 500,Cyclisme,VTT,Garmin,1443.99,1092.18,2021-06-13
+P0049,Casque vélo Asics 300,Cyclisme,Casque vélo,Asics,85.99,66.67,2021-10-24
+P0050,Casque vélo Kipsta 300,Cyclisme,Casque vélo,Kipsta,53.99,21.7,2020-05-04
+P0051,Casque vélo Kalenji Pro,Cyclisme,Casque vélo,Kalenji,82.99,35.41,2023-07-12
+P0052,Casque vélo Artengo 500,Cyclisme,Casque vélo,Artengo,45.99,21.02,2021-04-14
+P0053,Casque vélo Tribord 500,Cyclisme,Casque vélo,Tribord,31.99,14.82,2022-06-11
+P0054,Casque vélo Quechua 100,Cyclisme,Casque vélo,Quechua,85.99,50.71,2023-07-01
+P0055,Casque vélo Kipsta Pro,Cyclisme,Casque vélo,Kipsta,34.99,21.18,2022-06-30
+P0056,Casque vélo Wedze 300,Cyclisme,Casque vélo,Wedze,81.99,49.27,2022-09-23
+P0057,Cuissard Adidas 700,Cyclisme,Cuissard,Adidas,68.99,50.01,2023-05-31
+P0058,Cuissard Garmin 100,Cyclisme,Cuissard,Garmin,31.99,24.96,2023-12-06
+P0059,Cuissard Nike Evo,Cyclisme,Cuissard,Nike,26.99,19.54,2021-02-24
+P0060,Cuissard Adidas 900,Cyclisme,Cuissard,Adidas,29.99,20.37,2023-11-25
+P0061,Cuissard Nike 700,Cyclisme,Cuissard,Nike,56.99,44.47,2023-06-30
+P0062,Cuissard Artengo Evo,Cyclisme,Cuissard,Artengo,39.99,22.98,2023-06-17
+P0063,Cuissard Domyos 700,Cyclisme,Cuissard,Domyos,53.99,22.19,2022-10-29
+P0064,Cuissard Garmin Evo,Cyclisme,Cuissard,Garmin,21.99,15.76,2023-05-24
+P0065,Cuissard Wedze Pro,Cyclisme,Cuissard,Wedze,25.99,15.98,2022-04-13
+P0066,Cuissard Kipsta Evo,Cyclisme,Cuissard,Kipsta,49.99,20.83,2020-12-20
+P0067,Antivol Domyos 700,Cyclisme,Antivol,Domyos,50.99,32.92,2021-04-11
+P0068,Antivol Kalenji 700,Cyclisme,Antivol,Kalenji,52.99,23.89,2023-01-18
+P0069,Antivol Tribord 700,Cyclisme,Antivol,Tribord,42.99,18.62,2020-11-27
+P0070,Antivol Wedze Evo,Cyclisme,Antivol,Wedze,33.99,18.91,2022-04-03
+P0071,Antivol Kalenji 900,Cyclisme,Antivol,Kalenji,54.99,29.5,2021-10-27
+P0072,Antivol Btwin Pro,Cyclisme,Antivol,Btwin,25.99,12.05,2020-08-25
+P0073,Antivol Garmin 100,Cyclisme,Antivol,Garmin,18.99,13.5,2022-07-14
+P0074,Antivol Kalenji Evo,Cyclisme,Antivol,Kalenji,52.99,30.33,2023-05-31
+P0075,Antivol Asics Evo,Cyclisme,Antivol,Asics,22.99,17.41,2021-08-18
+P0076,Antivol Kalenji 900,Cyclisme,Antivol,Kalenji,20.99,13.53,2023-10-10
+P0077,Chaussures randonnée Btwin 700,Montagne,Chaussures randonnée,Btwin,56.99,28.62,2021-03-16
+P0078,Chaussures randonnée Adidas 500,Montagne,Chaussures randonnée,Adidas,91.99,66.63,2020-12-23
+P0079,Chaussures randonnée Asics 700,Montagne,Chaussures randonnée,Asics,160.99,127.74,2023-04-04
+P0080,Chaussures randonnée Asics 300,Montagne,Chaussures randonnée,Asics,82.99,59.28,2020-02-08
+P0081,Chaussures randonnée Tribord Evo,Montagne,Chaussures randonnée,Tribord,56.99,31.72,2021-11-07
+P0082,Chaussures randonnée Asics 100,Montagne,Chaussures randonnée,Asics,158.99,125.95,2022-05-05
+P0083,Sac à dos 30L Nike 100,Montagne,Sac à dos 30L,Nike,97.99,65.12,2023-01-07
+P0084,Sac à dos 30L Garmin 900,Montagne,Sac à dos 30L,Garmin,94.99,64.89,2021-05-13
+P0085,Sac à dos 30L Wedze Pro,Montagne,Sac à dos 30L,Wedze,40.99,21.15,2022-09-04
+P0086,Sac à dos 30L Artengo Pro,Montagne,Sac à dos 30L,Artengo,98.99,52.89,2022-06-03
+P0087,Sac à dos 30L Nike 900,Montagne,Sac à dos 30L,Nike,51.99,40.5,2022-03-22
+P0088,Sac à dos 30L Domyos 500,Montagne,Sac à dos 30L,Domyos,63.99,37.87,2022-06-29
+P0089,Sac à dos 30L Artengo 500,Montagne,Sac à dos 30L,Artengo,56.99,31.64,2023-04-02
+P0090,Sac à dos 30L Nike 900,Montagne,Sac à dos 30L,Nike,53.99,35.51,2020-03-28
+P0091,Sac à dos 30L Asics 700,Montagne,Sac à dos 30L,Asics,56.99,41.01,2020-01-22
+P0092,Sac à dos 30L Asics 700,Montagne,Sac à dos 30L,Asics,82.99,56.38,2021-10-24
+P0093,Veste imperméable Wedze 100,Montagne,Veste imperméable,Wedze,86.99,40.56,2023-03-04
+P0094,Veste imperméable Wedze 900,Montagne,Veste imperméable,Wedze,177.99,109.82,2020-02-03
+P0095,Veste imperméable Wedze 900,Montagne,Veste imperméable,Wedze,55.99,26.24,2023-08-28
+P0096,Veste imperméable Artengo Evo,Montagne,Veste imperméable,Artengo,61.99,25.43,2023-04-22
+P0097,Veste imperméable Adidas Evo,Montagne,Veste imperméable,Adidas,134.99,92.15,2020-09-26
+P0098,Veste imperméable Garmin Evo,Montagne,Veste imperméable,Garmin,80.99,57.62,2023-10-18
+P0099,Veste imperméable Kalenji 100,Montagne,Veste imperméable,Kalenji,138.99,84.39,2021-09-06
+P0100,Veste imperméable Kipsta 900,Montagne,Veste imperméable,Kipsta,114.99,59.72,2021-01-05
+P0101,Veste imperméable Adidas 300,Montagne,Veste imperméable,Adidas,167.99,121.99,2021-07-16
+P0102,Bâtons de marche Garmin Pro,Montagne,Bâtons de marche,Garmin,19.99,15.64,2023-08-23
+P0103,Bâtons de marche Domyos 900,Montagne,Bâtons de marche,Domyos,29.99,13.69,2023-02-23
+P0104,Bâtons de marche Nike Pro,Montagne,Bâtons de marche,Nike,26.99,17.95,2020-11-14
+P0105,Bâtons de marche Wedze 300,Montagne,Bâtons de marche,Wedze,27.99,15.99,2022-09-19
+P0106,Bâtons de marche Kalenji 700,Montagne,Bâtons de marche,Kalenji,20.99,8.73,2022-03-16
+P0107,Bâtons de marche Nike 500,Montagne,Bâtons de marche,Nike,40.99,29.39,2020-02-08
+P0108,Ski alpin Tribord Pro,Montagne,Ski alpin,Tribord,391.99,217.91,2021-04-29
+P0109,Ski alpin Garmin 500,Montagne,Ski alpin,Garmin,487.99,320.77,2023-07-08
+P0110,Ski alpin Quechua Pro,Montagne,Ski alpin,Quechua,454.99,281.88,2022-01-14
+P0111,Ski alpin Wedze 100,Montagne,Ski alpin,Wedze,474.99,307.28,2022-02-19
+P0112,Ski alpin Nike Pro,Montagne,Ski alpin,Nike,318.99,233.25,2022-09-15
+P0113,Ski alpin Domyos Pro,Montagne,Ski alpin,Domyos,320.99,134.94,2020-10-17
+P0114,Ski alpin Artengo 100,Montagne,Ski alpin,Artengo,598.99,257.69,2021-03-11
+P0115,Ski alpin Quechua 900,Montagne,Ski alpin,Quechua,534.99,333.51,2019-11-25
+P0116,Ski alpin Kipsta 900,Montagne,Ski alpin,Kipsta,460.99,289.22,2021-03-16
+P0117,Ski alpin Asics 700,Montagne,Ski alpin,Asics,211.99,161.93,2023-06-01
+P0118,Combinaison néoprène Adidas 500,Sports nautiques,Combinaison néoprène,Adidas,97.99,65.01,2021-04-22
+P0119,Combinaison néoprène Asics 100,Sports nautiques,Combinaison néoprène,Asics,61.99,49.11,2020-08-20
+P0120,Combinaison néoprène Wedze 500,Sports nautiques,Combinaison néoprène,Wedze,212.99,125.74,2020-07-06
+P0121,Combinaison néoprène Btwin 100,Sports nautiques,Combinaison néoprène,Btwin,212.99,89.04,2023-07-05
+P0122,Combinaison néoprène Adidas 700,Sports nautiques,Combinaison néoprène,Adidas,192.99,130.13,2023-11-02
+P0123,Combinaison néoprène Domyos 300,Sports nautiques,Combinaison néoprène,Domyos,83.99,44.0,2021-10-14
+P0124,Combinaison néoprène Nike 700,Sports nautiques,Combinaison néoprène,Nike,179.99,121.01,2023-05-14
+P0125,Combinaison néoprène Adidas Pro,Sports nautiques,Combinaison néoprène,Adidas,96.99,73.65,2023-08-05
+P0126,Combinaison néoprène Nike 700,Sports nautiques,Combinaison néoprène,Nike,246.99,174.94,2023-10-12
+P0127,Combinaison néoprène Kipsta 900,Sports nautiques,Combinaison néoprène,Kipsta,68.99,29.59,2022-02-12
+P0128,Planche de surf Tribord 300,Sports nautiques,Planche de surf,Tribord,191.99,115.98,2022-06-16
+P0129,Planche de surf Garmin 300,Sports nautiques,Planche de surf,Garmin,356.99,243.61,2021-05-22
+P0130,Planche de surf Asics 900,Sports nautiques,Planche de surf,Asics,215.99,142.14,2021-10-12
+P0131,Planche de surf Quechua 300,Sports nautiques,Planche de surf,Quechua,410.99,195.24,2021-05-03
+P0132,Planche de surf Domyos Evo,Sports nautiques,Planche de surf,Domyos,216.99,113.47,2021-03-01
+P0133,Planche de surf Tribord Evo,Sports nautiques,Planche de surf,Tribord,363.99,225.75,2023-06-14
+P0134,Planche de surf Garmin 300,Sports nautiques,Planche de surf,Garmin,287.99,211.91,2020-10-10
+P0135,Planche de surf Wedze 300,Sports nautiques,Planche de surf,Wedze,435.99,238.51,2022-04-28
+P0136,Planche de surf Asics 300,Sports nautiques,Planche de surf,Asics,414.99,312.26,2020-03-22
+P0137,Masque tuba Quechua 500,Sports nautiques,Masque tuba,Quechua,24.99,14.83,2023-08-12
+P0138,Masque tuba Artengo 700,Sports nautiques,Masque tuba,Artengo,26.99,12.81,2021-05-05
+P0139,Masque tuba Wedze 900,Sports nautiques,Masque tuba,Wedze,19.99,9.06,2022-08-05
+P0140,Masque tuba Artengo 700,Sports nautiques,Masque tuba,Artengo,22.99,11.35,2022-07-10
+P0141,Masque tuba Garmin 700,Sports nautiques,Masque tuba,Garmin,32.99,22.01,2023-06-23
+P0142,Masque tuba Garmin 300,Sports nautiques,Masque tuba,Garmin,25.99,18.76,2020-09-19
+P0143,Maillot de bain Quechua 100,Sports nautiques,Maillot de bain,Quechua,35.99,18.95,2023-07-12
+P0144,Maillot de bain Kipsta 100,Sports nautiques,Maillot de bain,Kipsta,35.99,22.89,2023-09-07
+P0145,Maillot de bain Quechua Pro,Sports nautiques,Maillot de bain,Quechua,20.99,12.74,2022-09-18
+P0146,Maillot de bain Kipsta Pro,Sports nautiques,Maillot de bain,Kipsta,10.99,4.87,2021-02-06
+P0147,Maillot de bain Asics 300,Sports nautiques,Maillot de bain,Asics,21.99,17.09,2021-07-14
+P0148,Maillot de bain Nike 100,Sports nautiques,Maillot de bain,Nike,20.99,13.77,2023-09-09
+P0149,Maillot de bain Garmin Pro,Sports nautiques,Maillot de bain,Garmin,33.99,25.61,2021-03-06
+P0150,Paddle gonflable Nike 500,Sports nautiques,Paddle gonflable,Nike,335.99,236.49,2023-12-16
+P0151,Paddle gonflable Nike 300,Sports nautiques,Paddle gonflable,Nike,383.99,297.76,2021-01-29
+P0152,Paddle gonflable Kalenji Evo,Sports nautiques,Paddle gonflable,Kalenji,492.99,198.54,2021-09-20
+P0153,Paddle gonflable Btwin Pro,Sports nautiques,Paddle gonflable,Btwin,546.99,336.18,2021-12-08
+P0154,Paddle gonflable Domyos Pro,Sports nautiques,Paddle gonflable,Domyos,337.99,212.93,2020-11-25
+P0155,Paddle gonflable Kipsta 700,Sports nautiques,Paddle gonflable,Kipsta,364.99,223.49,2022-09-29
+P0156,Ballon football Btwin Evo,Sports collectifs,Ballon football,Btwin,11.99,7.1,2023-03-19
+P0157,Ballon football Quechua Pro,Sports collectifs,Ballon football,Quechua,24.99,12.58,2021-12-23
+P0158,Ballon football Kipsta 100,Sports collectifs,Ballon football,Kipsta,17.99,7.9,2020-06-29
+P0159,Ballon football Wedze Pro,Sports collectifs,Ballon football,Wedze,29.99,14.47,2020-11-13
+P0160,Ballon football Wedze 100,Sports collectifs,Ballon football,Wedze,21.99,11.33,2020-05-20
+P0161,Ballon football Tribord 700,Sports collectifs,Ballon football,Tribord,35.99,19.05,2020-11-05
+P0162,Chaussures foot Asics 500,Sports collectifs,Chaussures foot,Asics,95.99,63.7,2021-08-04
+P0163,Chaussures foot Kalenji Pro,Sports collectifs,Chaussures foot,Kalenji,77.99,40.97,2020-07-09
+P0164,Chaussures foot Artengo Evo,Sports collectifs,Chaussures foot,Artengo,51.99,28.61,2020-03-26
+P0165,Chaussures foot Wedze 900,Sports collectifs,Chaussures foot,Wedze,59.99,33.91,2022-09-14
+P0166,Chaussures foot Btwin 900,Sports collectifs,Chaussures foot,Btwin,42.99,17.98,2022-02-28
+P0167,Chaussures foot Domyos 500,Sports collectifs,Chaussures foot,Domyos,105.99,68.7,2022-04-18
+P0168,Chaussures foot Quechua 900,Sports collectifs,Chaussures foot,Quechua,117.99,58.0,2019-12-21
+P0169,Chaussures foot Adidas 900,Sports collectifs,Chaussures foot,Adidas,92.99,63.77,2021-04-30
+P0170,Chaussures foot Asics 900,Sports collectifs,Chaussures foot,Asics,119.99,78.66,2020-10-15
+P0171,Ballon basket Asics Pro,Sports collectifs,Ballon basket,Asics,18.99,13.11,2022-03-12
+P0172,Ballon basket Wedze 700,Sports collectifs,Ballon basket,Wedze,34.99,14.26,2023-07-25
+P0173,Ballon basket Garmin Evo,Sports collectifs,Ballon basket,Garmin,23.99,16.55,2020-12-03
+P0174,Ballon basket Wedze 500,Sports collectifs,Ballon basket,Wedze,18.99,12.15,2021-11-30
+P0175,Ballon basket Adidas Evo,Sports collectifs,Ballon basket,Adidas,29.99,19.56,2022-02-03
+P0176,Ballon basket Quechua Evo,Sports collectifs,Ballon basket,Quechua,27.99,12.64,2021-05-02
+P0177,Ballon basket Kalenji 300,Sports collectifs,Ballon basket,Kalenji,31.99,14.38,2020-03-15
+P0178,Ballon basket Domyos Pro,Sports collectifs,Ballon basket,Domyos,16.99,9.46,2020-02-02
+P0179,Maillot équipe Tribord 100,Sports collectifs,Maillot équipe,Tribord,53.99,25.47,2021-04-21
+P0180,Maillot équipe Adidas 500,Sports collectifs,Maillot équipe,Adidas,63.99,44.09,2020-09-17
+P0181,Maillot équipe Tribord 100,Sports collectifs,Maillot équipe,Tribord,31.99,15.82,2023-01-16
+P0182,Maillot équipe Asics 300,Sports collectifs,Maillot équipe,Asics,20.99,15.17,2021-03-22
+P0183,Maillot équipe Artengo 100,Sports collectifs,Maillot équipe,Artengo,40.99,17.47,2021-06-30
+P0184,Maillot équipe Nike 700,Sports collectifs,Maillot équipe,Nike,31.99,21.5,2022-07-28
+P0185,Protège-tibias Asics 700,Sports collectifs,Protège-tibias,Asics,13.99,9.95,2022-05-16
+P0186,Protège-tibias Kalenji 300,Sports collectifs,Protège-tibias,Kalenji,23.99,14.47,2021-03-19
+P0187,Protège-tibias Kalenji 500,Sports collectifs,Protège-tibias,Kalenji,13.99,6.58,2020-09-07
+P0188,Protège-tibias Artengo Evo,Sports collectifs,Protège-tibias,Artengo,13.99,7.67,2021-10-22
+P0189,Protège-tibias Kalenji Pro,Sports collectifs,Protège-tibias,Kalenji,17.99,7.21,2021-02-14
+P0190,Protège-tibias Nike 900,Sports collectifs,Protège-tibias,Nike,14.99,9.93,2023-02-06
+P0191,Protège-tibias Domyos 100,Sports collectifs,Protège-tibias,Domyos,10.99,6.14,2023-09-23
+P0192,Protège-tibias Tribord 300,Sports collectifs,Protège-tibias,Tribord,8.99,4.82,2020-01-18
+P0193,Protège-tibias Wedze Evo,Sports collectifs,Protège-tibias,Wedze,13.99,7.62,2020-01-24
+P0194,Tapis de yoga Adidas 500,Fitness,Tapis de yoga,Adidas,39.99,30.29,2020-04-26
+P0195,Tapis de yoga Tribord 300,Fitness,Tapis de yoga,Tribord,29.99,12.68,2022-09-29
+P0196,Tapis de yoga Artengo 900,Fitness,Tapis de yoga,Artengo,48.99,24.61,2021-04-26
+P0197,Tapis de yoga Kipsta 500,Fitness,Tapis de yoga,Kipsta,25.99,14.8,2023-04-10
+P0198,Tapis de yoga Kalenji 100,Fitness,Tapis de yoga,Kalenji,54.99,31.85,2021-09-11
+P0199,Tapis de yoga Quechua Pro,Fitness,Tapis de yoga,Quechua,50.99,27.56,2020-06-19
+P0200,Tapis de yoga Domyos 300,Fitness,Tapis de yoga,Domyos,59.99,28.88,2020-08-28
+P0201,Tapis de yoga Nike Evo,Fitness,Tapis de yoga,Nike,50.99,39.38,2023-04-20
+P0202,Tapis de yoga Artengo 500,Fitness,Tapis de yoga,Artengo,19.99,9.73,2020-01-29
+P0203,Tapis de yoga Adidas 700,Fitness,Tapis de yoga,Adidas,34.99,27.8,2020-02-24
+P0204,Haltères Nike 100,Fitness,Haltères,Nike,24.99,19.07,2021-08-26
+P0205,Haltères Kipsta Pro,Fitness,Haltères,Kipsta,65.99,34.38,2022-09-20
+P0206,Haltères Kipsta 100,Fitness,Haltères,Kipsta,31.99,17.72,2020-10-22
+P0207,Haltères Kipsta Evo,Fitness,Haltères,Kipsta,89.99,53.84,2022-10-05
+P0208,Haltères Domyos 500,Fitness,Haltères,Domyos,61.99,40.27,2022-10-24
+P0209,Haltères Kalenji 100,Fitness,Haltères,Kalenji,106.99,69.51,2021-11-30
+P0210,Haltères Quechua 700,Fitness,Haltères,Quechua,53.99,29.27,2021-09-27
+P0211,Haltères Adidas 300,Fitness,Haltères,Adidas,104.99,79.89,2022-09-05
+P0212,Haltères Wedze 300,Fitness,Haltères,Wedze,67.99,32.58,2022-08-19
+P0213,Haltères Btwin 700,Fitness,Haltères,Btwin,53.99,22.54,2023-10-21
+P0214,Vélo d'appartement Domyos 900,Fitness,Vélo d'appartement,Domyos,555.99,340.48,2023-10-22
+P0215,Vélo d'appartement Quechua 100,Fitness,Vélo d'appartement,Quechua,659.99,427.47,2020-03-03
+P0216,Vélo d'appartement Btwin 900,Fitness,Vélo d'appartement,Btwin,215.99,134.42,2021-06-15
+P0217,Vélo d'appartement Domyos 300,Fitness,Vélo d'appartement,Domyos,484.99,243.68,2021-03-06
+P0218,Vélo d'appartement Asics 700,Fitness,Vélo d'appartement,Asics,202.99,136.41,2021-06-17
+P0219,Vélo d'appartement Domyos 300,Fitness,Vélo d'appartement,Domyos,586.99,256.0,2022-10-22
+P0220,Vélo d'appartement Quechua Evo,Fitness,Vélo d'appartement,Quechua,659.99,354.01,2021-07-10
+P0221,Vélo d'appartement Asics Evo,Fitness,Vélo d'appartement,Asics,380.99,258.32,2023-05-24
+P0222,Élastiques Artengo Pro,Fitness,Élastiques,Artengo,21.99,13.1,2021-11-19
+P0223,Élastiques Tribord Evo,Fitness,Élastiques,Tribord,14.99,9.45,2023-11-18
+P0224,Élastiques Nike 500,Fitness,Élastiques,Nike,8.99,6.97,2021-04-18
+P0225,Élastiques Nike Pro,Fitness,Élastiques,Nike,23.99,16.53,2022-09-13
+P0226,Élastiques Kalenji Evo,Fitness,Élastiques,Kalenji,21.99,13.6,2020-10-24
+P0227,Élastiques Kalenji Pro,Fitness,Élastiques,Kalenji,23.99,14.56,2021-12-02
+P0228,Élastiques Kalenji Evo,Fitness,Élastiques,Kalenji,8.99,5.81,2021-09-23
+P0229,Brassière sport Artengo 900,Fitness,Brassière sport,Artengo,18.99,8.08,2023-08-18
+P0230,Brassière sport Asics 300,Fitness,Brassière sport,Asics,31.99,22.61,2022-11-18
+P0231,Brassière sport Nike 100,Fitness,Brassière sport,Nike,32.99,24.93,2022-08-04
+P0232,Brassière sport Wedze 100,Fitness,Brassière sport,Wedze,40.99,26.46,2021-07-22
+P0233,Brassière sport Kalenji 300,Fitness,Brassière sport,Kalenji,41.99,24.63,2021-06-16
+P0234,Brassière sport Wedze Pro,Fitness,Brassière sport,Wedze,31.99,17.63,2021-03-21
+P0235,Brassière sport Artengo Pro,Fitness,Brassière sport,Artengo,32.99,15.19,2021-01-20
+P0236,Brassière sport Garmin Evo,Fitness,Brassière sport,Garmin,27.99,20.23,2023-12-14
+P0237,Brassière sport Kipsta Pro,Fitness,Brassière sport,Kipsta,30.99,16.98,2020-02-22
+P0238,Brassière sport Kalenji 300,Fitness,Brassière sport,Kalenji,41.99,23.15,2021-03-14
+P0239,Raquette tennis Kalenji 900,Raquettes,Raquette tennis,Kalenji,213.99,129.55,2023-03-08
+P0240,Raquette tennis Garmin Evo,Raquettes,Raquette tennis,Garmin,204.99,157.47,2022-08-06
+P0241,Raquette tennis Domyos 900,Raquettes,Raquette tennis,Domyos,172.99,74.46,2022-06-12
+P0242,Raquette tennis Tribord 700,Raquettes,Raquette tennis,Tribord,173.99,81.29,2021-10-23
+P0243,Raquette tennis Adidas Pro,Raquettes,Raquette tennis,Adidas,142.99,112.15,2020-04-16
+P0244,Raquette tennis Nike Evo,Raquettes,Raquette tennis,Nike,183.99,144.44,2023-12-28
+P0245,Raquette tennis Btwin 300,Raquettes,Raquette tennis,Btwin,173.99,112.09,2019-12-25
+P0246,Raquette tennis Garmin 500,Raquettes,Raquette tennis,Garmin,169.99,113.36,2021-06-02
+P0247,Balles tennis Wedze 500,Raquettes,Balles tennis,Wedze,11.99,6.05,2022-06-03
+P0248,Balles tennis Tribord 700,Raquettes,Balles tennis,Tribord,11.99,4.99,2022-01-30
+P0249,Balles tennis Kipsta 300,Raquettes,Balles tennis,Kipsta,8.99,4.96,2020-11-04
+P0250,Balles tennis Kalenji 100,Raquettes,Balles tennis,Kalenji,6.99,3.35,2022-08-10
+P0251,Balles tennis Kipsta Evo,Raquettes,Balles tennis,Kipsta,7.99,5.0,2022-01-22
+P0252,Balles tennis Adidas 700,Raquettes,Balles tennis,Adidas,13.99,10.61,2023-03-04
+P0253,Balles tennis Garmin 300,Raquettes,Balles tennis,Garmin,10.99,8.02,2022-02-18
+P0254,Raquette padel Kalenji 100,Raquettes,Raquette padel,Kalenji,146.99,60.29,2022-12-30
+P0255,Raquette padel Wedze 300,Raquettes,Raquette padel,Wedze,149.99,93.34,2022-12-19
+P0256,Raquette padel Kalenji 500,Raquettes,Raquette padel,Kalenji,202.99,87.45,2020-10-29
+P0257,Raquette padel Asics 500,Raquettes,Raquette padel,Asics,246.99,161.2,2020-02-02
+P0258,Raquette padel Wedze 100,Raquettes,Raquette padel,Wedze,77.99,44.76,2023-02-02
+P0259,Raquette padel Artengo Pro,Raquettes,Raquette padel,Artengo,69.99,30.69,2021-06-20
+P0260,Raquette padel Tribord 700,Raquettes,Raquette padel,Tribord,83.99,49.28,2022-02-19
+P0261,Raquette badminton Kalenji Pro,Raquettes,Raquette badminton,Kalenji,52.99,24.7,2020-12-18
+P0262,Raquette badminton Quechua 100,Raquettes,Raquette badminton,Quechua,39.99,21.95,2020-11-17
+P0263,Raquette badminton Kipsta Pro,Raquettes,Raquette badminton,Kipsta,28.99,12.02,2022-04-29
+P0264,Raquette badminton Kalenji 500,Raquettes,Raquette badminton,Kalenji,73.99,46.24,2022-12-01
+P0265,Raquette badminton Btwin Pro,Raquettes,Raquette badminton,Btwin,26.99,14.75,2023-10-01
+P0266,Raquette badminton Domyos 100,Raquettes,Raquette badminton,Domyos,30.99,14.64,2020-07-03
+P0267,Sac raquette Asics Pro,Raquettes,Sac raquette,Asics,43.99,31.69,2022-12-25
+P0268,Sac raquette Quechua 300,Raquettes,Sac raquette,Quechua,33.99,14.11,2023-09-12
+P0269,Sac raquette Asics 300,Raquettes,Sac raquette,Asics,67.99,49.11,2021-12-27
+P0270,Sac raquette Domyos 700,Raquettes,Sac raquette,Domyos,54.99,29.77,2022-07-08
+P0271,Sac raquette Kalenji 100,Raquettes,Sac raquette,Kalenji,31.99,13.18,2022-01-08
+P0272,Sac raquette Asics Evo,Raquettes,Sac raquette,Asics,34.99,25.08,2020-01-23
+P0273,Sac raquette Btwin 500,Raquettes,Sac raquette,Btwin,38.99,25.05,2023-07-07
+P0274,Sac raquette Kalenji Evo,Raquettes,Sac raquette,Kalenji,42.99,21.41,2023-09-16

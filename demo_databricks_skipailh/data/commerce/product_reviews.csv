@@ -1,0 +1,801 @@
+review_id,product_id,customer_id,review_date,rating,review_text
+R00001,P0236,C06670,2024-06-13,3,Conforme à la description. Rien à signaler de particulier.
+R00002,P0056,C03999,2025-08-22,3,Bon produit mais la notice est peu claire.
+R00003,P0263,C02733,2024-07-22,5,"J'utilise raquette badminton depuis trois mois, aucun souci, solide et léger."
+R00004,P0054,C04661,2025-02-08,4,"casque vélo au top, confortable dès la première utilisation."
+R00005,P0192,C02729,2025-12-22,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00006,P0126,C00918,2024-02-02,5,"combinaison néoprène au top, confortable dès la première utilisation."
+R00007,P0214,C06468,2025-10-31,5,"Très satisfait de vélo d'appartement, excellent rapport qualité prix. Je recommande !"
+R00008,P0050,C01981,2025-12-26,4,"casque vélo au top, confortable dès la première utilisation."
+R00009,P0241,C01605,2025-06-10,5,"Parfait pour débuter, raquette tennis fait exactement ce qu'on attend."
+R00010,P0063,C01236,2025-01-24,5,"J'utilise cuissard depuis trois mois, aucun souci, solide et léger."
+R00011,P0069,C06778,2025-05-31,3,"antivol correct sans plus, fait le travail."
+R00012,P0070,C04330,2025-06-14,1,"antivol taille beaucoup trop petit, retour obligatoire. Dommage."
+R00013,P0168,C04786,2024-03-20,3,Conforme à la description. Rien à signaler de particulier.
+R00014,P0131,C01202,2024-10-05,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00015,P0098,C04720,2024-11-16,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00016,P0263,C01207,2025-02-13,2,"raquette badminton taille beaucoup trop petit, retour obligatoire. Dommage."
+R00017,P0257,C03249,2025-12-07,5,"raquette padel au top, confortable dès la première utilisation."
+R00018,P0264,C06993,2024-03-08,1,Déçu par raquette badminton : la couture a lâché au bout de deux semaines.
+R00019,P0170,C07560,2025-03-19,5,"Parfait pour débuter, chaussures foot fait exactement ce qu'on attend."
+R00020,P0032,C06002,2025-11-08,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00021,P0092,C07757,2025-04-13,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00022,P0196,C01707,2024-06-23,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00023,P0181,C06092,2025-02-03,3,"maillot équipe correct sans plus, fait le travail."
+R00024,P0100,C05764,2024-09-28,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00025,P0167,C05263,2025-06-15,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00026,P0112,C02754,2024-02-12,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00027,P0200,C04153,2025-01-22,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00028,P0132,C07468,2024-08-12,3,planche de surf sympa mais la couleur est différente de la photo.
+R00029,P0188,C01095,2025-09-10,2,"Prix trop élevé pour la qualité, protège-tibias s'est abîmé très vite."
+R00030,P0094,C05028,2024-12-20,3,veste imperméable sympa mais la couleur est différente de la photo.
+R00031,P0019,C01812,2024-05-20,5,"Très satisfait de short running, excellent rapport qualité prix. Je recommande !"
+R00032,P0058,C02769,2024-08-14,4,"Très satisfait de cuissard, excellent rapport qualité prix. Je recommande !"
+R00033,P0117,C02173,2024-03-06,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00034,P0126,C04125,2025-11-24,5,"combinaison néoprène au top, confortable dès la première utilisation."
+R00035,P0256,C04646,2025-08-29,3,raquette padel sympa mais la couleur est différente de la photo.
+R00036,P0084,C07383,2024-03-11,3,Bon produit mais la notice est peu claire.
+R00037,P0088,C07608,2025-06-28,5,"Très satisfait de sac à dos 30l, excellent rapport qualité prix. Je recommande !"
+R00038,P0133,C05737,2024-04-08,3,Conforme à la description. Rien à signaler de particulier.
+R00039,P0188,C03187,2025-06-17,3,Bon produit mais la notice est peu claire.
+R00040,P0209,C06515,2025-09-05,4,"Très satisfait de haltères, excellent rapport qualité prix. Je recommande !"
+R00041,P0004,C01386,2025-03-10,1,Déçu par chaussures running : la couture a lâché au bout de deux semaines.
+R00042,P0159,C06041,2024-12-06,4,"J'utilise ballon football depuis trois mois, aucun souci, solide et léger."
+R00043,P0225,C05880,2024-02-15,1,"Prix trop élevé pour la qualité, élastiques s'est abîmé très vite."
+R00044,P0112,C05840,2025-09-05,2,"Prix trop élevé pour la qualité, ski alpin s'est abîmé très vite."
+R00045,P0107,C07022,2025-10-11,3,Conforme à la description. Rien à signaler de particulier.
+R00046,P0251,C00243,2024-11-13,3,Bon produit mais la notice est peu claire.
+R00047,P0146,C01501,2025-12-10,4,"J'utilise maillot de bain depuis trois mois, aucun souci, solide et léger."
+R00048,P0027,C01329,2024-03-24,5,"montre gps au top, confortable dès la première utilisation."
+R00049,P0047,C07507,2025-09-18,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00050,P0107,C04887,2024-06-21,3,Bon produit mais la notice est peu claire.
+R00051,P0149,C03746,2025-12-01,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00052,P0245,C06736,2024-08-20,5,"Parfait pour débuter, raquette tennis fait exactement ce qu'on attend."
+R00053,P0004,C02421,2024-08-17,2,Déçu par chaussures running : la couture a lâché au bout de deux semaines.
+R00054,P0258,C06629,2025-07-13,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00055,P0215,C03089,2025-04-11,5,"Parfait pour débuter, vélo d'appartement fait exactement ce qu'on attend."
+R00056,P0114,C00410,2025-04-06,4,"J'utilise ski alpin depuis trois mois, aucun souci, solide et léger."
+R00057,P0084,C00669,2025-06-11,3,sac à dos 30l sympa mais la couleur est différente de la photo.
+R00058,P0092,C02776,2024-01-20,3,sac à dos 30l sympa mais la couleur est différente de la photo.
+R00059,P0167,C05065,2025-11-20,4,"J'utilise chaussures foot depuis trois mois, aucun souci, solide et léger."
+R00060,P0254,C07943,2025-04-24,5,"raquette padel au top, confortable dès la première utilisation."
+R00061,P0206,C01536,2025-04-28,5,"Très satisfait de haltères, excellent rapport qualité prix. Je recommande !"
+R00062,P0059,C05304,2025-01-28,4,"Parfait pour débuter, cuissard fait exactement ce qu'on attend."
+R00063,P0232,C06829,2024-11-29,4,"brassière sport au top, confortable dès la première utilisation."
+R00064,P0162,C07011,2024-08-06,2,Déçu par chaussures foot : la couture a lâché au bout de deux semaines.
+R00065,P0200,C04015,2024-04-07,1,Déçu par tapis de yoga : la couture a lâché au bout de deux semaines.
+R00066,P0012,C05854,2024-07-15,5,"Très satisfait de t-shirt respirant, excellent rapport qualité prix. Je recommande !"
+R00067,P0223,C06841,2024-05-16,3,Bon produit mais la notice est peu claire.
+R00068,P0043,C05688,2024-11-26,3,vtt sympa mais la couleur est différente de la photo.
+R00069,P0046,C06607,2025-09-12,2,Déçu par vtt : la couture a lâché au bout de deux semaines.
+R00070,P0114,C04151,2025-11-19,4,"J'utilise ski alpin depuis trois mois, aucun souci, solide et léger."
+R00071,P0044,C04289,2024-06-03,4,"vtt au top, confortable dès la première utilisation."
+R00072,P0162,C01475,2024-02-10,3,Conforme à la description. Rien à signaler de particulier.
+R00073,P0181,C07975,2025-04-09,1,Déçu par maillot équipe : la couture a lâché au bout de deux semaines.
+R00074,P0063,C03161,2024-08-15,3,"cuissard correct sans plus, fait le travail."
+R00075,P0077,C06062,2024-08-23,5,"Parfait pour débuter, chaussures randonnée fait exactement ce qu'on attend."
+R00076,P0010,C03359,2024-12-13,4,"Très satisfait de t-shirt respirant, excellent rapport qualité prix. Je recommande !"
+R00077,P0008,C07759,2025-02-04,4,"Parfait pour débuter, t-shirt respirant fait exactement ce qu'on attend."
+R00078,P0162,C02019,2025-11-02,4,"J'utilise chaussures foot depuis trois mois, aucun souci, solide et léger."
+R00079,P0250,C07407,2025-12-25,4,"balles tennis au top, confortable dès la première utilisation."
+R00080,P0026,C07365,2024-07-06,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00081,P0254,C00935,2024-05-10,5,"J'utilise raquette padel depuis trois mois, aucun souci, solide et léger."
+R00082,P0225,C06004,2025-09-16,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00083,P0238,C06153,2024-04-16,3,brassière sport sympa mais la couleur est différente de la photo.
+R00084,P0116,C02511,2024-10-11,4,"Très satisfait de ski alpin, excellent rapport qualité prix. Je recommande !"
+R00085,P0129,C00455,2025-11-17,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00086,P0059,C01973,2024-02-15,3,Bon produit mais la notice est peu claire.
+R00087,P0225,C00265,2025-12-21,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00088,P0112,C06884,2025-03-19,4,"Très satisfait de ski alpin, excellent rapport qualité prix. Je recommande !"
+R00089,P0045,C02127,2024-07-09,5,"Très satisfait de vtt, excellent rapport qualité prix. Je recommande !"
+R00090,P0243,C05029,2024-12-16,5,"Parfait pour débuter, raquette tennis fait exactement ce qu'on attend."
+R00091,P0063,C06988,2024-10-06,5,"Parfait pour débuter, cuissard fait exactement ce qu'on attend."
+R00092,P0173,C07837,2025-12-04,4,"ballon basket au top, confortable dès la première utilisation."
+R00093,P0222,C01663,2025-06-21,5,"J'utilise élastiques depuis trois mois, aucun souci, solide et léger."
+R00094,P0273,C06102,2024-08-18,3,Bon produit mais la notice est peu claire.
+R00095,P0030,C07310,2024-12-05,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00096,P0030,C07901,2025-07-09,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00097,P0058,C07786,2025-06-21,3,Conforme à la description. Rien à signaler de particulier.
+R00098,P0047,C06268,2024-05-01,4,"vtt au top, confortable dès la première utilisation."
+R00099,P0097,C06753,2025-11-14,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00100,P0138,C01364,2025-12-05,4,"Très satisfait de masque tuba, excellent rapport qualité prix. Je recommande !"
+R00101,P0179,C04676,2025-08-08,3,Conforme à la description. Rien à signaler de particulier.
+R00102,P0193,C01747,2024-11-12,2,"Prix trop élevé pour la qualité, protège-tibias s'est abîmé très vite."
+R00103,P0048,C05752,2024-09-01,2,"vtt taille beaucoup trop petit, retour obligatoire. Dommage."
+R00104,P0266,C04259,2025-07-15,4,"J'utilise raquette badminton depuis trois mois, aucun souci, solide et léger."
+R00105,P0232,C05244,2025-11-30,1,Déçu par brassière sport : la couture a lâché au bout de deux semaines.
+R00106,P0032,C04305,2025-01-17,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00107,P0242,C03219,2025-02-11,5,"J'utilise raquette tennis depuis trois mois, aucun souci, solide et léger."
+R00108,P0199,C00951,2025-04-05,5,"Parfait pour débuter, tapis de yoga fait exactement ce qu'on attend."
+R00109,P0041,C02594,2024-06-11,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00110,P0075,C05945,2024-11-27,3,"antivol correct sans plus, fait le travail."
+R00111,P0063,C03398,2025-08-12,2,"Prix trop élevé pour la qualité, cuissard s'est abîmé très vite."
+R00112,P0202,C02935,2025-05-10,2,"tapis de yoga taille beaucoup trop petit, retour obligatoire. Dommage."
+R00113,P0048,C02328,2024-10-16,4,"J'utilise vtt depuis trois mois, aucun souci, solide et léger."
+R00114,P0259,C00577,2025-07-05,4,"J'utilise raquette padel depuis trois mois, aucun souci, solide et léger."
+R00115,P0163,C06402,2024-10-05,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00116,P0023,C06035,2025-06-04,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00117,P0227,C02290,2025-02-27,5,"Très satisfait de élastiques, excellent rapport qualité prix. Je recommande !"
+R00118,P0179,C02002,2025-03-02,2,"maillot équipe taille beaucoup trop petit, retour obligatoire. Dommage."
+R00119,P0225,C05092,2024-08-01,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00120,P0124,C02574,2024-11-22,3,Bon produit mais la notice est peu claire.
+R00121,P0187,C07113,2025-09-16,1,"Prix trop élevé pour la qualité, protège-tibias s'est abîmé très vite."
+R00122,P0120,C03951,2025-11-13,5,"combinaison néoprène au top, confortable dès la première utilisation."
+R00123,P0137,C02504,2025-01-29,5,"masque tuba au top, confortable dès la première utilisation."
+R00124,P0133,C06625,2024-12-06,4,"Parfait pour débuter, planche de surf fait exactement ce qu'on attend."
+R00125,P0131,C03665,2025-08-24,5,"Parfait pour débuter, planche de surf fait exactement ce qu'on attend."
+R00126,P0051,C02533,2025-01-12,4,"casque vélo au top, confortable dès la première utilisation."
+R00127,P0151,C05863,2025-03-10,1,"paddle gonflable taille beaucoup trop petit, retour obligatoire. Dommage."
+R00128,P0131,C05464,2025-02-27,4,"planche de surf au top, confortable dès la première utilisation."
+R00129,P0251,C05098,2025-10-11,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00130,P0207,C05049,2024-04-30,5,"Très satisfait de haltères, excellent rapport qualité prix. Je recommande !"
+R00131,P0243,C02449,2024-06-18,3,Bon produit mais la notice est peu claire.
+R00132,P0262,C06175,2024-10-07,4,"J'utilise raquette badminton depuis trois mois, aucun souci, solide et léger."
+R00133,P0242,C02572,2025-08-02,4,"Très satisfait de raquette tennis, excellent rapport qualité prix. Je recommande !"
+R00134,P0264,C05252,2025-03-09,5,"J'utilise raquette badminton depuis trois mois, aucun souci, solide et léger."
+R00135,P0024,C02751,2024-06-07,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00136,P0099,C01134,2024-10-06,4,"Très satisfait de veste imperméable, excellent rapport qualité prix. Je recommande !"
+R00137,P0073,C01105,2024-09-19,2,"antivol taille beaucoup trop petit, retour obligatoire. Dommage."
+R00138,P0216,C00207,2024-01-10,5,"Parfait pour débuter, vélo d'appartement fait exactement ce qu'on attend."
+R00139,P0221,C00121,2024-04-06,4,"Parfait pour débuter, vélo d'appartement fait exactement ce qu'on attend."
+R00140,P0030,C06340,2025-01-06,4,"Très satisfait de gourde, excellent rapport qualité prix. Je recommande !"
+R00141,P0236,C03341,2024-12-09,2,Déçu par brassière sport : la couture a lâché au bout de deux semaines.
+R00142,P0110,C07148,2025-03-04,5,"J'utilise ski alpin depuis trois mois, aucun souci, solide et léger."
+R00143,P0265,C04803,2024-09-18,5,"Très satisfait de raquette badminton, excellent rapport qualité prix. Je recommande !"
+R00144,P0040,C07090,2024-04-15,5,"Très satisfait de vélo route, excellent rapport qualité prix. Je recommande !"
+R00145,P0126,C06648,2025-05-11,4,"combinaison néoprène au top, confortable dès la première utilisation."
+R00146,P0267,C05328,2025-07-31,3,Bon produit mais la notice est peu claire.
+R00147,P0032,C04863,2025-07-14,2,Déçu par gourde : la couture a lâché au bout de deux semaines.
+R00148,P0116,C02086,2025-05-21,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00149,P0130,C00732,2024-09-02,3,Bon produit mais la notice est peu claire.
+R00150,P0125,C02432,2025-12-11,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00151,P0015,C07189,2025-06-11,3,"short running correct sans plus, fait le travail."
+R00152,P0223,C00027,2024-03-07,3,"élastiques correct sans plus, fait le travail."
+R00153,P0007,C00388,2025-05-16,4,"t-shirt respirant au top, confortable dès la première utilisation."
+R00154,P0165,C06043,2024-07-15,5,"chaussures foot au top, confortable dès la première utilisation."
+R00155,P0211,C04129,2024-03-26,4,"J'utilise haltères depuis trois mois, aucun souci, solide et léger."
+R00156,P0078,C01209,2025-09-10,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00157,P0268,C04865,2025-10-26,5,"J'utilise sac raquette depuis trois mois, aucun souci, solide et léger."
+R00158,P0124,C06899,2025-11-03,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00159,P0053,C05924,2024-05-04,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00160,P0129,C03100,2024-03-29,1,Déçu par planche de surf : la couture a lâché au bout de deux semaines.
+R00161,P0159,C01638,2025-10-23,3,Conforme à la description. Rien à signaler de particulier.
+R00162,P0172,C06880,2024-10-31,4,"Parfait pour débuter, ballon basket fait exactement ce qu'on attend."
+R00163,P0179,C00617,2025-08-31,4,"J'utilise maillot équipe depuis trois mois, aucun souci, solide et léger."
+R00164,P0016,C00505,2025-08-04,4,"Très satisfait de short running, excellent rapport qualité prix. Je recommande !"
+R00165,P0190,C07381,2025-03-29,5,"protège-tibias au top, confortable dès la première utilisation."
+R00166,P0117,C00601,2024-10-14,2,"ski alpin taille beaucoup trop petit, retour obligatoire. Dommage."
+R00167,P0069,C06437,2024-09-11,3,antivol sympa mais la couleur est différente de la photo.
+R00168,P0138,C06937,2024-01-10,2,"masque tuba taille beaucoup trop petit, retour obligatoire. Dommage."
+R00169,P0008,C06081,2025-07-06,4,"t-shirt respirant au top, confortable dès la première utilisation."
+R00170,P0223,C03757,2025-12-15,5,"élastiques au top, confortable dès la première utilisation."
+R00171,P0079,C00334,2025-06-30,3,chaussures randonnée sympa mais la couleur est différente de la photo.
+R00172,P0203,C04543,2024-06-19,4,"Très satisfait de tapis de yoga, excellent rapport qualité prix. Je recommande !"
+R00173,P0015,C04909,2025-02-20,1,"short running taille beaucoup trop petit, retour obligatoire. Dommage."
+R00174,P0241,C07748,2025-02-05,2,"Prix trop élevé pour la qualité, raquette tennis s'est abîmé très vite."
+R00175,P0125,C01452,2024-05-01,1,Déçu par combinaison néoprène : la couture a lâché au bout de deux semaines.
+R00176,P0179,C06607,2025-02-01,3,Conforme à la description. Rien à signaler de particulier.
+R00177,P0230,C06157,2024-09-28,4,"J'utilise brassière sport depuis trois mois, aucun souci, solide et léger."
+R00178,P0222,C01175,2024-03-19,2,"élastiques taille beaucoup trop petit, retour obligatoire. Dommage."
+R00179,P0222,C03073,2024-07-01,3,élastiques sympa mais la couleur est différente de la photo.
+R00180,P0170,C00355,2025-01-24,3,"chaussures foot correct sans plus, fait le travail."
+R00181,P0131,C07373,2025-11-18,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00182,P0236,C04193,2025-03-03,4,"Très satisfait de brassière sport, excellent rapport qualité prix. Je recommande !"
+R00183,P0122,C02829,2025-03-05,4,"J'utilise combinaison néoprène depuis trois mois, aucun souci, solide et léger."
+R00184,P0072,C06466,2024-07-09,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00185,P0225,C06971,2025-02-03,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00186,P0250,C04063,2024-12-24,5,"J'utilise balles tennis depuis trois mois, aucun souci, solide et léger."
+R00187,P0130,C00420,2025-09-18,4,"Très satisfait de planche de surf, excellent rapport qualité prix. Je recommande !"
+R00188,P0047,C02853,2024-10-23,4,"J'utilise vtt depuis trois mois, aucun souci, solide et léger."
+R00189,P0244,C02649,2025-08-12,4,"raquette tennis au top, confortable dès la première utilisation."
+R00190,P0080,C06040,2025-09-23,4,"chaussures randonnée au top, confortable dès la première utilisation."
+R00191,P0114,C02485,2024-02-13,3,Conforme à la description. Rien à signaler de particulier.
+R00192,P0162,C03504,2024-08-07,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00193,P0053,C05699,2025-08-24,3,Conforme à la description. Rien à signaler de particulier.
+R00194,P0174,C05567,2024-06-03,5,"ballon basket au top, confortable dès la première utilisation."
+R00195,P0184,C00742,2025-08-21,3,maillot équipe sympa mais la couleur est différente de la photo.
+R00196,P0227,C07346,2024-09-12,3,élastiques sympa mais la couleur est différente de la photo.
+R00197,P0131,C03671,2025-09-03,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00198,P0016,C07978,2025-03-15,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00199,P0084,C06267,2025-05-28,3,Bon produit mais la notice est peu claire.
+R00200,P0216,C03624,2024-08-08,3,Bon produit mais la notice est peu claire.
+R00201,P0020,C07522,2025-04-25,3,Conforme à la description. Rien à signaler de particulier.
+R00202,P0069,C03770,2024-10-27,5,"antivol au top, confortable dès la première utilisation."
+R00203,P0138,C01119,2024-04-20,4,"Très satisfait de masque tuba, excellent rapport qualité prix. Je recommande !"
+R00204,P0202,C05376,2024-09-30,1,Déçu par tapis de yoga : la couture a lâché au bout de deux semaines.
+R00205,P0009,C03467,2024-08-09,5,"t-shirt respirant au top, confortable dès la première utilisation."
+R00206,P0180,C02492,2025-04-09,4,"J'utilise maillot équipe depuis trois mois, aucun souci, solide et léger."
+R00207,P0264,C01267,2025-07-06,5,"Très satisfait de raquette badminton, excellent rapport qualité prix. Je recommande !"
+R00208,P0167,C05931,2024-10-22,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00209,P0206,C06870,2025-03-20,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00210,P0233,C01475,2024-02-28,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00211,P0241,C06204,2024-05-26,5,"Parfait pour débuter, raquette tennis fait exactement ce qu'on attend."
+R00212,P0253,C00370,2025-12-24,4,"Parfait pour débuter, balles tennis fait exactement ce qu'on attend."
+R00213,P0116,C07056,2025-03-14,5,"Parfait pour débuter, ski alpin fait exactement ce qu'on attend."
+R00214,P0070,C07477,2024-01-04,5,"J'utilise antivol depuis trois mois, aucun souci, solide et léger."
+R00215,P0139,C05964,2024-05-27,1,Déçu par masque tuba : la couture a lâché au bout de deux semaines.
+R00216,P0122,C01787,2025-11-07,5,"combinaison néoprène au top, confortable dès la première utilisation."
+R00217,P0271,C07122,2024-01-07,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00218,P0195,C01525,2025-04-09,3,"tapis de yoga correct sans plus, fait le travail."
+R00219,P0082,C06707,2024-06-09,4,"Très satisfait de chaussures randonnée, excellent rapport qualité prix. Je recommande !"
+R00220,P0184,C01641,2024-03-14,5,"Très satisfait de maillot équipe, excellent rapport qualité prix. Je recommande !"
+R00221,P0160,C04187,2024-08-31,3,"ballon football correct sans plus, fait le travail."
+R00222,P0041,C00930,2025-02-03,2,Déçu par vélo route : la couture a lâché au bout de deux semaines.
+R00223,P0135,C01853,2025-03-02,5,"J'utilise planche de surf depuis trois mois, aucun souci, solide et léger."
+R00224,P0207,C04844,2025-01-13,3,haltères sympa mais la couleur est différente de la photo.
+R00225,P0214,C01118,2024-04-04,3,"vélo d'appartement correct sans plus, fait le travail."
+R00226,P0036,C03620,2025-04-17,3,vélo route sympa mais la couleur est différente de la photo.
+R00227,P0268,C07822,2025-09-04,5,"sac raquette au top, confortable dès la première utilisation."
+R00228,P0219,C02491,2024-09-16,3,vélo d'appartement sympa mais la couleur est différente de la photo.
+R00229,P0039,C01815,2025-06-04,5,"Très satisfait de vélo route, excellent rapport qualité prix. Je recommande !"
+R00230,P0091,C02535,2025-08-04,3,sac à dos 30l sympa mais la couleur est différente de la photo.
+R00231,P0220,C00773,2024-05-24,3,Bon produit mais la notice est peu claire.
+R00232,P0003,C00436,2025-04-23,3,Conforme à la description. Rien à signaler de particulier.
+R00233,P0236,C07611,2024-09-20,4,"J'utilise brassière sport depuis trois mois, aucun souci, solide et léger."
+R00234,P0047,C03260,2025-05-16,4,"J'utilise vtt depuis trois mois, aucun souci, solide et léger."
+R00235,P0182,C00944,2024-06-02,2,"Prix trop élevé pour la qualité, maillot équipe s'est abîmé très vite."
+R00236,P0212,C07924,2024-05-21,4,"Parfait pour débuter, haltères fait exactement ce qu'on attend."
+R00237,P0202,C02012,2024-02-11,3,Bon produit mais la notice est peu claire.
+R00238,P0026,C04282,2024-07-03,1,"montre gps taille beaucoup trop petit, retour obligatoire. Dommage."
+R00239,P0261,C07057,2025-01-02,5,"Très satisfait de raquette badminton, excellent rapport qualité prix. Je recommande !"
+R00240,P0163,C04108,2025-10-23,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00241,P0068,C05259,2025-09-19,5,"Parfait pour débuter, antivol fait exactement ce qu'on attend."
+R00242,P0268,C05760,2025-04-08,3,Conforme à la description. Rien à signaler de particulier.
+R00243,P0212,C00435,2024-07-16,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00244,P0255,C02803,2025-08-29,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00245,P0049,C04638,2025-05-03,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00246,P0117,C05157,2025-08-11,3,ski alpin sympa mais la couleur est différente de la photo.
+R00247,P0220,C05048,2025-09-26,3,"vélo d'appartement correct sans plus, fait le travail."
+R00248,P0158,C04849,2024-05-26,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00249,P0240,C02754,2024-04-03,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00250,P0078,C07405,2024-01-10,3,chaussures randonnée sympa mais la couleur est différente de la photo.
+R00251,P0023,C06897,2025-03-01,5,"montre gps au top, confortable dès la première utilisation."
+R00252,P0091,C07699,2025-04-30,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00253,P0273,C05604,2025-10-22,5,"sac raquette au top, confortable dès la première utilisation."
+R00254,P0208,C04958,2025-10-14,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00255,P0099,C04875,2025-05-06,4,"veste imperméable au top, confortable dès la première utilisation."
+R00256,P0228,C02227,2024-01-22,4,"Très satisfait de élastiques, excellent rapport qualité prix. Je recommande !"
+R00257,P0007,C05425,2024-04-27,3,Bon produit mais la notice est peu claire.
+R00258,P0248,C04416,2025-03-08,5,"balles tennis au top, confortable dès la première utilisation."
+R00259,P0199,C04227,2025-08-10,5,"tapis de yoga au top, confortable dès la première utilisation."
+R00260,P0194,C00623,2025-04-04,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00261,P0234,C06504,2025-01-07,3,Bon produit mais la notice est peu claire.
+R00262,P0130,C04294,2025-06-17,2,Déçu par planche de surf : la couture a lâché au bout de deux semaines.
+R00263,P0009,C06172,2024-11-05,3,Bon produit mais la notice est peu claire.
+R00264,P0240,C06621,2025-04-11,1,"raquette tennis taille beaucoup trop petit, retour obligatoire. Dommage."
+R00265,P0251,C05195,2024-12-08,4,"J'utilise balles tennis depuis trois mois, aucun souci, solide et léger."
+R00266,P0220,C06769,2024-08-18,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00267,P0057,C07309,2025-11-23,5,"J'utilise cuissard depuis trois mois, aucun souci, solide et léger."
+R00268,P0110,C03334,2024-02-23,3,"ski alpin correct sans plus, fait le travail."
+R00269,P0051,C06147,2024-05-15,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00270,P0100,C01407,2025-08-23,5,"veste imperméable au top, confortable dès la première utilisation."
+R00271,P0247,C03474,2024-01-05,5,"Parfait pour débuter, balles tennis fait exactement ce qu'on attend."
+R00272,P0163,C03494,2025-09-26,3,Bon produit mais la notice est peu claire.
+R00273,P0080,C06441,2024-07-30,4,"J'utilise chaussures randonnée depuis trois mois, aucun souci, solide et léger."
+R00274,P0215,C02867,2025-07-01,4,"Parfait pour débuter, vélo d'appartement fait exactement ce qu'on attend."
+R00275,P0265,C00165,2024-08-04,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00276,P0181,C04780,2024-02-13,2,"maillot équipe taille beaucoup trop petit, retour obligatoire. Dommage."
+R00277,P0155,C00320,2025-07-15,3,Conforme à la description. Rien à signaler de particulier.
+R00278,P0101,C07107,2025-06-27,3,Bon produit mais la notice est peu claire.
+R00279,P0151,C05725,2025-10-10,3,Bon produit mais la notice est peu claire.
+R00280,P0168,C04731,2024-10-26,4,"Parfait pour débuter, chaussures foot fait exactement ce qu'on attend."
+R00281,P0112,C01548,2024-11-23,3,ski alpin sympa mais la couleur est différente de la photo.
+R00282,P0087,C04096,2025-10-22,3,Bon produit mais la notice est peu claire.
+R00283,P0190,C00697,2024-03-09,2,"Prix trop élevé pour la qualité, protège-tibias s'est abîmé très vite."
+R00284,P0209,C00427,2024-05-18,3,haltères sympa mais la couleur est différente de la photo.
+R00285,P0066,C04698,2024-03-19,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00286,P0225,C04909,2025-10-09,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00287,P0106,C06517,2024-03-17,2,"Prix trop élevé pour la qualité, bâtons de marche s'est abîmé très vite."
+R00288,P0247,C01020,2024-07-24,3,Conforme à la description. Rien à signaler de particulier.
+R00289,P0039,C04799,2025-01-06,3,Bon produit mais la notice est peu claire.
+R00290,P0243,C03659,2025-12-05,1,Déçu par raquette tennis : la couture a lâché au bout de deux semaines.
+R00291,P0073,C02228,2025-10-08,4,"Parfait pour débuter, antivol fait exactement ce qu'on attend."
+R00292,P0111,C06126,2024-06-29,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00293,P0048,C04419,2025-08-07,2,"vtt taille beaucoup trop petit, retour obligatoire. Dommage."
+R00294,P0274,C06370,2025-12-23,5,"Très satisfait de sac raquette, excellent rapport qualité prix. Je recommande !"
+R00295,P0027,C01353,2024-10-18,4,"Très satisfait de montre gps, excellent rapport qualité prix. Je recommande !"
+R00296,P0267,C01008,2025-11-07,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00297,P0256,C01186,2025-06-03,5,"Très satisfait de raquette padel, excellent rapport qualité prix. Je recommande !"
+R00298,P0092,C07106,2025-11-14,3,Bon produit mais la notice est peu claire.
+R00299,P0030,C07116,2025-12-03,4,"gourde au top, confortable dès la première utilisation."
+R00300,P0113,C05647,2025-10-31,4,"J'utilise ski alpin depuis trois mois, aucun souci, solide et léger."
+R00301,P0159,C07438,2025-09-06,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00302,P0242,C01096,2025-05-11,5,"raquette tennis au top, confortable dès la première utilisation."
+R00303,P0047,C04174,2025-09-06,3,"vtt correct sans plus, fait le travail."
+R00304,P0160,C01971,2024-09-22,3,Bon produit mais la notice est peu claire.
+R00305,P0247,C02425,2024-05-15,4,"balles tennis au top, confortable dès la première utilisation."
+R00306,P0271,C02918,2025-05-05,3,"sac raquette correct sans plus, fait le travail."
+R00307,P0066,C04056,2024-12-30,5,"J'utilise cuissard depuis trois mois, aucun souci, solide et léger."
+R00308,P0070,C06882,2025-04-24,4,"Très satisfait de antivol, excellent rapport qualité prix. Je recommande !"
+R00309,P0272,C07180,2025-08-26,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00310,P0034,C06140,2024-05-05,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00311,P0132,C01935,2025-11-15,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00312,P0242,C02389,2025-05-31,5,"J'utilise raquette tennis depuis trois mois, aucun souci, solide et léger."
+R00313,P0103,C00926,2024-05-08,4,"Parfait pour débuter, bâtons de marche fait exactement ce qu'on attend."
+R00314,P0019,C03289,2025-12-23,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00315,P0210,C03852,2024-12-06,5,"J'utilise haltères depuis trois mois, aucun souci, solide et léger."
+R00316,P0044,C02250,2024-08-14,4,"Très satisfait de vtt, excellent rapport qualité prix. Je recommande !"
+R00317,P0050,C02347,2025-07-11,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00318,P0152,C04954,2024-05-04,3,"paddle gonflable correct sans plus, fait le travail."
+R00319,P0214,C03549,2025-06-04,5,"Très satisfait de vélo d'appartement, excellent rapport qualité prix. Je recommande !"
+R00320,P0034,C07724,2025-08-12,3,gourde sympa mais la couleur est différente de la photo.
+R00321,P0209,C06963,2025-05-12,1,Déçu par haltères : la couture a lâché au bout de deux semaines.
+R00322,P0269,C04070,2024-07-21,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00323,P0230,C06328,2024-03-07,4,"J'utilise brassière sport depuis trois mois, aucun souci, solide et léger."
+R00324,P0066,C05266,2025-03-06,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00325,P0121,C04938,2024-06-12,1,"Prix trop élevé pour la qualité, combinaison néoprène s'est abîmé très vite."
+R00326,P0127,C03714,2024-03-24,5,"Parfait pour débuter, combinaison néoprène fait exactement ce qu'on attend."
+R00327,P0114,C04340,2025-06-13,4,"ski alpin au top, confortable dès la première utilisation."
+R00328,P0177,C00458,2024-02-13,3,Conforme à la description. Rien à signaler de particulier.
+R00329,P0011,C03036,2024-10-10,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00330,P0138,C05556,2024-01-07,5,"masque tuba au top, confortable dès la première utilisation."
+R00331,P0019,C05419,2024-08-29,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00332,P0239,C04503,2025-04-02,1,Déçu par raquette tennis : la couture a lâché au bout de deux semaines.
+R00333,P0121,C03087,2024-07-13,4,"Parfait pour débuter, combinaison néoprène fait exactement ce qu'on attend."
+R00334,P0217,C02837,2024-01-01,2,"Prix trop élevé pour la qualité, vélo d'appartement s'est abîmé très vite."
+R00335,P0248,C07133,2024-08-01,1,"Prix trop élevé pour la qualité, balles tennis s'est abîmé très vite."
+R00336,P0243,C00943,2024-05-30,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00337,P0022,C07891,2024-12-21,5,"montre gps au top, confortable dès la première utilisation."
+R00338,P0254,C04640,2024-09-26,1,"Prix trop élevé pour la qualité, raquette padel s'est abîmé très vite."
+R00339,P0267,C05972,2025-12-17,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00340,P0210,C07940,2024-05-31,5,"Très satisfait de haltères, excellent rapport qualité prix. Je recommande !"
+R00341,P0168,C05925,2025-11-20,3,Conforme à la description. Rien à signaler de particulier.
+R00342,P0163,C04989,2024-01-29,4,"J'utilise chaussures foot depuis trois mois, aucun souci, solide et léger."
+R00343,P0241,C00178,2024-05-10,4,"raquette tennis au top, confortable dès la première utilisation."
+R00344,P0235,C01870,2024-07-09,5,"Parfait pour débuter, brassière sport fait exactement ce qu'on attend."
+R00345,P0239,C01509,2024-05-28,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00346,P0207,C00721,2024-04-06,2,"Prix trop élevé pour la qualité, haltères s'est abîmé très vite."
+R00347,P0241,C06538,2024-03-04,5,"Très satisfait de raquette tennis, excellent rapport qualité prix. Je recommande !"
+R00348,P0047,C01497,2025-10-30,3,"vtt correct sans plus, fait le travail."
+R00349,P0056,C05580,2025-03-10,1,Déçu par casque vélo : la couture a lâché au bout de deux semaines.
+R00350,P0204,C04139,2025-04-30,5,"J'utilise haltères depuis trois mois, aucun souci, solide et léger."
+R00351,P0021,C03933,2025-08-03,4,"Parfait pour débuter, montre gps fait exactement ce qu'on attend."
+R00352,P0071,C05453,2024-09-14,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00353,P0127,C04064,2024-12-31,3,Bon produit mais la notice est peu claire.
+R00354,P0054,C00688,2025-07-22,5,"Très satisfait de casque vélo, excellent rapport qualité prix. Je recommande !"
+R00355,P0109,C06381,2025-03-01,3,Conforme à la description. Rien à signaler de particulier.
+R00356,P0030,C01558,2024-11-11,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00357,P0115,C02682,2024-10-15,5,"ski alpin au top, confortable dès la première utilisation."
+R00358,P0012,C07727,2025-08-29,3,Bon produit mais la notice est peu claire.
+R00359,P0239,C01578,2024-11-20,2,"Prix trop élevé pour la qualité, raquette tennis s'est abîmé très vite."
+R00360,P0025,C03258,2024-04-13,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00361,P0015,C05768,2024-11-27,5,"J'utilise short running depuis trois mois, aucun souci, solide et léger."
+R00362,P0104,C00314,2025-12-20,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00363,P0026,C00815,2025-06-20,4,"J'utilise montre gps depuis trois mois, aucun souci, solide et léger."
+R00364,P0120,C05722,2025-05-16,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00365,P0072,C04285,2024-01-04,2,"Prix trop élevé pour la qualité, antivol s'est abîmé très vite."
+R00366,P0265,C06383,2024-12-02,2,Déçu par raquette badminton : la couture a lâché au bout de deux semaines.
+R00367,P0189,C00820,2024-12-29,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00368,P0137,C05959,2025-05-12,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00369,P0033,C03129,2025-01-11,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00370,P0232,C06170,2025-01-25,4,"Très satisfait de brassière sport, excellent rapport qualité prix. Je recommande !"
+R00371,P0080,C05410,2025-01-23,4,"chaussures randonnée au top, confortable dès la première utilisation."
+R00372,P0048,C01447,2024-08-29,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00373,P0181,C07947,2024-02-21,5,"Parfait pour débuter, maillot équipe fait exactement ce qu'on attend."
+R00374,P0218,C06425,2024-04-07,4,"Très satisfait de vélo d'appartement, excellent rapport qualité prix. Je recommande !"
+R00375,P0167,C02841,2025-12-15,2,"chaussures foot taille beaucoup trop petit, retour obligatoire. Dommage."
+R00376,P0256,C01526,2025-10-06,3,Bon produit mais la notice est peu claire.
+R00377,P0136,C05128,2025-12-24,3,"planche de surf correct sans plus, fait le travail."
+R00378,P0256,C04339,2025-04-27,4,"Très satisfait de raquette padel, excellent rapport qualité prix. Je recommande !"
+R00379,P0138,C02433,2025-05-17,4,"Très satisfait de masque tuba, excellent rapport qualité prix. Je recommande !"
+R00380,P0097,C04421,2024-12-06,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00381,P0253,C07755,2024-06-21,4,"J'utilise balles tennis depuis trois mois, aucun souci, solide et léger."
+R00382,P0146,C03964,2024-10-29,5,"Très satisfait de maillot de bain, excellent rapport qualité prix. Je recommande !"
+R00383,P0022,C02929,2024-01-16,5,"montre gps au top, confortable dès la première utilisation."
+R00384,P0161,C03821,2024-11-16,3,"ballon football correct sans plus, fait le travail."
+R00385,P0090,C07470,2025-09-18,5,"sac à dos 30l au top, confortable dès la première utilisation."
+R00386,P0220,C01117,2025-10-09,5,"Parfait pour débuter, vélo d'appartement fait exactement ce qu'on attend."
+R00387,P0007,C07934,2025-08-05,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00388,P0104,C00265,2024-12-02,5,"Parfait pour débuter, bâtons de marche fait exactement ce qu'on attend."
+R00389,P0018,C05098,2025-07-14,5,"short running au top, confortable dès la première utilisation."
+R00390,P0220,C03070,2025-06-08,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00391,P0230,C07737,2024-06-05,3,Conforme à la description. Rien à signaler de particulier.
+R00392,P0069,C02982,2024-02-18,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00393,P0093,C00635,2024-10-14,3,Bon produit mais la notice est peu claire.
+R00394,P0116,C00046,2024-07-21,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00395,P0269,C05033,2024-10-05,3,"sac raquette correct sans plus, fait le travail."
+R00396,P0136,C06086,2025-03-27,5,"Très satisfait de planche de surf, excellent rapport qualité prix. Je recommande !"
+R00397,P0039,C03035,2024-11-07,4,"J'utilise vélo route depuis trois mois, aucun souci, solide et léger."
+R00398,P0203,C03590,2024-03-30,4,"J'utilise tapis de yoga depuis trois mois, aucun souci, solide et léger."
+R00399,P0016,C03015,2024-04-23,4,"short running au top, confortable dès la première utilisation."
+R00400,P0085,C06363,2025-07-30,4,"J'utilise sac à dos 30l depuis trois mois, aucun souci, solide et léger."
+R00401,P0027,C06018,2024-11-18,5,"montre gps au top, confortable dès la première utilisation."
+R00402,P0018,C07035,2024-04-24,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00403,P0068,C00962,2024-10-15,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00404,P0097,C05985,2025-09-26,5,"veste imperméable au top, confortable dès la première utilisation."
+R00405,P0015,C00288,2025-07-31,2,Déçu par short running : la couture a lâché au bout de deux semaines.
+R00406,P0040,C01378,2024-02-14,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00407,P0133,C04251,2025-12-07,5,"planche de surf au top, confortable dès la première utilisation."
+R00408,P0003,C05878,2024-10-09,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00409,P0262,C04615,2025-07-16,5,"Très satisfait de raquette badminton, excellent rapport qualité prix. Je recommande !"
+R00410,P0272,C02993,2024-06-30,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00411,P0172,C05559,2024-11-15,4,"ballon basket au top, confortable dès la première utilisation."
+R00412,P0155,C05925,2024-01-10,4,"Très satisfait de paddle gonflable, excellent rapport qualité prix. Je recommande !"
+R00413,P0104,C05353,2024-09-18,4,"Parfait pour débuter, bâtons de marche fait exactement ce qu'on attend."
+R00414,P0037,C06785,2024-05-16,3,"vélo route correct sans plus, fait le travail."
+R00415,P0103,C07410,2025-04-28,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00416,P0124,C00968,2024-01-13,2,"Prix trop élevé pour la qualité, combinaison néoprène s'est abîmé très vite."
+R00417,P0211,C03092,2025-05-24,5,"Parfait pour débuter, haltères fait exactement ce qu'on attend."
+R00418,P0167,C02149,2025-08-23,3,"chaussures foot correct sans plus, fait le travail."
+R00419,P0025,C00377,2024-07-13,3,montre gps sympa mais la couleur est différente de la photo.
+R00420,P0069,C06718,2025-12-28,2,Déçu par antivol : la couture a lâché au bout de deux semaines.
+R00421,P0186,C07054,2025-02-23,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00422,P0085,C02040,2024-06-03,2,Déçu par sac à dos 30l : la couture a lâché au bout de deux semaines.
+R00423,P0008,C03835,2024-07-01,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00424,P0029,C03899,2024-04-01,4,"Très satisfait de gourde, excellent rapport qualité prix. Je recommande !"
+R00425,P0137,C02363,2025-10-23,4,"J'utilise masque tuba depuis trois mois, aucun souci, solide et léger."
+R00426,P0240,C04273,2024-05-29,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00427,P0075,C05993,2024-09-29,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00428,P0179,C03625,2025-09-14,2,"maillot équipe taille beaucoup trop petit, retour obligatoire. Dommage."
+R00429,P0059,C03945,2024-06-23,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00430,P0222,C05568,2025-04-28,5,"Parfait pour débuter, élastiques fait exactement ce qu'on attend."
+R00431,P0071,C06881,2024-10-25,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00432,P0205,C05974,2024-03-16,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00433,P0001,C01549,2025-10-21,3,Bon produit mais la notice est peu claire.
+R00434,P0239,C06057,2024-11-25,4,"Parfait pour débuter, raquette tennis fait exactement ce qu'on attend."
+R00435,P0012,C02011,2024-08-25,3,"t-shirt respirant correct sans plus, fait le travail."
+R00436,P0083,C02939,2024-02-25,5,"sac à dos 30l au top, confortable dès la première utilisation."
+R00437,P0085,C02610,2025-09-06,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00438,P0271,C07418,2025-11-09,4,"J'utilise sac raquette depuis trois mois, aucun souci, solide et léger."
+R00439,P0129,C05866,2025-11-19,4,"J'utilise planche de surf depuis trois mois, aucun souci, solide et léger."
+R00440,P0236,C00439,2025-04-30,4,"brassière sport au top, confortable dès la première utilisation."
+R00441,P0036,C00927,2025-11-02,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00442,P0037,C01750,2024-09-07,5,"vélo route au top, confortable dès la première utilisation."
+R00443,P0259,C03983,2025-12-10,5,"Parfait pour débuter, raquette padel fait exactement ce qu'on attend."
+R00444,P0172,C04997,2024-03-10,4,"Très satisfait de ballon basket, excellent rapport qualité prix. Je recommande !"
+R00445,P0050,C06118,2025-03-08,3,casque vélo sympa mais la couleur est différente de la photo.
+R00446,P0212,C04474,2024-10-07,1,"haltères taille beaucoup trop petit, retour obligatoire. Dommage."
+R00447,P0121,C00418,2025-10-22,4,"combinaison néoprène au top, confortable dès la première utilisation."
+R00448,P0189,C06215,2024-12-23,4,"Parfait pour débuter, protège-tibias fait exactement ce qu'on attend."
+R00449,P0188,C01182,2024-09-06,5,"protège-tibias au top, confortable dès la première utilisation."
+R00450,P0104,C01744,2025-08-13,3,Conforme à la description. Rien à signaler de particulier.
+R00451,P0045,C02197,2025-09-03,2,Déçu par vtt : la couture a lâché au bout de deux semaines.
+R00452,P0216,C03134,2024-07-22,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00453,P0143,C04055,2024-11-16,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00454,P0202,C06086,2025-11-18,1,"Prix trop élevé pour la qualité, tapis de yoga s'est abîmé très vite."
+R00455,P0246,C04808,2025-10-14,4,"raquette tennis au top, confortable dès la première utilisation."
+R00456,P0181,C07780,2025-09-01,4,"J'utilise maillot équipe depuis trois mois, aucun souci, solide et léger."
+R00457,P0126,C01689,2024-12-08,3,Bon produit mais la notice est peu claire.
+R00458,P0003,C06237,2025-04-12,4,"Parfait pour débuter, chaussures running fait exactement ce qu'on attend."
+R00459,P0168,C04849,2025-01-26,4,"chaussures foot au top, confortable dès la première utilisation."
+R00460,P0213,C00023,2024-01-28,3,"haltères correct sans plus, fait le travail."
+R00461,P0017,C06859,2025-08-22,4,"Parfait pour débuter, short running fait exactement ce qu'on attend."
+R00462,P0241,C04207,2025-01-27,2,"raquette tennis taille beaucoup trop petit, retour obligatoire. Dommage."
+R00463,P0100,C03893,2025-10-26,3,"veste imperméable correct sans plus, fait le travail."
+R00464,P0078,C02526,2024-09-16,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00465,P0038,C04430,2024-06-18,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00466,P0220,C04877,2024-11-07,4,"vélo d'appartement au top, confortable dès la première utilisation."
+R00467,P0059,C01559,2025-07-03,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00468,P0201,C07998,2025-02-10,1,"tapis de yoga taille beaucoup trop petit, retour obligatoire. Dommage."
+R00469,P0131,C00574,2025-05-16,4,"Parfait pour débuter, planche de surf fait exactement ce qu'on attend."
+R00470,P0198,C05441,2024-06-28,3,"tapis de yoga correct sans plus, fait le travail."
+R00471,P0206,C02727,2025-10-30,3,haltères sympa mais la couleur est différente de la photo.
+R00472,P0037,C04671,2025-10-31,4,"Très satisfait de vélo route, excellent rapport qualité prix. Je recommande !"
+R00473,P0075,C03461,2025-02-21,1,"Prix trop élevé pour la qualité, antivol s'est abîmé très vite."
+R00474,P0129,C01881,2025-06-22,3,Conforme à la description. Rien à signaler de particulier.
+R00475,P0230,C02454,2024-12-04,4,"Parfait pour débuter, brassière sport fait exactement ce qu'on attend."
+R00476,P0170,C04671,2025-08-24,5,"J'utilise chaussures foot depuis trois mois, aucun souci, solide et léger."
+R00477,P0194,C07017,2025-09-13,4,"Très satisfait de tapis de yoga, excellent rapport qualité prix. Je recommande !"
+R00478,P0184,C00972,2024-08-09,3,Bon produit mais la notice est peu claire.
+R00479,P0121,C02489,2025-10-04,2,"combinaison néoprène taille beaucoup trop petit, retour obligatoire. Dommage."
+R00480,P0229,C03226,2024-10-08,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00481,P0231,C02476,2025-10-30,3,brassière sport sympa mais la couleur est différente de la photo.
+R00482,P0274,C02445,2025-06-29,5,"Parfait pour débuter, sac raquette fait exactement ce qu'on attend."
+R00483,P0212,C02154,2025-06-25,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00484,P0057,C02979,2025-10-27,4,"Très satisfait de cuissard, excellent rapport qualité prix. Je recommande !"
+R00485,P0049,C05020,2024-11-21,4,"Parfait pour débuter, casque vélo fait exactement ce qu'on attend."
+R00486,P0202,C04492,2024-04-28,4,"Très satisfait de tapis de yoga, excellent rapport qualité prix. Je recommande !"
+R00487,P0194,C06811,2025-05-23,5,"tapis de yoga au top, confortable dès la première utilisation."
+R00488,P0227,C05071,2024-05-12,3,Bon produit mais la notice est peu claire.
+R00489,P0181,C02276,2024-04-12,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00490,P0267,C04055,2024-11-06,3,sac raquette sympa mais la couleur est différente de la photo.
+R00491,P0139,C00149,2025-09-07,5,"Très satisfait de masque tuba, excellent rapport qualité prix. Je recommande !"
+R00492,P0057,C07565,2025-04-27,4,"Très satisfait de cuissard, excellent rapport qualité prix. Je recommande !"
+R00493,P0015,C05625,2024-08-17,5,"J'utilise short running depuis trois mois, aucun souci, solide et léger."
+R00494,P0087,C06819,2024-11-20,4,"sac à dos 30l au top, confortable dès la première utilisation."
+R00495,P0215,C03941,2024-10-28,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00496,P0020,C04170,2024-11-14,1,"short running taille beaucoup trop petit, retour obligatoire. Dommage."
+R00497,P0179,C00742,2025-03-12,1,"Prix trop élevé pour la qualité, maillot équipe s'est abîmé très vite."
+R00498,P0147,C06378,2025-03-09,1,"maillot de bain taille beaucoup trop petit, retour obligatoire. Dommage."
+R00499,P0214,C04757,2024-11-07,5,"Très satisfait de vélo d'appartement, excellent rapport qualité prix. Je recommande !"
+R00500,P0268,C00754,2024-04-25,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00501,P0106,C05738,2024-04-07,5,"J'utilise bâtons de marche depuis trois mois, aucun souci, solide et léger."
+R00502,P0213,C03689,2024-03-30,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00503,P0129,C05033,2025-01-07,3,"planche de surf correct sans plus, fait le travail."
+R00504,P0110,C05133,2025-07-30,5,"ski alpin au top, confortable dès la première utilisation."
+R00505,P0031,C07130,2025-02-12,3,"gourde correct sans plus, fait le travail."
+R00506,P0153,C02587,2024-06-04,4,"Très satisfait de paddle gonflable, excellent rapport qualité prix. Je recommande !"
+R00507,P0034,C05340,2025-02-27,5,"gourde au top, confortable dès la première utilisation."
+R00508,P0033,C05386,2024-04-25,5,"Parfait pour débuter, gourde fait exactement ce qu'on attend."
+R00509,P0067,C03416,2025-02-18,3,Bon produit mais la notice est peu claire.
+R00510,P0256,C01436,2024-05-11,1,Déçu par raquette padel : la couture a lâché au bout de deux semaines.
+R00511,P0101,C05872,2024-01-15,5,"J'utilise veste imperméable depuis trois mois, aucun souci, solide et léger."
+R00512,P0214,C00928,2024-08-09,5,"Très satisfait de vélo d'appartement, excellent rapport qualité prix. Je recommande !"
+R00513,P0274,C00848,2025-08-09,4,"J'utilise sac raquette depuis trois mois, aucun souci, solide et léger."
+R00514,P0071,C03119,2024-06-27,2,"Prix trop élevé pour la qualité, antivol s'est abîmé très vite."
+R00515,P0145,C00262,2024-01-30,2,"maillot de bain taille beaucoup trop petit, retour obligatoire. Dommage."
+R00516,P0248,C00848,2025-06-13,3,balles tennis sympa mais la couleur est différente de la photo.
+R00517,P0058,C06121,2025-03-30,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00518,P0195,C01403,2024-01-17,5,"Parfait pour débuter, tapis de yoga fait exactement ce qu'on attend."
+R00519,P0029,C03257,2025-06-28,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00520,P0261,C02544,2025-05-18,4,"J'utilise raquette badminton depuis trois mois, aucun souci, solide et léger."
+R00521,P0107,C01925,2025-04-09,5,"bâtons de marche au top, confortable dès la première utilisation."
+R00522,P0090,C04248,2025-09-13,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00523,P0014,C02851,2025-02-24,3,Conforme à la description. Rien à signaler de particulier.
+R00524,P0194,C00122,2024-12-28,1,"tapis de yoga taille beaucoup trop petit, retour obligatoire. Dommage."
+R00525,P0200,C06969,2024-01-19,1,"tapis de yoga taille beaucoup trop petit, retour obligatoire. Dommage."
+R00526,P0156,C04342,2025-06-07,4,"Très satisfait de ballon football, excellent rapport qualité prix. Je recommande !"
+R00527,P0179,C07521,2024-12-05,5,"J'utilise maillot équipe depuis trois mois, aucun souci, solide et léger."
+R00528,P0150,C06425,2024-09-30,4,"Parfait pour débuter, paddle gonflable fait exactement ce qu'on attend."
+R00529,P0071,C01342,2024-09-09,1,Déçu par antivol : la couture a lâché au bout de deux semaines.
+R00530,P0171,C02486,2025-02-24,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00531,P0145,C05587,2024-12-15,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00532,P0059,C02945,2024-09-04,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00533,P0059,C06647,2025-10-16,5,"Parfait pour débuter, cuissard fait exactement ce qu'on attend."
+R00534,P0142,C05865,2024-12-31,3,Conforme à la description. Rien à signaler de particulier.
+R00535,P0106,C01140,2024-01-21,3,Bon produit mais la notice est peu claire.
+R00536,P0153,C01191,2025-02-06,2,Déçu par paddle gonflable : la couture a lâché au bout de deux semaines.
+R00537,P0238,C06021,2024-07-25,5,"J'utilise brassière sport depuis trois mois, aucun souci, solide et léger."
+R00538,P0173,C00704,2024-05-25,4,"Parfait pour débuter, ballon basket fait exactement ce qu'on attend."
+R00539,P0054,C02920,2024-01-26,1,"casque vélo taille beaucoup trop petit, retour obligatoire. Dommage."
+R00540,P0260,C07351,2024-08-18,5,"raquette padel au top, confortable dès la première utilisation."
+R00541,P0069,C05620,2025-10-03,3,"antivol correct sans plus, fait le travail."
+R00542,P0073,C02937,2024-07-22,5,"Très satisfait de antivol, excellent rapport qualité prix. Je recommande !"
+R00543,P0092,C06178,2025-12-12,3,"sac à dos 30l correct sans plus, fait le travail."
+R00544,P0228,C05392,2024-07-23,5,"Très satisfait de élastiques, excellent rapport qualité prix. Je recommande !"
+R00545,P0160,C00837,2025-07-19,4,"ballon football au top, confortable dès la première utilisation."
+R00546,P0039,C06362,2024-02-06,5,"Très satisfait de vélo route, excellent rapport qualité prix. Je recommande !"
+R00547,P0219,C03792,2025-09-12,3,Bon produit mais la notice est peu claire.
+R00548,P0080,C02486,2024-05-04,1,Déçu par chaussures randonnée : la couture a lâché au bout de deux semaines.
+R00549,P0219,C03133,2024-10-15,3,"vélo d'appartement correct sans plus, fait le travail."
+R00550,P0161,C04092,2025-08-10,3,ballon football sympa mais la couleur est différente de la photo.
+R00551,P0051,C03858,2025-10-19,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00552,P0037,C00399,2025-02-18,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00553,P0266,C05820,2024-09-17,3,Bon produit mais la notice est peu claire.
+R00554,P0009,C01768,2024-04-26,5,"t-shirt respirant au top, confortable dès la première utilisation."
+R00555,P0009,C03934,2024-10-07,2,Déçu par t-shirt respirant : la couture a lâché au bout de deux semaines.
+R00556,P0016,C05459,2024-11-16,3,Bon produit mais la notice est peu claire.
+R00557,P0225,C07160,2024-10-26,3,Bon produit mais la notice est peu claire.
+R00558,P0187,C04243,2024-12-07,3,Bon produit mais la notice est peu claire.
+R00559,P0168,C00529,2025-05-03,5,"chaussures foot au top, confortable dès la première utilisation."
+R00560,P0142,C00660,2024-12-16,5,"J'utilise masque tuba depuis trois mois, aucun souci, solide et léger."
+R00561,P0252,C05627,2025-11-14,3,balles tennis sympa mais la couleur est différente de la photo.
+R00562,P0200,C05960,2025-09-23,5,"Très satisfait de tapis de yoga, excellent rapport qualité prix. Je recommande !"
+R00563,P0264,C00672,2025-01-25,1,"Prix trop élevé pour la qualité, raquette badminton s'est abîmé très vite."
+R00564,P0197,C00075,2024-04-08,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00565,P0002,C02726,2025-04-10,5,"Parfait pour débuter, chaussures running fait exactement ce qu'on attend."
+R00566,P0091,C00799,2024-11-25,4,"Très satisfait de sac à dos 30l, excellent rapport qualité prix. Je recommande !"
+R00567,P0104,C07703,2024-03-07,2,"Prix trop élevé pour la qualité, bâtons de marche s'est abîmé très vite."
+R00568,P0237,C03040,2025-12-10,5,"Très satisfait de brassière sport, excellent rapport qualité prix. Je recommande !"
+R00569,P0159,C00500,2025-09-06,5,"ballon football au top, confortable dès la première utilisation."
+R00570,P0126,C05090,2024-09-04,4,"Très satisfait de combinaison néoprène, excellent rapport qualité prix. Je recommande !"
+R00571,P0024,C05918,2024-12-09,4,"Parfait pour débuter, montre gps fait exactement ce qu'on attend."
+R00572,P0172,C01889,2024-08-05,4,"J'utilise ballon basket depuis trois mois, aucun souci, solide et léger."
+R00573,P0062,C05636,2024-06-20,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00574,P0034,C03738,2025-06-09,4,"gourde au top, confortable dès la première utilisation."
+R00575,P0196,C05013,2025-12-15,5,"J'utilise tapis de yoga depuis trois mois, aucun souci, solide et léger."
+R00576,P0023,C04963,2024-05-07,2,Déçu par montre gps : la couture a lâché au bout de deux semaines.
+R00577,P0155,C07714,2025-08-26,3,paddle gonflable sympa mais la couleur est différente de la photo.
+R00578,P0053,C06670,2024-04-20,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00579,P0088,C05143,2025-06-06,5,"J'utilise sac à dos 30l depuis trois mois, aucun souci, solide et léger."
+R00580,P0040,C02373,2025-09-01,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00581,P0118,C07218,2025-11-07,3,Conforme à la description. Rien à signaler de particulier.
+R00582,P0105,C05881,2024-10-10,5,"Parfait pour débuter, bâtons de marche fait exactement ce qu'on attend."
+R00583,P0223,C05878,2024-01-19,4,"élastiques au top, confortable dès la première utilisation."
+R00584,P0193,C04867,2025-12-07,5,"J'utilise protège-tibias depuis trois mois, aucun souci, solide et léger."
+R00585,P0028,C05050,2024-07-15,5,"J'utilise montre gps depuis trois mois, aucun souci, solide et léger."
+R00586,P0031,C01558,2025-05-30,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00587,P0031,C03346,2024-04-05,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00588,P0199,C05973,2025-10-12,4,"Très satisfait de tapis de yoga, excellent rapport qualité prix. Je recommande !"
+R00589,P0270,C06746,2024-09-15,1,"Prix trop élevé pour la qualité, sac raquette s'est abîmé très vite."
+R00590,P0144,C01558,2025-07-20,3,maillot de bain sympa mais la couleur est différente de la photo.
+R00591,P0019,C07676,2025-04-22,3,short running sympa mais la couleur est différente de la photo.
+R00592,P0093,C04549,2024-07-22,4,"veste imperméable au top, confortable dès la première utilisation."
+R00593,P0185,C07995,2025-09-05,2,Déçu par protège-tibias : la couture a lâché au bout de deux semaines.
+R00594,P0261,C07859,2025-11-14,5,"Très satisfait de raquette badminton, excellent rapport qualité prix. Je recommande !"
+R00595,P0199,C04909,2025-11-29,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00596,P0215,C04822,2024-07-10,3,vélo d'appartement sympa mais la couleur est différente de la photo.
+R00597,P0168,C00695,2024-10-12,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00598,P0215,C02148,2025-11-02,4,"vélo d'appartement au top, confortable dès la première utilisation."
+R00599,P0179,C00625,2024-11-22,3,Bon produit mais la notice est peu claire.
+R00600,P0268,C00672,2024-07-13,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00601,P0040,C00393,2025-07-23,4,"vélo route au top, confortable dès la première utilisation."
+R00602,P0255,C05647,2024-04-10,4,"Très satisfait de raquette padel, excellent rapport qualité prix. Je recommande !"
+R00603,P0159,C02547,2025-10-13,2,"ballon football taille beaucoup trop petit, retour obligatoire. Dommage."
+R00604,P0171,C05188,2025-02-05,5,"J'utilise ballon basket depuis trois mois, aucun souci, solide et léger."
+R00605,P0227,C03121,2025-05-25,4,"J'utilise élastiques depuis trois mois, aucun souci, solide et léger."
+R00606,P0168,C07323,2025-08-30,3,chaussures foot sympa mais la couleur est différente de la photo.
+R00607,P0183,C04770,2024-10-22,2,"maillot équipe taille beaucoup trop petit, retour obligatoire. Dommage."
+R00608,P0267,C02565,2024-10-04,3,sac raquette sympa mais la couleur est différente de la photo.
+R00609,P0187,C03513,2025-10-12,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00610,P0237,C06088,2024-01-27,2,Déçu par brassière sport : la couture a lâché au bout de deux semaines.
+R00611,P0094,C03985,2024-01-23,4,"Parfait pour débuter, veste imperméable fait exactement ce qu'on attend."
+R00612,P0127,C03565,2024-05-22,5,"J'utilise combinaison néoprène depuis trois mois, aucun souci, solide et léger."
+R00613,P0081,C00745,2025-05-01,5,"J'utilise chaussures randonnée depuis trois mois, aucun souci, solide et léger."
+R00614,P0259,C02438,2025-10-04,4,"J'utilise raquette padel depuis trois mois, aucun souci, solide et léger."
+R00615,P0034,C04143,2025-05-30,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00616,P0141,C05466,2024-06-11,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00617,P0088,C04063,2024-10-14,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00618,P0049,C05512,2025-03-24,2,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00619,P0245,C06332,2024-10-01,1,"Prix trop élevé pour la qualité, raquette tennis s'est abîmé très vite."
+R00620,P0106,C00085,2024-05-05,3,Bon produit mais la notice est peu claire.
+R00621,P0096,C06536,2025-01-13,3,Conforme à la description. Rien à signaler de particulier.
+R00622,P0161,C03554,2025-03-29,3,Bon produit mais la notice est peu claire.
+R00623,P0108,C02099,2025-06-21,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00624,P0001,C07921,2024-07-10,3,chaussures running sympa mais la couleur est différente de la photo.
+R00625,P0005,C00903,2025-12-23,1,"Prix trop élevé pour la qualité, chaussures running s'est abîmé très vite."
+R00626,P0228,C07303,2024-12-17,3,Bon produit mais la notice est peu claire.
+R00627,P0007,C05031,2024-04-18,3,Bon produit mais la notice est peu claire.
+R00628,P0258,C05342,2024-01-12,2,"Prix trop élevé pour la qualité, raquette padel s'est abîmé très vite."
+R00629,P0154,C00017,2024-05-02,4,"Très satisfait de paddle gonflable, excellent rapport qualité prix. Je recommande !"
+R00630,P0164,C00595,2024-08-05,3,"chaussures foot correct sans plus, fait le travail."
+R00631,P0072,C07018,2025-11-08,5,"Très satisfait de antivol, excellent rapport qualité prix. Je recommande !"
+R00632,P0081,C03603,2024-08-30,3,Conforme à la description. Rien à signaler de particulier.
+R00633,P0062,C04977,2024-04-08,3,Conforme à la description. Rien à signaler de particulier.
+R00634,P0159,C03367,2025-05-18,3,Bon produit mais la notice est peu claire.
+R00635,P0147,C05047,2024-07-15,3,"maillot de bain correct sans plus, fait le travail."
+R00636,P0272,C06117,2025-07-14,5,"J'utilise sac raquette depuis trois mois, aucun souci, solide et léger."
+R00637,P0244,C01429,2024-09-09,3,"raquette tennis correct sans plus, fait le travail."
+R00638,P0019,C03675,2025-08-17,5,"short running au top, confortable dès la première utilisation."
+R00639,P0244,C03322,2024-02-03,3,Conforme à la description. Rien à signaler de particulier.
+R00640,P0033,C04412,2025-07-13,3,"gourde correct sans plus, fait le travail."
+R00641,P0203,C02177,2025-12-27,4,"Parfait pour débuter, tapis de yoga fait exactement ce qu'on attend."
+R00642,P0059,C03218,2025-01-01,4,"Très satisfait de cuissard, excellent rapport qualité prix. Je recommande !"
+R00643,P0104,C05381,2025-08-02,4,"J'utilise bâtons de marche depuis trois mois, aucun souci, solide et léger."
+R00644,P0046,C05014,2025-07-01,5,"J'utilise vtt depuis trois mois, aucun souci, solide et léger."
+R00645,P0247,C00535,2024-12-29,1,"Prix trop élevé pour la qualité, balles tennis s'est abîmé très vite."
+R00646,P0092,C07583,2024-12-13,3,sac à dos 30l sympa mais la couleur est différente de la photo.
+R00647,P0168,C03291,2025-12-02,5,"Très satisfait de chaussures foot, excellent rapport qualité prix. Je recommande !"
+R00648,P0131,C07746,2024-10-13,3,Conforme à la description. Rien à signaler de particulier.
+R00649,P0083,C04148,2025-04-25,4,"Parfait pour débuter, sac à dos 30l fait exactement ce qu'on attend."
+R00650,P0184,C00352,2025-02-13,3,Conforme à la description. Rien à signaler de particulier.
+R00651,P0074,C03839,2024-05-24,1,"Prix trop élevé pour la qualité, antivol s'est abîmé très vite."
+R00652,P0165,C01971,2024-10-05,1,"Prix trop élevé pour la qualité, chaussures foot s'est abîmé très vite."
+R00653,P0151,C03939,2024-04-08,5,"Parfait pour débuter, paddle gonflable fait exactement ce qu'on attend."
+R00654,P0195,C02573,2024-06-26,4,"J'utilise tapis de yoga depuis trois mois, aucun souci, solide et léger."
+R00655,P0002,C03794,2025-03-13,5,"J'utilise chaussures running depuis trois mois, aucun souci, solide et léger."
+R00656,P0088,C00220,2025-04-15,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00657,P0259,C02661,2025-06-04,5,"J'utilise raquette padel depuis trois mois, aucun souci, solide et léger."
+R00658,P0207,C02628,2024-11-25,5,"J'utilise haltères depuis trois mois, aucun souci, solide et léger."
+R00659,P0057,C02510,2025-11-29,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00660,P0198,C04797,2025-06-23,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00661,P0130,C00133,2025-03-21,4,"planche de surf au top, confortable dès la première utilisation."
+R00662,P0268,C07080,2025-10-02,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00663,P0148,C01525,2024-12-03,3,Conforme à la description. Rien à signaler de particulier.
+R00664,P0109,C07738,2025-12-01,1,Déçu par ski alpin : la couture a lâché au bout de deux semaines.
+R00665,P0105,C00991,2025-03-08,5,"J'utilise bâtons de marche depuis trois mois, aucun souci, solide et léger."
+R00666,P0125,C00976,2025-12-12,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00667,P0270,C00609,2024-04-19,5,"sac raquette au top, confortable dès la première utilisation."
+R00668,P0048,C05684,2025-10-08,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00669,P0086,C05931,2024-01-23,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00670,P0157,C01541,2024-09-09,5,"J'utilise ballon football depuis trois mois, aucun souci, solide et léger."
+R00671,P0145,C06674,2024-08-26,4,"J'utilise maillot de bain depuis trois mois, aucun souci, solide et léger."
+R00672,P0017,C06441,2024-03-02,4,"J'utilise short running depuis trois mois, aucun souci, solide et léger."
+R00673,P0253,C05540,2025-09-07,5,"Très satisfait de balles tennis, excellent rapport qualité prix. Je recommande !"
+R00674,P0226,C04404,2024-08-16,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00675,P0187,C03794,2025-12-24,3,protège-tibias sympa mais la couleur est différente de la photo.
+R00676,P0239,C05725,2025-09-07,5,"J'utilise raquette tennis depuis trois mois, aucun souci, solide et léger."
+R00677,P0252,C07296,2025-07-23,4,"Parfait pour débuter, balles tennis fait exactement ce qu'on attend."
+R00678,P0054,C02703,2025-10-23,3,"casque vélo correct sans plus, fait le travail."
+R00679,P0096,C01293,2024-07-06,4,"Très satisfait de veste imperméable, excellent rapport qualité prix. Je recommande !"
+R00680,P0017,C00439,2024-05-12,3,Conforme à la description. Rien à signaler de particulier.
+R00681,P0173,C05442,2025-07-01,3,ballon basket sympa mais la couleur est différente de la photo.
+R00682,P0269,C05518,2024-04-21,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00683,P0262,C01885,2024-05-01,3,Bon produit mais la notice est peu claire.
+R00684,P0123,C02545,2024-04-28,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00685,P0069,C04307,2024-03-28,5,"Parfait pour débuter, antivol fait exactement ce qu'on attend."
+R00686,P0126,C03918,2025-11-21,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00687,P0026,C01457,2025-09-01,5,"Parfait pour débuter, montre gps fait exactement ce qu'on attend."
+R00688,P0262,C06745,2024-07-21,3,Conforme à la description. Rien à signaler de particulier.
+R00689,P0199,C06056,2025-03-22,1,"Prix trop élevé pour la qualité, tapis de yoga s'est abîmé très vite."
+R00690,P0051,C03862,2025-09-29,5,"Très satisfait de casque vélo, excellent rapport qualité prix. Je recommande !"
+R00691,P0269,C04879,2024-09-18,4,"Très satisfait de sac raquette, excellent rapport qualité prix. Je recommande !"
+R00692,P0052,C04981,2025-05-06,4,"casque vélo au top, confortable dès la première utilisation."
+R00693,P0239,C07353,2024-10-08,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00694,P0117,C01205,2025-03-10,1,"ski alpin taille beaucoup trop petit, retour obligatoire. Dommage."
+R00695,P0210,C04120,2024-03-24,3,Bon produit mais la notice est peu claire.
+R00696,P0041,C02167,2024-05-20,4,"vélo route au top, confortable dès la première utilisation."
+R00697,P0252,C03568,2025-04-27,5,"balles tennis au top, confortable dès la première utilisation."
+R00698,P0078,C02717,2024-02-08,2,"chaussures randonnée taille beaucoup trop petit, retour obligatoire. Dommage."
+R00699,P0072,C06440,2025-03-26,5,"antivol au top, confortable dès la première utilisation."
+R00700,P0128,C00887,2024-05-13,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00701,P0190,C04985,2024-05-01,4,"protège-tibias au top, confortable dès la première utilisation."
+R00702,P0020,C01171,2025-03-31,3,Bon produit mais la notice est peu claire.
+R00703,P0147,C06148,2024-04-14,4,"maillot de bain au top, confortable dès la première utilisation."
+R00704,P0253,C04655,2025-01-26,2,"balles tennis taille beaucoup trop petit, retour obligatoire. Dommage."
+R00705,P0138,C07836,2025-03-11,3,"masque tuba correct sans plus, fait le travail."
+R00706,P0118,C06253,2025-10-13,4,"Très satisfait de combinaison néoprène, excellent rapport qualité prix. Je recommande !"
+R00707,P0031,C01630,2024-12-28,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00708,P0101,C01841,2025-09-09,4,"Parfait pour débuter, veste imperméable fait exactement ce qu'on attend."
+R00709,P0160,C06417,2024-10-28,4,"J'utilise ballon football depuis trois mois, aucun souci, solide et léger."
+R00710,P0210,C04887,2025-05-14,4,"haltères au top, confortable dès la première utilisation."
+R00711,P0017,C03957,2024-05-12,5,"Parfait pour débuter, short running fait exactement ce qu'on attend."
+R00712,P0083,C06624,2024-07-18,1,"sac à dos 30l taille beaucoup trop petit, retour obligatoire. Dommage."
+R00713,P0119,C00821,2024-09-10,3,Bon produit mais la notice est peu claire.
+R00714,P0250,C00223,2024-02-11,2,Déçu par balles tennis : la couture a lâché au bout de deux semaines.
+R00715,P0197,C05909,2025-10-30,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00716,P0146,C04715,2024-11-28,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00717,P0088,C05116,2025-02-02,3,Conforme à la description. Rien à signaler de particulier.
+R00718,P0164,C06798,2025-12-27,4,"Très satisfait de chaussures foot, excellent rapport qualité prix. Je recommande !"
+R00719,P0025,C03246,2025-07-14,4,"J'utilise montre gps depuis trois mois, aucun souci, solide et léger."
+R00720,P0264,C00530,2024-11-13,3,"raquette badminton correct sans plus, fait le travail."
+R00721,P0012,C05085,2024-10-31,5,"J'utilise t-shirt respirant depuis trois mois, aucun souci, solide et léger."
+R00722,P0058,C05771,2025-08-25,4,"Très satisfait de cuissard, excellent rapport qualité prix. Je recommande !"
+R00723,P0225,C02279,2025-08-27,4,"élastiques au top, confortable dès la première utilisation."
+R00724,P0217,C01451,2025-02-28,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00725,P0154,C04251,2024-06-23,5,"J'utilise paddle gonflable depuis trois mois, aucun souci, solide et léger."
+R00726,P0164,C04623,2025-02-07,5,"Très satisfait de chaussures foot, excellent rapport qualité prix. Je recommande !"
+R00727,P0068,C04295,2025-11-10,3,"antivol correct sans plus, fait le travail."
+R00728,P0022,C06365,2025-08-25,1,"Prix trop élevé pour la qualité, montre gps s'est abîmé très vite."
+R00729,P0178,C05043,2024-08-04,5,"Très satisfait de ballon basket, excellent rapport qualité prix. Je recommande !"
+R00730,P0033,C07427,2025-12-18,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00731,P0004,C06935,2025-01-24,4,"J'utilise chaussures running depuis trois mois, aucun souci, solide et léger."
+R00732,P0048,C02122,2024-03-27,2,"Prix trop élevé pour la qualité, vtt s'est abîmé très vite."
+R00733,P0019,C07465,2024-09-29,5,"Parfait pour débuter, short running fait exactement ce qu'on attend."
+R00734,P0072,C07993,2024-02-18,3,Bon produit mais la notice est peu claire.
+R00735,P0145,C02089,2024-02-03,4,"J'utilise maillot de bain depuis trois mois, aucun souci, solide et léger."
+R00736,P0102,C06418,2024-12-14,3,bâtons de marche sympa mais la couleur est différente de la photo.
+R00737,P0056,C07097,2025-10-23,4,"J'utilise casque vélo depuis trois mois, aucun souci, solide et léger."
+R00738,P0127,C02567,2025-11-07,2,"Prix trop élevé pour la qualité, combinaison néoprène s'est abîmé très vite."
+R00739,P0019,C07493,2024-08-26,4,"Parfait pour débuter, short running fait exactement ce qu'on attend."
+R00740,P0023,C02368,2025-02-20,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00741,P0095,C05085,2024-08-12,1,"Prix trop élevé pour la qualité, veste imperméable s'est abîmé très vite."
+R00742,P0102,C01859,2024-11-18,4,"Très satisfait de bâtons de marche, excellent rapport qualité prix. Je recommande !"
+R00743,P0136,C01007,2025-06-08,4,"Parfait pour débuter, planche de surf fait exactement ce qu'on attend."
+R00744,P0022,C03513,2025-11-03,3,montre gps sympa mais la couleur est différente de la photo.
+R00745,P0198,C06562,2025-03-10,2,"tapis de yoga taille beaucoup trop petit, retour obligatoire. Dommage."
+R00746,P0078,C06071,2024-06-25,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00747,P0223,C02996,2025-04-10,4,"élastiques au top, confortable dès la première utilisation."
+R00748,P0257,C00688,2025-10-02,4,"J'utilise raquette padel depuis trois mois, aucun souci, solide et léger."
+R00749,P0144,C01278,2024-10-11,3,"maillot de bain correct sans plus, fait le travail."
+R00750,P0210,C04794,2024-11-05,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00751,P0252,C07469,2024-11-13,4,"J'utilise balles tennis depuis trois mois, aucun souci, solide et léger."
+R00752,P0049,C01050,2025-07-26,5,"Très satisfait de casque vélo, excellent rapport qualité prix. Je recommande !"
+R00753,P0119,C00243,2024-09-03,5,"Très satisfait de combinaison néoprène, excellent rapport qualité prix. Je recommande !"
+R00754,P0234,C03062,2024-10-08,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00755,P0038,C03845,2025-12-23,4,"J'utilise vélo route depuis trois mois, aucun souci, solide et léger."
+R00756,P0181,C03160,2024-11-10,5,"J'utilise maillot équipe depuis trois mois, aucun souci, solide et léger."
+R00757,P0176,C07854,2025-11-23,5,"Très satisfait de ballon basket, excellent rapport qualité prix. Je recommande !"
+R00758,P0259,C06008,2024-10-19,4,"J'utilise raquette padel depuis trois mois, aucun souci, solide et léger."
+R00759,P0219,C06749,2024-03-22,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00760,P0084,C07341,2024-04-09,2,"Prix trop élevé pour la qualité, sac à dos 30l s'est abîmé très vite."
+R00761,P0117,C07879,2024-12-15,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00762,P0148,C04846,2025-09-03,5,"J'utilise maillot de bain depuis trois mois, aucun souci, solide et léger."
+R00763,P0189,C02230,2025-10-21,4,"Très satisfait de protège-tibias, excellent rapport qualité prix. Je recommande !"
+R00764,P0143,C02060,2024-09-14,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00765,P0026,C04583,2025-07-02,5,"J'utilise montre gps depuis trois mois, aucun souci, solide et léger."
+R00766,P0239,C02187,2025-04-06,5,"Parfait pour débuter, raquette tennis fait exactement ce qu'on attend."
+R00767,P0233,C02821,2024-05-15,4,"Parfait pour débuter, brassière sport fait exactement ce qu'on attend."
+R00768,P0074,C05676,2024-03-12,4,"Parfait pour débuter, antivol fait exactement ce qu'on attend."
+R00769,P0111,C02426,2025-05-30,4,"Parfait pour débuter, ski alpin fait exactement ce qu'on attend."
+R00770,P0142,C03283,2025-01-30,1,"masque tuba taille beaucoup trop petit, retour obligatoire. Dommage."
+R00771,P0036,C02126,2024-07-15,5,"Très satisfait de vélo route, excellent rapport qualité prix. Je recommande !"
+R00772,P0085,C00819,2024-05-31,3,sac à dos 30l sympa mais la couleur est différente de la photo.
+R00773,P0272,C02792,2024-04-05,4,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00774,P0222,C06392,2024-09-28,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00775,P0062,C01797,2025-10-16,3,"cuissard correct sans plus, fait le travail."
+R00776,P0201,C04561,2024-12-29,4,"tapis de yoga au top, confortable dès la première utilisation."
+R00777,P0249,C00294,2024-04-12,1,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
+R00778,P0262,C05141,2024-08-24,4,"Très satisfait de raquette badminton, excellent rapport qualité prix. Je recommande !"
+R00779,P0204,C02948,2024-12-04,5,"haltères au top, confortable dès la première utilisation."
+R00780,P0012,C03393,2024-09-16,2,"Prix trop élevé pour la qualité, t-shirt respirant s'est abîmé très vite."
+R00781,P0147,C07000,2024-04-16,4,"J'utilise maillot de bain depuis trois mois, aucun souci, solide et léger."
+R00782,P0074,C02641,2024-12-28,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00783,P0030,C01930,2024-04-18,3,"gourde correct sans plus, fait le travail."
+R00784,P0091,C07056,2024-01-04,4,"J'utilise sac à dos 30l depuis trois mois, aucun souci, solide et léger."
+R00785,P0033,C06774,2025-02-23,3,Conforme à la description. Rien à signaler de particulier.
+R00786,P0224,C06614,2025-03-29,5,"Parfait pour débuter, élastiques fait exactement ce qu'on attend."
+R00787,P0166,C01101,2024-10-14,4,"Parfait pour débuter, chaussures foot fait exactement ce qu'on attend."
+R00788,P0061,C00443,2024-11-03,5,"Parfait pour débuter, cuissard fait exactement ce qu'on attend."
+R00789,P0263,C01487,2024-04-05,4,"Parfait pour débuter, raquette badminton fait exactement ce qu'on attend."
+R00790,P0200,C05332,2024-03-14,4,"Très satisfait de tapis de yoga, excellent rapport qualité prix. Je recommande !"
+R00791,P0178,C01644,2024-10-21,1,"Prix trop élevé pour la qualité, ballon basket s'est abîmé très vite."
+R00792,P0207,C05087,2024-12-23,3,Bon produit mais la notice est peu claire.
+R00793,P0153,C02151,2024-09-24,1,"Livraison avec 10 jours de retard et aucun suivi, service client injoignable."
+R00794,P0269,C06402,2024-12-21,5,"Parfait pour débuter, sac raquette fait exactement ce qu'on attend."
+R00795,P0215,C03489,2024-08-10,3,vélo d'appartement sympa mais la couleur est différente de la photo.
+R00796,P0036,C00343,2024-10-21,5,"Très satisfait de vélo route, excellent rapport qualité prix. Je recommande !"
+R00797,P0027,C06150,2024-12-17,3,Bon produit mais la notice est peu claire.
+R00798,P0058,C03361,2024-10-06,5,"Super produit, livré rapidement. Le vendeur en magasin m'a très bien conseillé."
+R00799,P0050,C01690,2024-09-12,3,"casque vélo correct sans plus, fait le travail."
+R00800,P0255,C01055,2025-08-30,2,"Produit reçu incomplet, il manquait des pièces. Très mauvaise expérience."
